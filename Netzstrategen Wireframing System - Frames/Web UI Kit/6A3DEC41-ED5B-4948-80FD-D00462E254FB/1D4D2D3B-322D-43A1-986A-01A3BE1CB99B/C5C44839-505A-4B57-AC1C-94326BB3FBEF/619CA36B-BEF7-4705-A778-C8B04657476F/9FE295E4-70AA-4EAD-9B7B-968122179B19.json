@@ -1,0 +1,56 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGa2xYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QIAcIDxAgISIjJCUmJyszNDU2Nz5CTVFdXl9gYWJjZGVnVSRudWxs0wkKCwwNDlhOU1N0cmluZ1YkY2xhc3NcTlNBdHRyaWJ1dGVzgAKAH4ADXxAVVmlzdWFsIEJyYW5kIERpcmVjdG9y0xESChMZH1dOUy5rZXlzWk5TLm9iamVjdHOlFBUWFxiABIAFgAaAB4AIpRobHB0egAmACoALgBOAFYAeXxAoTVNBdHRyaWJ1dGVkU3RyaW5nVGV4dFRyYW5zZm9ybUF0dHJpYnV0ZVZOU0tlcm5fEB9NU0F0dHJpYnV0ZWRTdHJpbmdGb250QXR0cmlidXRlXxAQTlNQYXJhZ3JhcGhTdHlsZV8QKk1TQXR0cmlidXRlZFN0cmluZ0NvbG9yRGljdGlvbmFyeUF0dHJpYnV0ZRAAIz+3RdHxTuI70gooKSpfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4ASgAzTERIKLC8yoi0ugA2ADqIwMYAPgBCAEV8QE05TRm9udFNpemVBdHRyaWJ1dGVfEBNOU0ZvbnROYW1lQXR0cmlidXRlEBReUm9ib3RvLVJlZ3VsYXLSODk6O1okY2xhc3NuYW1lWCRjbGFzc2VzXxATTlNNdXRhYmxlRGljdGlvbmFyeaM6PD1cTlNEaWN0aW9uYXJ5WE5TT2JqZWN00jg5P0BfEBBOU0ZvbnREZXNjcmlwdG9yokE9XxAQTlNGb250RGVzY3JpcHRvctZDREUKRkdISUpLTEpbTlNBbGlnbm1lbnRaTlNUYWJTdG9wc18QD05TTWluTGluZUhlaWdodF8QH05TQWxsb3dzVGlnaHRlbmluZ0ZvclRydW5jYXRpb25fEA9OU01heExpbmVIZWlnaHQQAoAAI0A9AAAAAAAAgBQQAdI4OU5PXxAXTlNNdXRhYmxlUGFyYWdyYXBoU3R5bGWjTlA9XxAQTlNQYXJhZ3JhcGhTdHlsZdMREgpSVx+kU1RVVoAWgBeAGIAZpFhZWluAGoAbgByAHYAeU3JlZFVhbHBoYVRibHVlVWdyZWVuIz/d3d3d5wd+Iz/wAAAAAAAAIz/jc3NzeaYyIz/h8fHx7nEX0jg5PGaiPD3SODloaV8QEk5TQXR0cmlidXRlZFN0cmluZ6JqPV8QEk5TQXR0cmlidXRlZFN0cmluZ18QD05TS2V5ZWRBcmNoaXZlctFtblRyb290gAEACAARABoAIwAtADIANwBaAGAAZwBwAHcAhACGAIgAigCiAKkAsQC8AMIAxADGAMgAygDMANIA1ADWANgA2gDcAN4BCQEQATIBRQFyAXQBfQGCAZ8BoQGjAaoBrQGvAbEBtAG2AbgBugHQAeYB6AH3AfwCBwIQAiYCKgI3AkACRQJYAlsCbgJ7AocCkgKkAsYC2ALaAtwC5QLnAukC7gMIAwwDHwMmAysDLQMvAzEDMwM4AzoDPAM+A0ADQgNGA0wDUQNXA2ADaQNyA3sDgAODA4gDnQOgA7UDxwPKA88AAAAAAAACAQAAAAAAAABvAAAAAAAAAAAAAAAAAAAD0Q=="
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "9FE295E4-70AA-4EAD-9B7B-968122179B19",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 29,
+    "width": 189,
+    "x": 50,
+    "y": 342
+  },
+  "glyphBounds": "{{0, 6}, {189, 16}}",
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Visual Brand Directo",
+  "nameIsFixed": false,
+  "resizingConstraint": 15,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "09891581-0E50-4E42-942A-0563D95C0F00"
+  },
+  "textBehaviour": 0,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "isAutoWidth": 0
+      }
+    },
+    "com.sketchapp.slinky-plugin": {
+      "hrefURL": ""
+    }
+  }
+}

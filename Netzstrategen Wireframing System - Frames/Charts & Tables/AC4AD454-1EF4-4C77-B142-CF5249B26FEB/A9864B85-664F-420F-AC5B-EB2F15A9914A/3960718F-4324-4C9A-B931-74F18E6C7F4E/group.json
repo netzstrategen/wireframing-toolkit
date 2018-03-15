@@ -1,0 +1,59 @@
+{
+  "_class": "group",
+  "do_objectID": "3960718F-4324-4C9A-B931-74F18E6C7F4E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 585,
+    "width": 585,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "2487F427-E206-4C03-A921-1A26FBAFB15A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "98E962F6-ABF4-4CCC-BF4C-D379F6AEEE2B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "64AB341D-DBCC-4553-B0EF-1A30F0516E7F"
+    }
+  ],
+  "name": "Pies",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

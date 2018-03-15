@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "03012C1F-A7F0-45E3-920B-F32E936E1320",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 163,
+    "width": 220,
+    "x": 180,
+    "y": 60
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "C901BCF9-13C7-414F-A4A6-FA0F88606467"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E9BEC92B-0D99-475F-9ADF-04130A90121F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "99E7F7CC-8CDB-40F4-8289-62A202CC7449"
+    }
+  ],
+  "name": "Newsletter",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGdndYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QIQcIDxAeHyAhIjI1PD9DR09QUVJTV1tnaGlqa2xtbm9xclUkbnVsbNMJCgsMDQ5YTlNTdHJpbmdWJGNsYXNzXE5TQXR0cmlidXRlc4ACgCCAA1ZZYW5kZXjTERIKExgdV05TLmtleXNaTlMub2JqZWN0c6QUFRYXgASABYAGgAekGRobHIAIgA2AFYAfgB5fEBBOU1BhcmFncmFwaFN0eWxlXxAfTVNBdHRyaWJ1dGVkU3RyaW5nRm9udEF0dHJpYnV0ZV8QKk1TQXR0cmlidXRlZFN0cmluZ0NvbG9yRGljdGlvbmFyeUF0dHJpYnV0ZVZOU0tlcm7ZCiMkJSYnKCkqKywtLi8wMTAxWk5TVGFiU3RvcHNdTlNIZWFkZXJMZXZlbFxOU1RleHRCbG9ja3NbTlNUZXh0TGlzdHNfEA9OU01heExpbmVIZWlnaHRfEB9OU0FsbG93c1RpZ2h0ZW5pbmdGb3JUcnVuY2F0aW9uXxAPTlNNaW5MaW5lSGVpZ2h0XxASTlNXcml0aW5nRGlyZWN0aW9ugAyAACNAAAAAAAAAAIAJgAsjQDgAAAAAAAAQAdISCjM0oIAK0jY3ODlaJGNsYXNzbmFtZVgkY2xhc3Nlc15OU011dGFibGVBcnJheaM4OjtXTlNBcnJheVhOU09iamVjdNISCj00oIAK0jY3QEFfEBdOU011dGFibGVQYXJhZ3JhcGhTdHlsZaNAQjtfEBBOU1BhcmFncmFwaFN0eWxl0gpERUZfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AUgA7TERIKSEtOoklKgA+AEKJMTYARgBKAE18QE05TRm9udFNpemVBdHRyaWJ1dGVfEBNOU0ZvbnROYW1lQXR0cmlidXRlEBJeUm9ib3RvLVJlZ3VsYXLSNjdUVV8QE05TTXV0YWJsZURpY3Rpb25hcnmjVFY7XE5TRGljdGlvbmFyedI2N1hZXxAQTlNGb250RGVzY3JpcHRvcqJaO18QEE5TRm9udERlc2NyaXB0b3LTERIKXGEdpF1eX2CAFoAXgBiAGaRiY2RlgBqAG4AcgB2AHlNyZWRVYWxwaGFUYmx1ZVVncmVlbiM/3d3d3ecHfiM/8AAAAAAAACM/43Nzc3mmMiM/4fHx8e5xF9I2N1ZwolY7Iz+3Cj1wo9cK0jY3c3RfEBJOU0F0dHJpYnV0ZWRTdHJpbmeidTtfEBJOU0F0dHJpYnV0ZWRTdHJpbmdfEA9OU0tleWVkQXJjaGl2ZXLReHlUcm9vdIABAAgAEQAaACMALQAyADcAWwBhAGgAcQB4AIUAhwCJAIsAkgCZAKEArACxALMAtQC3ALkAvgDAAMIAxADGAMgA2wD9ASoBMQFEAU8BXQFqAXYBiAGqAbwB0QHTAdUB3gHgAeIB6wHtAfIB8wH1AfoCBQIOAh0CIQIpAjICNwI4AjoCPwJZAl0CcAJ1ApIClAKWAp0CoAKiAqQCpwKpAqsCrQLDAtkC2wLqAu8DBQMJAxYDGwMuAzEDRANLA1ADUgNUA1YDWANdA18DYQNjA2UDZwNrA3EDdgN8A4UDjgOXA6ADpQOoA7EDtgPLA84D4wP1A/gD/QAAAAAAAAIBAAAAAAAAAHoAAAAAAAAAAAAAAAAAAAP/"
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "E32AA4BC-BE7D-4348-99D0-0429CBDE64AA",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 24,
+    "width": 60,
+    "x": 21,
+    "y": 49
+  },
+  "glyphBounds": "{{0, 4}, {59, 15}}",
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Yandex",
+  "nameIsFixed": false,
+  "resizingConstraint": 9,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "B6E8F14B-0D63-4812-887F-A31CDAF918E8"
+  },
+  "textBehaviour": 1,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "isAutoWidth": 1
+      }
+    }
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "562CF67E-1C60-479C-98E5-1E71FD20370D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 309,
+    "width": 263,
+    "x": 443,
+    "y": 237
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "948C7B23-ECC3-491C-A54E-8B516FD9CE4C"
+    },
+    {
+      "class": "group",
+      "id": "3703BE08-8614-4808-B82A-2D7D80353C38"
+    },
+    {
+      "class": "group",
+      "id": "5B72A44A-62DA-4EBA-A179-568429203DFD"
+    }
+  ],
+  "name": "Person 2",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "A1A51765-F34B-4333-8E24-67A0890398A8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 348,
+    "width": 300,
+    "x": 0,
+    "y": 77
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "F3271539-2BB5-41D5-BC78-02D223D107BF"
+    },
+    {
+      "class": "text",
+      "id": "0F5149E4-3381-4C33-B7CA-AA7EA51162D5"
+    },
+    {
+      "class": "text",
+      "id": "C2175CB6-006E-4ADE-95B3-520DCB8A6549"
+    },
+    {
+      "class": "text",
+      "id": "7FD0A8C2-3CE6-4D6C-819B-1479DEE400D0"
+    }
+  ],
+  "name": "Red",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

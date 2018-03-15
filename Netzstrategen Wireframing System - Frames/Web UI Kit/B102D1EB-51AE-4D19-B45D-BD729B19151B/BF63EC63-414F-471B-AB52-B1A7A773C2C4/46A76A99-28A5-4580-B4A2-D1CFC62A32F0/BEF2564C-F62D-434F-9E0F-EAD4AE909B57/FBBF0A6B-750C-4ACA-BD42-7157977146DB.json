@@ -1,0 +1,54 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "FBBF0A6B-750C-4ACA-BD42-7157977146DB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 24,
+    "width": 24,
+    "x": 292,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Icon / Chevron / Right",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "ED2C9E20-E171-4A18-9F27-542C156AEC53_symbolID",
+      "value": "B0C77062-B2A7-49FE-BBF3-80B775914D34"
+    }
+  ],
+  "overrides": {
+    "ED2C9E20-E171-4A18-9F27-542C156AEC53": {
+      "symbolID": "B0C77062-B2A7-49FE-BBF3-80B775914D34"
+    }
+  },
+  "resizingConstraint": 44,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "087D97ED-6B7C-47AD-95ED-0789DB8796CA",
+  "verticalSpacing": 0
+}

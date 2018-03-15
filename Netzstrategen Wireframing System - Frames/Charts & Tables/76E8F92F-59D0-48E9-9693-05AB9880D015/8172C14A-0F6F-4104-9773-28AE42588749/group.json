@@ -1,0 +1,59 @@
+{
+  "_class": "group",
+  "do_objectID": "8172C14A-0F6F-4104-9773-28AE42588749",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 500,
+    "width": 1240,
+    "x": 100,
+    "y": 785
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "8C6E5A4B-8676-4161-8DA1-F37D9F1D213C"
+    },
+    {
+      "class": "group",
+      "id": "81E302A5-C3B8-43EB-86B8-63ED5D840664"
+    },
+    {
+      "class": "group",
+      "id": "F045634A-D022-46DD-9C49-9FA45023009A"
+    }
+  ],
+  "name": "Single Column Chart - On Dark",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

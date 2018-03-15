@@ -1,0 +1,53 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "5B6BBAF0-CF46-42D5-B971-E1D3FDA7511F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 14,
+    "width": 312,
+    "x": 0,
+    "y": 171
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Text / Button / Medium / Left / Blue ",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A301F4F7-5F6E-4D60-9B86-9B2F3DEDA7B8",
+      "overrideName": "52B02051-20F0-4229-B29B-7A1B35E47FCD_stringValue",
+      "value": "Learn more"
+    }
+  ],
+  "overrides": {
+    "52B02051-20F0-4229-B29B-7A1B35E47FCD": "Learn more"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "FBEE7AFE-E43B-47B2-B388-BD02896CB0B5",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "726CCBB5-161F-47B9-8115-5652CD0BBC76",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 177,
+    "width": 605,
+    "x": 0,
+    "y": 398
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "558B3D3D-9749-4D8C-BF26-4CCFF2A0E363"
+    },
+    {
+      "class": "text",
+      "id": "2ADC6A15-7952-4470-8FB0-E54DBD2A2B79"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5DB178EE-D01B-4B7E-A8CA-C0F10FD39A0A"
+    },
+    {
+      "class": "text",
+      "id": "72CA3B45-7C67-41D6-A54E-B80B78B0642B"
+    }
+  ],
+  "name": "H3 Muli + H5 Roboto, Indent: 15px",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

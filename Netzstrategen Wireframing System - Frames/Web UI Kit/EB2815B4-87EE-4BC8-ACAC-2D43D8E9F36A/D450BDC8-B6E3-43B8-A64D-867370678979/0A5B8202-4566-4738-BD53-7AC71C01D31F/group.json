@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "0A5B8202-4566-4738-BD53-7AC71C01D31F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 527,
+    "width": 942,
+    "x": 244.2916666666667,
+    "y": 252
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "ECE0179A-A5C3-4EA7-9280-BC34E0AC415C"
+    },
+    {
+      "class": "group",
+      "id": "9910398B-9D85-4036-9AA2-BF5786C58F5C"
+    },
+    {
+      "class": "group",
+      "id": "4355C8F4-78FF-4FE3-9F8B-F375CEED9B7F"
+    }
+  ],
+  "name": "Pricing Tables",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

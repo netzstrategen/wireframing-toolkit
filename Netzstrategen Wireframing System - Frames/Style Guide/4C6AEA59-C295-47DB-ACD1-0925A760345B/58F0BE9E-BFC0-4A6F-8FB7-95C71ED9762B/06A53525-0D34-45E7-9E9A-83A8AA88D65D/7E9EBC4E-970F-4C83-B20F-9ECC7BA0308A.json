@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "7E9EBC4E-970F-4C83-B20F-9ECC7BA0308A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 520,
+    "width": 905,
+    "x": 198,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Mockup / Device / Macbook",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "BC034FFA-51D5-41FE-AEB8-BAE8AF8000C6_symbolID",
+      "value": "D5AB6B7D-3B20-497B-85D3-2C83D951102F"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "1949141E-7BDF-4D73-B7CE-7F411931C20E/05857C83-1EFA-4558-ABE2-40F29B7EE390_symbolID",
+      "value": "397BFF9B-A028-45FD-BC37-19737415196D"
+    }
+  ],
+  "overrides": {
+    "1949141E-7BDF-4D73-B7CE-7F411931C20E": {
+      "05857C83-1EFA-4558-ABE2-40F29B7EE390": {
+        "symbolID": "397BFF9B-A028-45FD-BC37-19737415196D"
+      }
+    },
+    "BC034FFA-51D5-41FE-AEB8-BAE8AF8000C6": {
+      "symbolID": "D5AB6B7D-3B20-497B-85D3-2C83D951102F"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "832FB083-19E1-4FC5-B874-37872155D11F",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

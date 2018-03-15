@@ -1,0 +1,46 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGd3hYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QIgcIDxAeHyAhIjAzOj1AREhQUVJTVFhcaGlqa2xtbm9wcnNVJG51bGzTCQoLDA0OWE5TU3RyaW5nViRjbGFzc1xOU0F0dHJpYnV0ZXOAAoAhgANYQ29udGFjdHPTERIKExgdV05TLmtleXNaTlMub2JqZWN0c6QUFRYXgASABYAGgAekGRobHIAIgA6AFoAggB9fEBBOU1BhcmFncmFwaFN0eWxlXxAfTVNBdHRyaWJ1dGVkU3RyaW5nRm9udEF0dHJpYnV0ZV8QKk1TQXR0cmlidXRlZFN0cmluZ0NvbG9yRGljdGlvbmFyeUF0dHJpYnV0ZVZOU0tlcm7YCiMkJSYnKCkqKywtLi8vLlpOU1RhYlN0b3BzW05TVGV4dExpc3RzXE5TVGV4dEJsb2Nrc18QH05TQWxsb3dzVGlnaHRlbmluZ0ZvclRydW5jYXRpb25fEA9OU01heExpbmVIZWlnaHRfEA9OU01pbkxpbmVIZWlnaHRfEBJOU1dyaXRpbmdEaXJlY3Rpb26ADYAJgAyACxABI0A7AAAAAAAA0hIKMTKggArSNDU2N1okY2xhc3NuYW1lWCRjbGFzc2VzXk5TTXV0YWJsZUFycmF5ozY4OVdOU0FycmF5WE5TT2JqZWN00hIKOzKggArSEgo+MqCACtI0NUFCXxAXTlNNdXRhYmxlUGFyYWdyYXBoU3R5bGWjQUM5XxAQTlNQYXJhZ3JhcGhTdHlsZdIKRUZHXxAaTlNGb250RGVzY3JpcHRvckF0dHJpYnV0ZXOAFYAP0xESCklMT6JKS4AQgBGiTU6AEoATgBRfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZRAUXU11bGktU2VtaUJvbGTSNDVVVl8QE05TTXV0YWJsZURpY3Rpb25hcnmjVVc5XE5TRGljdGlvbmFyedI0NVlaXxAQTlNGb250RGVzY3JpcHRvcqJbOV8QEE5TRm9udERlc2NyaXB0b3LTERIKXWIdpF5fYGGAF4AYgBmAGqRjZGVmgBuAHIAdgB6AH1NyZWRVYWxwaGFUYmx1ZVVncmVlbiMAAAAAAAAAACM/8AAAAAAAACM/shISEg2LDiM/pBQUFAopSdI0NVdxolc5Iz+3RdHxTuI70jQ1dHVfEBJOU0F0dHJpYnV0ZWRTdHJpbmeidjlfEBJOU0F0dHJpYnV0ZWRTdHJpbmdfEA9OU0tleWVkQXJjaGl2ZXLReXpUcm9vdIABAAgAEQAaACMALQAyADcAXABiAGkAcgB5AIYAiACKAIwAlQCcAKQArwC0ALYAuAC6ALwAwQDDAMUAxwDJAMsA3gEAAS0BNAFFAVABXAFpAYsBnQGvAcQBxgHIAcoBzAHOAdcB3AHdAd8B5AHvAfgCBwILAhMCHAIhAiICJAIpAioCLAIxAksCTwJiAmcChAKGAogCjwKSApQClgKZApsCnQKfArUCywLNAtsC4AL2AvoDBwMMAx8DIgM1AzwDQQNDA0UDRwNJA04DUANSA1QDVgNYA1wDYgNnA20DdgN/A4gDkQOWA5kDogOnA7wDvwPUA+YD6QPuAAAAAAAAAgEAAAAAAAAAewAAAAAAAAAAAAAAAAAAA/A="
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "21B39089-1FC5-4043-A31F-FC2FB5CFF97F",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 27,
+    "width": 85,
+    "x": 528.0000000000035,
+    "y": 0
+  },
+  "glyphBounds": "{{0, 0}, {84, 23}}",
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Contacts",
+  "nameIsFixed": true,
+  "resizingConstraint": 45,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "EE73D23B-5484-4FEF-AC87-6330E0066AF9"
+  },
+  "textBehaviour": 0
+}

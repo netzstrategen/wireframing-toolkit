@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "6ACC6428-6124-4A49-9112-AFB41C875FD1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 44,
+    "width": 200,
+    "x": 405,
+    "y": 24
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "D5D9F438-1182-48C4-B547-40652E44FC97"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "85A4BAC8-7875-42BD-B374-E20D10C34A0C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1DC26C93-FEB6-4C61-967B-16259E9970FA"
+    }
+  ],
+  "name": "R.Icons",
+  "nameIsFixed": true,
+  "resizingConstraint": 44,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

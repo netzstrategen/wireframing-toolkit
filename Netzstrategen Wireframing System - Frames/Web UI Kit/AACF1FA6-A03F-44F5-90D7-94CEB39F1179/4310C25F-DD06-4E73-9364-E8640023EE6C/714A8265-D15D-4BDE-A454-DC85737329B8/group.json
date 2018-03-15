@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "do_objectID": "714A8265-D15D-4BDE-A454-DC85737329B8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 200,
+    "width": 360,
+    "x": 150,
+    "y": 335
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "1C380CBC-4315-4CC4-8319-9387F7116791"
+    },
+    {
+      "class": "text",
+      "id": "8921A610-5EEA-4849-A846-480054ABDC54"
+    },
+    {
+      "class": "text",
+      "id": "5C086350-29FF-4649-9B58-2D231052C6B2"
+    },
+    {
+      "class": "text",
+      "id": "F648B875-E097-471E-AB6C-C7C8FCC384FA"
+    }
+  ],
+  "name": "Testimonial 4",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

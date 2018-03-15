@@ -1,0 +1,56 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "5A50C34B-628F-43DE-9941-3068FAF65D20",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 15.72218867924568,
+    "width": 19.9963018867925,
+    "x": 2,
+    "y": 4.035924528301621
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "EB97C146-3906-491D-B0A1-5FB5FD0EBF85"
+    },
+    {
+      "class": "shapePath",
+      "id": "74A75295-E8B9-428D-AAB1-29B14F96B6C8"
+    },
+    {
+      "class": "shapePath",
+      "id": "3D43C8FE-8FCF-436C-8591-B7BAC06F916C"
+    }
+  ],
+  "name": "Cup",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "windingRule": 0
+}

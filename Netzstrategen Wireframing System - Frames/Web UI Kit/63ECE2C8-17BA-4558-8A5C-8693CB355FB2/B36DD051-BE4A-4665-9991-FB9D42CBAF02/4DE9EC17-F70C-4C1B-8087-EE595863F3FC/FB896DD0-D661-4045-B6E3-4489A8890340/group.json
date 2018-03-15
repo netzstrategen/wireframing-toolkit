@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "FB896DD0-D661-4045-B6E3-4489A8890340",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 286,
+    "width": 224.9999999999998,
+    "x": 1017,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "31A06F8F-C1ED-4EF9-B8A7-357A99F4F410"
+    },
+    {
+      "class": "group",
+      "id": "1CD2E0DE-8B85-4889-8882-2E2BD31371EC"
+    },
+    {
+      "class": "text",
+      "id": "3A7DA983-F108-4FC7-80F9-CAF911F579A1"
+    },
+    {
+      "class": "text",
+      "id": "E271B0C0-5E32-4A7C-B90A-AF16EDE3A509"
+    }
+  ],
+  "name": "Person 5",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

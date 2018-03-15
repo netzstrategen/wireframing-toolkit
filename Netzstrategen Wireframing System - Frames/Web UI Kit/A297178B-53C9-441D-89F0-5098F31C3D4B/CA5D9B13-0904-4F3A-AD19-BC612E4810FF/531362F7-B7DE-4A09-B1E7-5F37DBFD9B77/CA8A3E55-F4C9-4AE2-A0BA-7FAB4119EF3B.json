@@ -1,0 +1,61 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGdndYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QIQcIDxAeHyAhIjI1PD9DR09QUVJTV1tnaGlqa2xtbm9xclUkbnVsbNMJCgsMDQ5YTlNTdHJpbmdWJGNsYXNzXE5TQXR0cmlidXRlc4ACgCCAA18QGlB5cm9tYW5jZXIncyBQYXJ0aW5nIEZsYW1l0xESChMYHVdOUy5rZXlzWk5TLm9iamVjdHOkFBUWF4AEgAWABoAHpBkaGxyACIANgBWAH4AeXxAQTlNQYXJhZ3JhcGhTdHlsZV8QH01TQXR0cmlidXRlZFN0cmluZ0ZvbnRBdHRyaWJ1dGVfECpNU0F0dHJpYnV0ZWRTdHJpbmdDb2xvckRpY3Rpb25hcnlBdHRyaWJ1dGVWTlNLZXJu2QojJCUmJygpKissLS4vMDEwMVpOU1RhYlN0b3BzXU5TSGVhZGVyTGV2ZWxcTlNUZXh0QmxvY2tzW05TVGV4dExpc3RzXxAPTlNNYXhMaW5lSGVpZ2h0XxAfTlNBbGxvd3NUaWdodGVuaW5nRm9yVHJ1bmNhdGlvbl8QD05TTWluTGluZUhlaWdodF8QEk5TV3JpdGluZ0RpcmVjdGlvboAMgAAjQAAAAAAAAACACYALI0BCgAAAAAAAEAHSEgozNKCACtI2Nzg5WiRjbGFzc25hbWVYJGNsYXNzZXNeTlNNdXRhYmxlQXJyYXmjODo7V05TQXJyYXlYTlNPYmplY3TSEgo9NKCACtI2N0BBXxAXTlNNdXRhYmxlUGFyYWdyYXBoU3R5bGWjQEI7XxAQTlNQYXJhZ3JhcGhTdHlsZdIKREVGXxAaTlNGb250RGVzY3JpcHRvckF0dHJpYnV0ZXOAFIAO0xESCkhLTqJJSoAPgBCiTE2AEYASgBNfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZRAcXE11bGktUmVndWxhctI2N1RVXxATTlNNdXRhYmxlRGljdGlvbmFyeaNUVjtcTlNEaWN0aW9uYXJ50jY3WFlfEBBOU0ZvbnREZXNjcmlwdG9yolo7XxAQTlNGb250RGVzY3JpcHRvctMREgpcYR2kXV5fYIAWgBeAGIAZpGJjZGWAGoAbgByAHYAeU3JlZFVhbHBoYVRibHVlVWdyZWVuIwAAAAAAAAAAIz/wAAAAAAAAIz+yEhISDYsOIz+kFBQUCilJ0jY3VnCiVjsjP7mZmZmZmZrSNjdzdF8QEk5TQXR0cmlidXRlZFN0cmluZ6J1O18QEk5TQXR0cmlidXRlZFN0cmluZ18QD05TS2V5ZWRBcmNoaXZlctF4eVRyb290gAEACAARABoAIwAtADIANwBbAGEAaABxAHgAhQCHAIkAiwCoAK8AtwDCAMcAyQDLAM0AzwDUANYA2ADaANwA3gDxARMBQAFHAVoBZQFzAYABjAGeAcAB0gHnAekB6wH0AfYB+AIBAgMCCAIJAgsCEAIbAiQCMwI3Aj8CSAJNAk4CUAJVAm8CcwKGAosCqAKqAqwCswK2ArgCugK9Ar8CwQLDAtkC7wLxAv4DAwMZAx0DKgMvA0IDRQNYA18DZANmA2gDagNsA3EDcwN1A3cDeQN7A38DhQOKA5ADmQOiA6sDtAO5A7wDxQPKA98D4gP3BAkEDAQRAAAAAAAAAgEAAAAAAAAAegAAAAAAAAAAAAAAAAAABBM="
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "CA8A3E55-F4C9-4AE2-A0BA-7FAB4119EF3B",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 37,
+    "width": 368,
+    "x": 0,
+    "y": 73
+  },
+  "glyphBounds": "{{2, 8}, {365, 28}}",
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Pyromancer's Parting",
+  "nameIsFixed": true,
+  "resizingConstraint": 9,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "DCA0FFDB-922F-4F87-9ADB-3CA17BA9E21C"
+  },
+  "textBehaviour": 0,
+  "userInfo": {
+    "com.invisionlabs.duplicate": {
+      "type-duplicate": {
+        "action": "article",
+        "options": {
+          "section": "technology",
+          "type": "title"
+        },
+        "title": "Technology"
+      }
+    },
+    "com.sketchapp.slinky-plugin": {
+      "hrefURL": ""
+    }
+  }
+}

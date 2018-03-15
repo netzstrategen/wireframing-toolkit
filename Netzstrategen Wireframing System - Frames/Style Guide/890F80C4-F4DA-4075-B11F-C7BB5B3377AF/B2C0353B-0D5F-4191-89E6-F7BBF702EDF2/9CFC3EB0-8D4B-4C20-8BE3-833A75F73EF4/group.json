@@ -1,0 +1,59 @@
+{
+  "_class": "group",
+  "do_objectID": "9CFC3EB0-8D4B-4C20-8BE3-833A75F73EF4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 156,
+    "width": 185,
+    "x": 1055,
+    "y": 756
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "C0ED44FB-C1A0-4EF1-B5B7-43FC7ED50388"
+    },
+    {
+      "class": "group",
+      "id": "19ECD013-E920-446C-AC5E-9F73775CCD85"
+    },
+    {
+      "class": "text",
+      "id": "7A1A7057-A6AD-49BF-BFCC-68F07BC5776F"
+    }
+  ],
+  "name": "Badge",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

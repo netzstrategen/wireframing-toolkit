@@ -1,0 +1,46 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGamtYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QIAcIDxAgISIjJCUmJyszNDU2Nz5CTFBcXV5fYGFiY2RmVSRudWxs0wkKCwwNDlhOU1N0cmluZ1YkY2xhc3NcTlNBdHRyaWJ1dGVzgAKAH4ADXxAPMjUgQXVndXN0LCAyMDE40xESChMZH1dOUy5rZXlzWk5TLm9iamVjdHOlFBUWFxiABIAFgAaAB4AIpRobHB0egAmACoALgBOAFYAeXxAoTVNBdHRyaWJ1dGVkU3RyaW5nVGV4dFRyYW5zZm9ybUF0dHJpYnV0ZVZOU0tlcm5fEB9NU0F0dHJpYnV0ZWRTdHJpbmdGb250QXR0cmlidXRlXxAQTlNQYXJhZ3JhcGhTdHlsZV8QKk1TQXR0cmlidXRlZFN0cmluZ0NvbG9yRGljdGlvbmFyeUF0dHJpYnV0ZRAAIz+3Cj1wo9cK0gooKSpfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4ASgAzTERIKLC8yoi0ugA2ADqIwMYAPgBCAEV8QE05TRm9udFNpemVBdHRyaWJ1dGVfEBNOU0ZvbnROYW1lQXR0cmlidXRlEBJeUm9ib3RvLVJlZ3VsYXLSODk6O1okY2xhc3NuYW1lWCRjbGFzc2VzXxATTlNNdXRhYmxlRGljdGlvbmFyeaM6PD1cTlNEaWN0aW9uYXJ5WE5TT2JqZWN00jg5P0BfEBBOU0ZvbnREZXNjcmlwdG9yokE9XxAQTlNGb250RGVzY3JpcHRvctZDREUKRkdISUpLSEpbTlNBbGlnbm1lbnRaTlNUYWJTdG9wc18QD05TTWluTGluZUhlaWdodF8QH05TQWxsb3dzVGlnaHRlbmluZ0ZvclRydW5jYXRpb25fEA9OU01heExpbmVIZWlnaHQQAYAAI0A4AAAAAAAAgBTSODlNTl8QF05TTXV0YWJsZVBhcmFncmFwaFN0eWxlo01PPV8QEE5TUGFyYWdyYXBoU3R5bGXTERIKUVYfpFJTVFWAFoAXgBiAGaRXWFlagBqAG4AcgB2AHlNyZWRVYWxwaGFUYmx1ZVVncmVlbiM/3d3d3ecHfiM/8AAAAAAAACM/43Nzc3mmMiM/4fHx8e5xF9I4OTxlojw90jg5Z2hfEBJOU0F0dHJpYnV0ZWRTdHJpbmeiaT1fEBJOU0F0dHJpYnV0ZWRTdHJpbmdfEA9OU0tleWVkQXJjaGl2ZXLRbG1Ucm9vdIABAAgAEQAaACMALQAyADcAWgBgAGcAcAB3AIQAhgCIAIoAnACjAKsAtgC8AL4AwADCAMQAxgDMAM4A0ADSANQA1gDYAQMBCgEsAT8BbAFuAXcBfAGZAZsBnQGkAacBqQGrAa4BsAGyAbQBygHgAeIB8QH2AgECCgIgAiQCMQI6Aj8CUgJVAmgCdQKBAowCngLAAtIC1ALWAt8C4QLmAwADBAMXAx4DIwMlAycDKQMrAzADMgM0AzYDOAM6Az4DRANJA08DWANhA2oDcwN4A3sDgAOVA5gDrQO/A8IDxwAAAAAAAAIBAAAAAAAAAG4AAAAAAAAAAAAAAAAAAAPJ"
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "F16E6388-F71B-433A-8B57-70E536D008DF",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 24,
+    "width": 325,
+    "x": 490,
+    "y": 52
+  },
+  "glyphBounds": "{{194, 5}, {130, 17}}",
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Jul 6, 1 min read",
+  "nameIsFixed": true,
+  "resizingConstraint": 44,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "10AFE9C1-721C-46D0-856F-6E7BBA41CEA1"
+  },
+  "textBehaviour": 1
+}

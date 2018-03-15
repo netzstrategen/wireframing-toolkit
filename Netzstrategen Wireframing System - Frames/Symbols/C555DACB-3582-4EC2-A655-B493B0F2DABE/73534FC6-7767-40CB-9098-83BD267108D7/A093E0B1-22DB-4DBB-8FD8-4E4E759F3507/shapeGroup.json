@@ -1,0 +1,76 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "A093E0B1-22DB-4DBB-8FD8-4E4E759F3507",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 582,
+    "width": 280,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "A23B6C2E-750E-45C3-A46B-AB5BF8BCC4C8"
+    },
+    {
+      "class": "shapePath",
+      "id": "80BFD17C-7204-4B00-91EC-41D56F604B23"
+    },
+    {
+      "class": "shapePath",
+      "id": "50D1F5BB-39A8-45AE-871F-18F46892171C"
+    },
+    {
+      "class": "shapePath",
+      "id": "AA84F99C-D17C-4DE2-A099-F870D6FAAEE3"
+    },
+    {
+      "class": "shapePath",
+      "id": "451C577D-A695-4EEB-99AF-1901250765FB"
+    },
+    {
+      "class": "shapePath",
+      "id": "E7789DDF-68E9-4D97-9924-0E514D4AA9FA"
+    },
+    {
+      "class": "shapePath",
+      "id": "2F0D31DE-2A43-4098-9A3B-7BE32CE7E232"
+    },
+    {
+      "class": "shapePath",
+      "id": "3D3ADE8D-7DF2-4CDD-9649-F715B7FBC417"
+    }
+  ],
+  "name": "Phone",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "windingRule": 0
+}

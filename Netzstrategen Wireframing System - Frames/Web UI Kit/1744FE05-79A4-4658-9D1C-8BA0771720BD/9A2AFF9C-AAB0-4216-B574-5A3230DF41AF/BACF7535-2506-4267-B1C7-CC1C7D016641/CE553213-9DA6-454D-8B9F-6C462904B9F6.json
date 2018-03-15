@@ -1,0 +1,56 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGdndYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QIQcIDxAeHyAhIjI1PD9DR09QUVJTV1tnaGlqa2xtbm9xclUkbnVsbNMJCgsMDQ5YTlNTdHJpbmdWJGNsYXNzXE5TQXR0cmlidXRlc4ACgCCAA18QHVByb3RvdHlwaW5nIFRvb2xzIGFuZCBQcm9jZXNz0xESChMYHVdOUy5rZXlzWk5TLm9iamVjdHOkFBUWF4AEgAWABoAHpBkaGxyACIANgBWAH4AeXxAQTlNQYXJhZ3JhcGhTdHlsZV8QH01TQXR0cmlidXRlZFN0cmluZ0ZvbnRBdHRyaWJ1dGVfECpNU0F0dHJpYnV0ZWRTdHJpbmdDb2xvckRpY3Rpb25hcnlBdHRyaWJ1dGVWTlNLZXJu2QojJCUmJygpKissLS4vMDEwMVpOU1RhYlN0b3BzXU5TSGVhZGVyTGV2ZWxcTlNUZXh0QmxvY2tzW05TVGV4dExpc3RzXxAPTlNNYXhMaW5lSGVpZ2h0XxAfTlNBbGxvd3NUaWdodGVuaW5nRm9yVHJ1bmNhdGlvbl8QD05TTWluTGluZUhlaWdodF8QEk5TV3JpdGluZ0RpcmVjdGlvboAMgAAjQAAAAAAAAACACYALI0BCgAAAAAAAEAHSEgozNKCACtI2Nzg5WiRjbGFzc25hbWVYJGNsYXNzZXNeTlNNdXRhYmxlQXJyYXmjODo7V05TQXJyYXlYTlNPYmplY3TSEgo9NKCACtI2N0BBXxAXTlNNdXRhYmxlUGFyYWdyYXBoU3R5bGWjQEI7XxAQTlNQYXJhZ3JhcGhTdHlsZdIKREVGXxAaTlNGb250RGVzY3JpcHRvckF0dHJpYnV0ZXOAFIAO0xESCkhLTqJJSoAPgBCiTE2AEYASgBNfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZRAcXE11bGktUmVndWxhctI2N1RVXxATTlNNdXRhYmxlRGljdGlvbmFyeaNUVjtcTlNEaWN0aW9uYXJ50jY3WFlfEBBOU0ZvbnREZXNjcmlwdG9yolo7XxAQTlNGb250RGVzY3JpcHRvctMREgpcYR2kXV5fYIAWgBeAGIAZpGJjZGWAGoAbgByAHYAeU3JlZFVhbHBoYVRibHVlVWdyZWVuIwAAAAAAAAAAIz/wAAAAAAAAIz+yEhISDYsOIz+kFBQUCilJ0jY3VnCiVjsjP7mZmZmZmZrSNjdzdF8QEk5TQXR0cmlidXRlZFN0cmluZ6J1O18QEk5TQXR0cmlidXRlZFN0cmluZ18QD05TS2V5ZWRBcmNoaXZlctF4eVRyb290gAEACAARABoAIwAtADIANwBbAGEAaABxAHgAhQCHAIkAiwCrALIAugDFAMoAzADOANAA0gDXANkA2wDdAN8A4QD0ARYBQwFKAV0BaAF2AYMBjwGhAcMB1QHqAewB7gH3AfkB+wIEAgYCCwIMAg4CEwIeAicCNgI6AkICSwJQAlECUwJYAnICdgKJAo4CqwKtAq8CtgK5ArsCvQLAAsICxALGAtwC8gL0AwEDBgMcAyADLQMyA0UDSANbA2IDZwNpA2sDbQNvA3QDdgN4A3oDfAN+A4IDiAONA5MDnAOlA64DtwO8A78DyAPNA+ID5QP6BAwEDwQUAAAAAAAAAgEAAAAAAAAAegAAAAAAAAAAAAAAAAAABBY="
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "CE553213-9DA6-454D-8B9F-6C462904B9F6",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 37,
+    "width": 394,
+    "x": 0,
+    "y": 82
+  },
+  "glyphBounds": "{{2, 8}, {391, 28}}",
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Prototyping Tools an",
+  "nameIsFixed": true,
+  "resizingConstraint": 9,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "DCA0FFDB-922F-4F87-9ADB-3CA17BA9E21C"
+  },
+  "textBehaviour": 1,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "isAutoWidth": 0
+      }
+    },
+    "com.sketchapp.slinky-plugin": {
+      "hrefURL": ""
+    }
+  }
+}

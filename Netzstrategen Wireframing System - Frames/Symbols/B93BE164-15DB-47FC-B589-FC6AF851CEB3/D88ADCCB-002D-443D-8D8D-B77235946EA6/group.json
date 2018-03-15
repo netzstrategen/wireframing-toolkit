@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "D88ADCCB-002D-443D-8D8D-B77235946EA6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 25,
+    "width": 25,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "08FC95E0-E487-480A-8065-A07DB05E6167"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "35F88C95-CAE8-4A35-9C8A-64EAF0919AC6"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "FA371C89-5E53-424B-9C79-DF1B8354BE22"
+    }
+  ],
+  "name": "Checkbox",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

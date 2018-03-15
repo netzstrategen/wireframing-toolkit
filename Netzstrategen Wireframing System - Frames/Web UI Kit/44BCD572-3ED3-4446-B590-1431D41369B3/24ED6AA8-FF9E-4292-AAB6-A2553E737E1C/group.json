@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "24ED6AA8-FF9E-4292-AAB6-A2553E737E1C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 820,
+    "width": 1440,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "BB7DE967-6491-4AB3-9594-A4FFBBDF76C2"
+    },
+    {
+      "class": "group",
+      "id": "DFB3E5D5-2677-44FF-8F26-C1E8988A712A"
+    },
+    {
+      "class": "group",
+      "id": "B013100A-2933-48DF-B1BD-40D7A22FDDA6"
+    }
+  ],
+  "name": "Forms & Contacts - 08",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

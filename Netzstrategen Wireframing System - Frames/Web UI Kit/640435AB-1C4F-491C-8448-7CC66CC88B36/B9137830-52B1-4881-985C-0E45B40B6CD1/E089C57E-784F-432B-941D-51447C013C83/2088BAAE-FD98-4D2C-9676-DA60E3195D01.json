@@ -1,0 +1,56 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGdndYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QIQcIDxAeHyAhIjI1PD9DR09QUVJTV1tnaGlqa2xtbm9xclUkbnVsbNMJCgsMDQ5YTlNTdHJpbmdWJGNsYXNzXE5TQXR0cmlidXRlc4ACgCCAA18QHzIuIEZ1bmRhbWVudGFscyBkZXNpZ24gbGFuZ3VhZ2XTERIKExgdV05TLmtleXNaTlMub2JqZWN0c6QUFRYXgASABYAGgAekGRobHIAIgA2AFYAfgB5fEBBOU1BhcmFncmFwaFN0eWxlXxAfTVNBdHRyaWJ1dGVkU3RyaW5nRm9udEF0dHJpYnV0ZV8QKk1TQXR0cmlidXRlZFN0cmluZ0NvbG9yRGljdGlvbmFyeUF0dHJpYnV0ZVZOU0tlcm7ZCiMkJSYnKCkqKywtLi8wMTAxWk5TVGFiU3RvcHNdTlNIZWFkZXJMZXZlbFxOU1RleHRCbG9ja3NbTlNUZXh0TGlzdHNfEA9OU01heExpbmVIZWlnaHRfEB9OU0FsbG93c1RpZ2h0ZW5pbmdGb3JUcnVuY2F0aW9uXxAPTlNNaW5MaW5lSGVpZ2h0XxASTlNXcml0aW5nRGlyZWN0aW9ugAyAACNAAAAAAAAAAIAJgAsjQEWAAAAAAAAQAdISCjM0oIAK0jY3ODlaJGNsYXNzbmFtZVgkY2xhc3Nlc15OU011dGFibGVBcnJheaM4OjtXTlNBcnJheVhOU09iamVjdNISCj00oIAK0jY3QEFfEBdOU011dGFibGVQYXJhZ3JhcGhTdHlsZaNAQjtfEBBOU1BhcmFncmFwaFN0eWxl0gpERUZfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AUgA7TERIKSEtOoklKgA+AEKJMTYARgBKAE18QE05TRm9udFNpemVBdHRyaWJ1dGVfEBNOU0ZvbnROYW1lQXR0cmlidXRlECBcTXVsaS1SZWd1bGFy0jY3VFVfEBNOU011dGFibGVEaWN0aW9uYXJ5o1RWO1xOU0RpY3Rpb25hcnnSNjdYWV8QEE5TRm9udERlc2NyaXB0b3KiWjtfEBBOU0ZvbnREZXNjcmlwdG9y0xESClxhHaRdXl9ggBaAF4AYgBmkYmNkZYAagBuAHIAdgB5TcmVkVWFscGhhVGJsdWVVZ3JlZW4jAAAAAAAAAAAjP/AAAAAAAAAjP7ISEhINiw4jP6QUFBQKKUnSNjdWcKJWOxAA0jY3c3RfEBJOU0F0dHJpYnV0ZWRTdHJpbmeidTtfEBJOU0F0dHJpYnV0ZWRTdHJpbmdfEA9OU0tleWVkQXJjaGl2ZXLReHlUcm9vdIABAAgAEQAaACMALQAyADcAWwBhAGgAcQB4AIUAhwCJAIsArQC0ALwAxwDMAM4A0ADSANQA2QDbAN0A3wDhAOMA9gEYAUUBTAFfAWoBeAGFAZEBowHFAdcB7AHuAfAB+QH7Af0CBgIIAg0CDgIQAhUCIAIpAjgCPAJEAk0CUgJTAlUCWgJ0AngCiwKQAq0CrwKxArgCuwK9Ar8CwgLEAsYCyALeAvQC9gMDAwgDHgMiAy8DNANHA0oDXQNkA2kDawNtA28DcQN2A3gDegN8A34DgAOEA4oDjwOVA54DpwOwA7kDvgPBA8MDyAPdA+AD9QQHBAoEDwAAAAAAAAIBAAAAAAAAAHoAAAAAAAAAAAAAAAAAAAQR"
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "2088BAAE-FD98-4D2C-9676-DA60E3195D01",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 43,
+    "width": 750,
+    "x": 0,
+    "y": 199
+  },
+  "glyphBounds": "{{2, 10}, {498, 32}}",
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "2. Fundamentals design language",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "A2DEDB86-FBE3-4CF3-8389-A175D0EDC381"
+  },
+  "textBehaviour": 1,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "isAutoWidth": 0
+      }
+    },
+    "com.sketchapp.slinky-plugin": {
+      "hrefURL": ""
+    }
+  }
+}

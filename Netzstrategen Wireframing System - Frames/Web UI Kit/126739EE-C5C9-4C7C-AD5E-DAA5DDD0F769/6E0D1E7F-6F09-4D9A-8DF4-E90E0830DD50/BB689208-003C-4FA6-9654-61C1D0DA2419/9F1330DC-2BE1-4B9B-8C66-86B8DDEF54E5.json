@@ -1,0 +1,46 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGaWpYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QIAcIDxAgISIjJCUmJyszNDU2Nz5CS09bXF1eX2BhYmNlVSRudWxs0wkKCwwNDlhOU1N0cmluZ1YkY2xhc3NcTlNBdHRyaWJ1dGVzgAKAH4ADbxBMAEwAZQBhAHYAZQAgAHkAbwB1AHIAIABwAGgAbwBuAGUAIABuAHUAbQBiAGUAcgAgAG8AcgAgAGUAbQBhAGkAbCAoAGEAbgBkACAAdwBlACAAdwBpAGwAbAAgAHMAZQBuAGQAIABhACAAbABpAG4AawAgAHQAbwAgAHQAaABlACAAYQBwAHAAbABpAGMAYQB0AGkAbwBuACDTERIKExkfV05TLmtleXNaTlMub2JqZWN0c6UUFRYXGIAEgAWABoAHgAilGhscHR6ACYAKgAuAE4AVgB5fEChNU0F0dHJpYnV0ZWRTdHJpbmdUZXh0VHJhbnNmb3JtQXR0cmlidXRlVk5TS2Vybl8QH01TQXR0cmlidXRlZFN0cmluZ0ZvbnRBdHRyaWJ1dGVfEBBOU1BhcmFncmFwaFN0eWxlXxAqTVNBdHRyaWJ1dGVkU3RyaW5nQ29sb3JEaWN0aW9uYXJ5QXR0cmlidXRlEAAjP7dF0fFO4jvSCigpKl8QGk5TRm9udERlc2NyaXB0b3JBdHRyaWJ1dGVzgBKADNMREgosLzKiLS6ADYAOojAxgA+AEIARXxATTlNGb250U2l6ZUF0dHJpYnV0ZV8QE05TRm9udE5hbWVBdHRyaWJ1dGUQFF1NdWxpLVNlbWlCb2xk0jg5OjtaJGNsYXNzbmFtZVgkY2xhc3Nlc18QE05TTXV0YWJsZURpY3Rpb25hcnmjOjw9XE5TRGljdGlvbmFyeVhOU09iamVjdNI4OT9AXxAQTlNGb250RGVzY3JpcHRvcqJBPV8QEE5TRm9udERlc2NyaXB0b3LVQwpERUZHSElKSVpOU1RhYlN0b3BzXxAPTlNNaW5MaW5lSGVpZ2h0XxAfTlNBbGxvd3NUaWdodGVuaW5nRm9yVHJ1bmNhdGlvbl8QD05TTWF4TGluZUhlaWdodIAAgBQjQDsAAAAAAAAQAdI4OUxNXxAXTlNNdXRhYmxlUGFyYWdyYXBoU3R5bGWjTE49XxAQTlNQYXJhZ3JhcGhTdHlsZdMREgpQVR+kUVJTVIAWgBeAGIAZpFZXWFmAGoAbgByAHYAeU3JlZFVhbHBoYVRibHVlVWdyZWVuIz/d3d3d5wd+Iz/wAAAAAAAAIz/jc3NzeaYyIz/h8fHx7nEX0jg5PGSiPD3SODlmZ18QEk5TQXR0cmlidXRlZFN0cmluZ6JoPV8QEk5TQXR0cmlidXRlZFN0cmluZ18QD05TS2V5ZWRBcmNoaXZlctFrbFRyb290gAEACAARABoAIwAtADIANwBaAGAAZwBwAHcAhACGAIgAigElASwBNAE/AUUBRwFJAUsBTQFPAVUBVwFZAVsBXQFfAWEBjAGTAbUByAH1AfcCAAIFAiICJAImAi0CMAIyAjQCNwI5AjsCPQJTAmkCawJ5An4CiQKSAqgCrAK5AsICxwLaAt0C8AL7AwYDGAM6A0wDTgNQA1kDWwNgA3oDfgORA5gDnQOfA6EDowOlA6oDrAOuA7ADsgO0A7gDvgPDA8kD0gPbA+QD7QPyA/UD+gQPBBIEJwQ5BDwEQQAAAAAAAAIBAAAAAAAAAG0AAAAAAAAAAAAAAAAAAARD"
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "9F1330DC-2BE1-4B9B-8C66-86B8DDEF54E5",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 54,
+    "width": 555,
+    "x": 0,
+    "y": 0
+  },
+  "glyphBounds": "{{0, 6}, {385, 47}}",
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Leave your phone num",
+  "nameIsFixed": true,
+  "resizingConstraint": 9,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "1E97AE3F-EE20-4907-8ACA-9D300270AD96"
+  },
+  "textBehaviour": 1
+}

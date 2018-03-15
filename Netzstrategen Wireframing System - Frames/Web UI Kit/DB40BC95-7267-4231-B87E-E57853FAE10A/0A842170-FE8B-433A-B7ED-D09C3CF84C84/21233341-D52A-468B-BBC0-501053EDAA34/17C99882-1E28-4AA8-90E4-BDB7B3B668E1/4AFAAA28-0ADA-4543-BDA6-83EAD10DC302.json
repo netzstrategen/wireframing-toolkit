@@ -1,0 +1,55 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "4AFAAA28-0ADA-4543-BDA6-83EAD10DC302",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 28,
+    "width": 28,
+    "x": 24,
+    "y": 20
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Form / Checkbox / Basic",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "36B7BDC7-0B20-4BE0-A890-2A7DB8C0B28C",
+      "overrideName": "21086A86-3309-475F-B375-71625683B8DA_symbolID",
+      "value": "108A0C1F-A2E4-41B1-BD94-ED4AA658A614"
+    }
+  ],
+  "overrides": {
+    "21086A86-3309-475F-B375-71625683B8DA": {
+      "symbolID": "108A0C1F-A2E4-41B1-BD94-ED4AA658A614"
+    }
+  },
+  "resizingConstraint": 41,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "901418E2-8295-48DA-86B8-E9274C0A2396",
+  "verticalSpacing": 0
+}

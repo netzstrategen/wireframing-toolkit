@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "493F8EF5-70A3-4034-A42C-014FDC6C51E8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 24,
+    "width": 40,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "E003B33A-08AC-455A-A767-89DB67A74F44"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DFAFC7D7-2319-46E5-A365-B861287ACB2F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8FB65B17-260D-49C5-8992-C09129E43D4D"
+    }
+  ],
+  "name": "Switch",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

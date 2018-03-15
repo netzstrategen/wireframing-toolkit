@@ -1,0 +1,82 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "4DA56030-4E9A-41D0-B8D2-7AEB5F8154A4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 120,
+    "width": 580,
+    "x": 36,
+    "y": 502
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Form / Input / Text Area",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "894574A1-8AB1-4724-A133-96D727DF87A0",
+      "overrideName": "76F75AE6-1935-4CFB-90F6-49B6008CABE7_symbolID",
+      "value": "FF0CF981-0558-44D9-8614-3B6F644304E8"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "22761C85-D443-4368-8D26-634CDEA36C2D",
+      "overrideName": "76F75AE6-1935-4CFB-90F6-49B6008CABE7/F71CA665-3EA6-4C0A-AE3B-0242C68F4350_symbolID",
+      "value": "6D0B2CFA-E5B0-40AE-9728-BA8053885BBD"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6610A775-A21F-4C37-8583-31737E7E4C60",
+      "overrideName": "8DF6F958-CE23-4FC1-A288-15AB5D77E921/29A47983-FD8A-4423-9F65-8A596974727C_stringValue",
+      "value": "Write response..."
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "41CD5BCD-B1D5-469D-92B4-F80C421C73D8",
+      "overrideName": "64993DDD-102D-497C-8029-51937B1B424B_symbolID",
+      "value": ""
+    }
+  ],
+  "overrides": {
+    "64993DDD-102D-497C-8029-51937B1B424B": {
+      "symbolID": ""
+    },
+    "76F75AE6-1935-4CFB-90F6-49B6008CABE7": {
+      "F71CA665-3EA6-4C0A-AE3B-0242C68F4350": {
+        "symbolID": "6D0B2CFA-E5B0-40AE-9728-BA8053885BBD"
+      },
+      "symbolID": "FF0CF981-0558-44D9-8614-3B6F644304E8"
+    },
+    "8DF6F958-CE23-4FC1-A288-15AB5D77E921": {
+      "29A47983-FD8A-4423-9F65-8A596974727C": "Write response..."
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "29A2895A-EFA4-432C-8371-AE3DA6D74C8E",
+  "verticalSpacing": 0
+}

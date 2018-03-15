@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "D2DE12A6-B746-42C8-924A-74F0F1406680",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 525,
+    "width": 814,
+    "x": 0,
+    "y": 1207
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "20D85961-AC69-4CDD-A88C-F637C90E91D4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7B60A02D-DD3E-412D-B9C1-43C35D6403B5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6F53CA9C-7DFB-4A27-B646-CC95D033101E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7B7E8C29-35B4-4A37-8CDF-2861E9955F18"
+    }
+  ],
+  "name": "iPad",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

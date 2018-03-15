@@ -1,0 +1,80 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "3254ED43-612B-4408-A4BC-B93218E30EB0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 28,
+    "width": 184,
+    "x": 0,
+    "y": 221
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Button / Text Button / Icon + Label",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "72C9339B-70AD-4ADE-AD52-D7E81ADF7C4C_symbolID",
+      "value": "FBEE7AFE-E43B-47B2-B388-BD02896CB0B5"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "72C9339B-70AD-4ADE-AD52-D7E81ADF7C4C/52B02051-20F0-4229-B29B-7A1B35E47FCD_stringValue",
+      "value": "Download App"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "72C9339B-70AD-4ADE-AD52-D7E81ADF7C4C/83985DD3-0761-4B40-8DFB-C756FD2A8CFF_stringValue",
+      "value": "Download App"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "72C9339B-70AD-4ADE-AD52-D7E81ADF7C4C/DD780A6E-C114-4476-936D-9B8A820AA698_stringValue",
+      "value": "Download app"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "0FAECAB4-BC5E-4375-815D-C79012E24D1B_symbolID",
+      "value": "8AECF3BF-FC09-493A-9ED3-5B3A4FD900B2"
+    }
+  ],
+  "overrides": {
+    "0FAECAB4-BC5E-4375-815D-C79012E24D1B": {
+      "symbolID": "8AECF3BF-FC09-493A-9ED3-5B3A4FD900B2"
+    },
+    "72C9339B-70AD-4ADE-AD52-D7E81ADF7C4C": {
+      "52B02051-20F0-4229-B29B-7A1B35E47FCD": "Download App",
+      "83985DD3-0761-4B40-8DFB-C756FD2A8CFF": "Download App",
+      "DD780A6E-C114-4476-936D-9B8A820AA698": "Download app",
+      "symbolID": "FBEE7AFE-E43B-47B2-B388-BD02896CB0B5"
+    }
+  },
+  "resizingConstraint": 25,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "87D508A2-8EAF-43B4-A96F-1D9644749C5C",
+  "verticalSpacing": 0
+}

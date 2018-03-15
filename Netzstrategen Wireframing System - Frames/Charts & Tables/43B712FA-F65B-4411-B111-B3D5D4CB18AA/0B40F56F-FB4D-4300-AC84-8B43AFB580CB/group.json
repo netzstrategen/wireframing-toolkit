@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "do_objectID": "0B40F56F-FB4D-4300-AC84-8B43AFB580CB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 650,
+    "width": 1240,
+    "x": 100,
+    "y": 961
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "CDBABB11-BA90-4031-B457-C4BC1E99E265"
+    },
+    {
+      "class": "group",
+      "id": "C1C6C083-8038-4A15-B272-9076E7C5F64C"
+    },
+    {
+      "class": "group",
+      "id": "F10C6E70-028B-4872-A50F-9547D539EBD9"
+    },
+    {
+      "class": "group",
+      "id": "B5F9AF23-6825-4784-84B7-64AF58E2A570"
+    }
+  ],
+  "name": "Revenue table",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

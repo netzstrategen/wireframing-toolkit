@@ -1,0 +1,72 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "057D7A46-116F-48F7-8F98-3CC0F61FA8F6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 21.9626103286385,
+    "width": 21.9626103286385,
+    "x": 1,
+    "y": 1
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "220ED3AE-9528-40EF-852C-725E8747446F"
+    },
+    {
+      "class": "shapePath",
+      "id": "BCEE4649-890C-4F20-A30F-239CA1649079"
+    },
+    {
+      "class": "shapePath",
+      "id": "F552DB04-231B-455F-9612-CB248CB8BA99"
+    },
+    {
+      "class": "shapePath",
+      "id": "AC8EB946-208F-44AF-A112-1D9B1415D508"
+    },
+    {
+      "class": "shapePath",
+      "id": "89F44B0C-476F-4BD8-ACF0-B1317F88DF8B"
+    },
+    {
+      "class": "shapePath",
+      "id": "D14B383B-7DBC-47C1-85E3-77DB2A02DC23"
+    },
+    {
+      "class": "shapePath",
+      "id": "443E175E-1F36-4EB8-ACF7-A8DD91476367"
+    }
+  ],
+  "name": "Dribbble",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "windingRule": 0
+}

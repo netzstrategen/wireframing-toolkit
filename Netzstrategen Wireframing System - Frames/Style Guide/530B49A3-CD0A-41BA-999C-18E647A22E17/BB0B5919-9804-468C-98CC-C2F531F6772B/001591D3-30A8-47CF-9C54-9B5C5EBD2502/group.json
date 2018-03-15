@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "do_objectID": "001591D3-30A8-47CF-9C54-9B5C5EBD2502",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 340,
+    "width": 635,
+    "x": 0,
+    "y": 77
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "EF3826E0-A33D-4C19-A400-4078FF23E646"
+    },
+    {
+      "class": "text",
+      "id": "6A34FBB0-A045-4BAE-BCBB-BF56E33F0175"
+    },
+    {
+      "class": "text",
+      "id": "74AEAF03-A5F6-4405-B199-042CAE01D0DF"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "EBBFD2EE-F36E-4A18-94CB-E8998EE964FC"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "67BC3F36-C5C8-4462-9716-B7F10D9CB8C1"
+    }
+  ],
+  "name": "Dark theme",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

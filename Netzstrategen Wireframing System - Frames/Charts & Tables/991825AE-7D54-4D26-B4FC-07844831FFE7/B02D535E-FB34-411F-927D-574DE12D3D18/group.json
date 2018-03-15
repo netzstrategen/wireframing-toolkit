@@ -1,0 +1,59 @@
+{
+  "_class": "group",
+  "do_objectID": "B02D535E-FB34-411F-927D-574DE12D3D18",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 500,
+    "width": 1240,
+    "x": 100,
+    "y": 775
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "FDC255DB-99DA-43C1-9CDF-22DCDCD16ECC"
+    },
+    {
+      "class": "group",
+      "id": "99DF7252-530A-41D3-81D8-991F57817654"
+    },
+    {
+      "class": "group",
+      "id": "3A40AE69-31C8-44E9-BED2-B717AC0A6965"
+    }
+  ],
+  "name": "Candlestick Chart - On Dark",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

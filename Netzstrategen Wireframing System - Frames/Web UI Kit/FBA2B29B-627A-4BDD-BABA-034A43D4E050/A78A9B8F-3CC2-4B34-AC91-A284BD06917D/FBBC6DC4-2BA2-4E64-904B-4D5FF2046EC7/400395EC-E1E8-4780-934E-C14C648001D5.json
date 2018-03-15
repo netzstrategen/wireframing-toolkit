@@ -1,0 +1,73 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "400395EC-E1E8-4780-934E-C14C648001D5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 48,
+    "width": 154,
+    "x": 1135,
+    "y": 92
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Button / Medium / Button + L.Icon",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "02A9121E-108F-4C4C-B393-64838F62D644",
+      "overrideName": "E20B3849-00F4-4E1B-BC25-6696DA86498C/A39A719C-9E78-4F78-B289-C1A11878BE7C_stringValue",
+      "value": "New Board"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4134F86E-857D-4CA0-A635-EC9B5DC944C4",
+      "overrideName": "199585FE-8122-4CEA-ABA8-8EDBCA0D3BC8_symbolID",
+      "value": "DA083191-3BC7-451F-BF04-2B3BD0E7B89F"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1834AEFE-4DF5-4464-9B27-9C6D3A6E037E",
+      "overrideName": "199585FE-8122-4CEA-ABA8-8EDBCA0D3BC8/973596A5-5963-400E-ABAF-31EDB25CE9A3_symbolID",
+      "value": "397BFF9B-A028-45FD-BC37-19737415196D"
+    }
+  ],
+  "overrides": {
+    "199585FE-8122-4CEA-ABA8-8EDBCA0D3BC8": {
+      "973596A5-5963-400E-ABAF-31EDB25CE9A3": {
+        "symbolID": "397BFF9B-A028-45FD-BC37-19737415196D"
+      },
+      "symbolID": "DA083191-3BC7-451F-BF04-2B3BD0E7B89F"
+    },
+    "E20B3849-00F4-4E1B-BC25-6696DA86498C": {
+      "A39A719C-9E78-4F78-B289-C1A11878BE7C": "New Board"
+    }
+  },
+  "resizingConstraint": 12,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "35F2044A-F112-4667-A945-8262182994FB",
+  "verticalSpacing": 0
+}

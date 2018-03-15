@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "70E95CE0-534E-427D-87A3-AABC34C4711F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 64,
+    "width": 248,
+    "x": 0,
+    "y": 367
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "42047219-95EA-41BE-B5AD-51D492407A30"
+    },
+    {
+      "class": "text",
+      "id": "2C401D40-DAF1-4455-B28E-E1E1097CF7DF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3AAF26F3-6D1D-4F50-9E28-7E4EF43B58ED"
+    }
+  ],
+  "name": "Play video",
+  "nameIsFixed": true,
+  "resizingConstraint": 57,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

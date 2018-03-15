@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "49C6A971-7A6C-40A7-B826-CF14B1139A08",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 221,
+    "width": 605,
+    "x": 0,
+    "y": 74
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "6920ED40-4CC6-42F0-8FFD-759E54E8F825"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "30B7B1DD-9BFE-4309-9E25-196190B509B7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "42C85A51-B0F2-49AA-A76C-31EA35F13D62"
+    }
+  ],
+  "name": "Signle",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

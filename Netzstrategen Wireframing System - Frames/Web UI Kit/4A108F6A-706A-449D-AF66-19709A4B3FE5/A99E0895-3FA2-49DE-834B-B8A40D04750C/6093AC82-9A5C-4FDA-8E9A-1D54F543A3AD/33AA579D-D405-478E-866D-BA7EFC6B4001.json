@@ -1,0 +1,56 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGamtYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QHwcIDxAgISIjJCUmKjIzNDU2PUFMUFxdXl9gYWJjZGZVJG51bGzTCQoLDA0OWE5TU3RyaW5nViRjbGFzc1xOU0F0dHJpYnV0ZXOAAoAegANfEIlTb2x1dGlvbiBhc3lsdW0gcHJldmVudGlvbiBpbnN0aXR1dGlvbnMgaGFjayBwcm9jZXNzIGNvbnZlbmVyLiBBY3RpdmlzdCBwaGlsYW50aHJvcHkgYm9hcmQgb2YgZGlyZWN0b3JzIGluc3BpcmUgYnJlYWt0aHJvdWdocyBnb3Zlcm5hbmNlLtMREgoTGR9XTlMua2V5c1pOUy5vYmplY3RzpRQVFhcYgASABYAGgAeACKUaGhwdHoAJgAmACoASgBSAHV8QKE1TQXR0cmlidXRlZFN0cmluZ1RleHRUcmFuc2Zvcm1BdHRyaWJ1dGVWTlNLZXJuXxAfTVNBdHRyaWJ1dGVkU3RyaW5nRm9udEF0dHJpYnV0ZV8QEE5TUGFyYWdyYXBoU3R5bGVfECpNU0F0dHJpYnV0ZWRTdHJpbmdDb2xvckRpY3Rpb25hcnlBdHRyaWJ1dGUQANIKJygpXxAaTlNGb250RGVzY3JpcHRvckF0dHJpYnV0ZXOAEYAL0xESCisuMaIsLYAMgA2iLzCADoAPgBBfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZRAgXE11bGktUmVndWxhctI3ODk6WiRjbGFzc25hbWVYJGNsYXNzZXNfEBNOU011dGFibGVEaWN0aW9uYXJ5ozk7PFxOU0RpY3Rpb25hcnlYTlNPYmplY3TSNzg+P18QEE5TRm9udERlc2NyaXB0b3KiQDxfEBBOU0ZvbnREZXNjcmlwdG9y1kJDRApFRkdISUpLSVtOU0FsaWdubWVudFpOU1RhYlN0b3BzXxAPTlNNaW5MaW5lSGVpZ2h0XxAfTlNBbGxvd3NUaWdodGVuaW5nRm9yVHJ1bmNhdGlvbl8QD05TTWF4TGluZUhlaWdodBACgAAjQEWAAAAAAACAExAB0jc4TU5fEBdOU011dGFibGVQYXJhZ3JhcGhTdHlsZaNNTzxfEBBOU1BhcmFncmFwaFN0eWxl0xESClFWH6RSU1RVgBWAFoAXgBikV1hZWoAZgBqAG4AcgB1TcmVkVWFscGhhVGJsdWVVZ3JlZW4jAAAAAAAAAAAjP/AAAAAAAAAjP7ISEhINiw4jP6QUFBQKKUnSNzg7ZaI7PNI3OGdoXxASTlNBdHRyaWJ1dGVkU3RyaW5nomk8XxASTlNBdHRyaWJ1dGVkU3RyaW5nXxAPTlNLZXllZEFyY2hpdmVy0WxtVHJvb3SAAQAIABEAGgAjAC0AMgA3AFkAXwBmAG8AdgCDAIUAhwCJARUBHAEkAS8BNQE3ATkBOwE9AT8BRQFHAUkBSwFNAU8BUQF8AYMBpQG4AeUB5wHsAgkCCwINAhQCFwIZAhsCHgIgAiICJAI6AlACUgJfAmQCbwJ4Ao4CkgKfAqgCrQLAAsMC1gLjAu8C+gMMAy4DQANCA0QDTQNPA1EDVgNwA3QDhwOOA5MDlQOXA5kDmwOgA6IDpAOmA6gDqgOuA7QDuQO/A8gD0QPaA+MD6APrA/AEBQQIBB0ELwQyBDcAAAAAAAACAQAAAAAAAABuAAAAAAAAAAAAAAAAAAAEOQ=="
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "33AA579D-D405-478E-866D-BA7EFC6B4001",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 129,
+    "width": 809.9999999999986,
+    "x": 0,
+    "y": 102
+  },
+  "glyphBounds": "{{20, 10}, {770, 118}}",
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Solution asylum prev",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "68536213-DFD5-4060-89A7-9E59A11EE25E"
+  },
+  "textBehaviour": 1,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "isAutoWidth": 0
+      }
+    },
+    "com.sketchapp.slinky-plugin": {
+      "hrefURL": ""
+    }
+  }
+}

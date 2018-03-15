@@ -1,0 +1,64 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "5D991C95-6C3C-49EA-AFB0-0ACB5592D2FD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 22,
+    "width": 22,
+    "x": 1,
+    "y": 1
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "77F9D909-71F7-4B0D-8B59-C9293774E5C3"
+    },
+    {
+      "class": "shapePath",
+      "id": "3BADE1C0-443D-4328-BC2D-1B1F270CF626"
+    },
+    {
+      "class": "shapePath",
+      "id": "655C5B7B-DF54-4CB7-B0C1-C85D87B76DF1"
+    },
+    {
+      "class": "shapePath",
+      "id": "AC961A1D-B6D3-4AAB-AEC0-15D4C519A2ED"
+    },
+    {
+      "class": "oval",
+      "id": "8C7AB257-0740-4389-AD3E-2355428E1F39"
+    }
+  ],
+  "name": "Instagram",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "windingRule": 0
+}

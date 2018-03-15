@@ -1,0 +1,54 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "DDB53BE5-47AB-400D-A789-07AC248BF5DB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 24,
+    "width": 24,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Icon / Social / Facebook",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "D0A3D35A-71AE-4D2A-B782-7DCBB5C3F087_symbolID",
+      "value": "B0C77062-B2A7-49FE-BBF3-80B775914D34"
+    }
+  ],
+  "overrides": {
+    "D0A3D35A-71AE-4D2A-B782-7DCBB5C3F087": {
+      "symbolID": "B0C77062-B2A7-49FE-BBF3-80B775914D34"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "65406DE5-8783-4FB6-BF11-CD08D272EC7E",
+  "verticalSpacing": 0
+}

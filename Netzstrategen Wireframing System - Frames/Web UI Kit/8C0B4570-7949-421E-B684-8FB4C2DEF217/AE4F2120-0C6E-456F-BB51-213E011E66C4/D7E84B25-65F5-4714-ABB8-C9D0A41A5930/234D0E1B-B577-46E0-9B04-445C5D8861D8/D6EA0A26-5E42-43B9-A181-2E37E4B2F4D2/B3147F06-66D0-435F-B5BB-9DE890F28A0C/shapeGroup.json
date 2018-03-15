@@ -1,0 +1,109 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "B3147F06-66D0-435F-B5BB-9DE890F28A0C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 33.54545454545455,
+    "width": 146.9999999999999,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "1178FE50-3F6E-4E6A-8D0F-B3DF04E4C041"
+    },
+    {
+      "class": "shapePath",
+      "id": "78A855DA-D307-4B61-AED3-3E079A5E4E4F"
+    },
+    {
+      "class": "shapePath",
+      "id": "AB09380B-48F5-466A-BBCB-56629A41D820"
+    },
+    {
+      "class": "shapePath",
+      "id": "F7914874-B11E-4B45-AC55-70D883104684"
+    },
+    {
+      "class": "shapePath",
+      "id": "C87ED87C-F26E-4EC7-9CCE-07C81BEB831E"
+    },
+    {
+      "class": "shapePath",
+      "id": "1D501946-57C8-433E-AA4F-BFCDB9CA26B9"
+    },
+    {
+      "class": "shapePath",
+      "id": "09B0EA4E-57F3-4E51-BA16-EC1A0D0C8B1F"
+    },
+    {
+      "class": "shapePath",
+      "id": "41AA46D8-3167-456E-ABFD-7B58150508CE"
+    },
+    {
+      "class": "shapePath",
+      "id": "3DA0BB6B-14E2-4312-8C94-399CC5A30111"
+    },
+    {
+      "class": "shapePath",
+      "id": "EA7FA87C-6495-4CFA-8462-52BFBA82D65B"
+    },
+    {
+      "class": "shapePath",
+      "id": "EA536503-F535-4742-B5EF-F411195118AA"
+    },
+    {
+      "class": "shapePath",
+      "id": "08E00C91-5BD1-4A3C-93E0-CE8711218E0D"
+    },
+    {
+      "class": "shapePath",
+      "id": "D1AE99A1-9F94-401B-B473-C1CCF402CD98"
+    },
+    {
+      "class": "shapePath",
+      "id": "22913B6E-BE93-44C1-8864-F6E97EDC43CF"
+    },
+    {
+      "class": "shapePath",
+      "id": "6DB33745-C66A-4F0B-B55A-B8306EA51A6F"
+    },
+    {
+      "class": "shapePath",
+      "id": "BAC4AB3B-5333-4841-B5CA-977928A90B17"
+    },
+    {
+      "class": "shapePath",
+      "id": "162E0F81-4531-431D-B07C-D42AEAA66604"
+    }
+  ],
+  "name": "Dropbox",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "7506F2DB-3127-45F1-BD79-82516071B13C"
+  },
+  "windingRule": 1
+}

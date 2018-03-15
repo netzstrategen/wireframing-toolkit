@@ -1,0 +1,80 @@
+{
+  "_class": "page",
+  "do_objectID": "DA59041C-47D0-4BD1-A103-C241CC060751",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 300,
+    "width": 300,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "artboard",
+      "id": "6764BB4F-0411-46DD-A72C-203F19F852C7"
+    },
+    {
+      "class": "artboard",
+      "id": "4C6AEA59-C295-47DB-ACD1-0925A760345B"
+    },
+    {
+      "class": "artboard",
+      "id": "890F80C4-F4DA-4075-B11F-C7BB5B3377AF"
+    },
+    {
+      "class": "artboard",
+      "id": "1282C390-F304-469F-B781-68CD19393564"
+    },
+    {
+      "class": "artboard",
+      "id": "530B49A3-CD0A-41BA-999C-18E647A22E17"
+    }
+  ],
+  "name": "Style Guide",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.nivritti.diya": {
+      "screens": [
+      ]
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

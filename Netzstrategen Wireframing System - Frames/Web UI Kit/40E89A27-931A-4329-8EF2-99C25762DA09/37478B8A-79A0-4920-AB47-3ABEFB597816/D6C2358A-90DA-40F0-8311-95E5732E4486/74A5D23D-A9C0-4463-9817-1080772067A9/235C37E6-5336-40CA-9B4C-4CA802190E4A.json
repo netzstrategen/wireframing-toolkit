@@ -1,0 +1,46 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGdndYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QIQcIDxAeHyAhIjI1PD9DR09QUVJTV1tnaGlqa2xtbm9xclUkbnVsbNMJCgsMDQ5YTlNTdHJpbmdWJGNsYXNzXE5TQXR0cmlidXRlc4ACgCCAA18QI1Rha2UgYSB2aWRlbyB0b3VyIGludG8gdGhpcyBmZWF0dXJl0xESChMYHVdOUy5rZXlzWk5TLm9iamVjdHOkFBUWF4AEgAWABoAHpBkaGxyACIANgBWAH4AeXxAQTlNQYXJhZ3JhcGhTdHlsZV8QH01TQXR0cmlidXRlZFN0cmluZ0ZvbnRBdHRyaWJ1dGVfECpNU0F0dHJpYnV0ZWRTdHJpbmdDb2xvckRpY3Rpb25hcnlBdHRyaWJ1dGVWTlNLZXJu2QojJCUmJygpKissLS4vMDEwMVpOU1RhYlN0b3BzXU5TSGVhZGVyTGV2ZWxcTlNUZXh0QmxvY2tzW05TVGV4dExpc3RzXxAPTlNNYXhMaW5lSGVpZ2h0XxAfTlNBbGxvd3NUaWdodGVuaW5nRm9yVHJ1bmNhdGlvbl8QD05TTWluTGluZUhlaWdodF8QEk5TV3JpdGluZ0RpcmVjdGlvboAMgAAjQAAAAAAAAACACYALI0A4AAAAAAAAEAHSEgozNKCACtI2Nzg5WiRjbGFzc25hbWVYJGNsYXNzZXNeTlNNdXRhYmxlQXJyYXmjODo7V05TQXJyYXlYTlNPYmplY3TSEgo9NKCACtI2N0BBXxAXTlNNdXRhYmxlUGFyYWdyYXBoU3R5bGWjQEI7XxAQTlNQYXJhZ3JhcGhTdHlsZdIKREVGXxAaTlNGb250RGVzY3JpcHRvckF0dHJpYnV0ZXOAFIAO0xESCkhLTqJJSoAPgBCiTE2AEYASgBNfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZRASXlJvYm90by1SZWd1bGFy0jY3VFVfEBNOU011dGFibGVEaWN0aW9uYXJ5o1RWO1xOU0RpY3Rpb25hcnnSNjdYWV8QEE5TRm9udERlc2NyaXB0b3KiWjtfEBBOU0ZvbnREZXNjcmlwdG9y0xESClxhHaRdXl9ggBaAF4AYgBmkYmNkZYAagBuAHIAdgB5TcmVkVWFscGhhVGJsdWVVZ3JlZW4jP93d3d3nB34jP/AAAAAAAAAjP+Nzc3N5pjIjP+Hx8fHucRfSNjdWcKJWOyM/two9cKPXCtI2N3N0XxASTlNBdHRyaWJ1dGVkU3RyaW5nonU7XxASTlNBdHRyaWJ1dGVkU3RyaW5nXxAPTlNLZXllZEFyY2hpdmVy0Xh5VHJvb3SAAQAIABEAGgAjAC0AMgA3AFsAYQBoAHEAeACFAIcAiQCLALEAuADAAMsA0ADSANQA1gDYAN0A3wDhAOMA5QDnAPoBHAFJAVABYwFuAXwBiQGVAacByQHbAfAB8gH0Af0B/wIBAgoCDAIRAhICFAIZAiQCLQI8AkACSAJRAlYCVwJZAl4CeAJ8Ao8ClAKxArMCtQK8Ar8CwQLDAsYCyALKAswC4gL4AvoDCQMOAyQDKAM1AzoDTQNQA2MDagNvA3EDcwN1A3cDfAN+A4ADggOEA4YDigOQA5UDmwOkA60DtgO/A8QDxwPQA9UD6gPtBAIEFAQXBBwAAAAAAAACAQAAAAAAAAB6AAAAAAAAAAAAAAAAAAAEHg=="
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "235C37E6-5336-40CA-9B4C-4CA802190E4A",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 24,
+    "width": 270,
+    "x": 270,
+    "y": 99
+  },
+  "glyphBounds": "{{0, 0}, {269, 20}}",
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Take a video tour in",
+  "nameIsFixed": true,
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "B6E8F14B-0D63-4812-887F-A31CDAF918E8"
+  },
+  "textBehaviour": 0
+}

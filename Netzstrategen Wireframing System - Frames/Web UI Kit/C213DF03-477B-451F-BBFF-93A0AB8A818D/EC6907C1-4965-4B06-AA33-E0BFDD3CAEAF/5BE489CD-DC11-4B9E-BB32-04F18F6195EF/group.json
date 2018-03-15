@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "5BE489CD-DC11-4B9E-BB32-04F18F6195EF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 174,
+    "width": 139,
+    "x": 606,
+    "y": 63
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "FFCF108A-DAC8-483D-9F7C-635364CEE8AD"
+    },
+    {
+      "class": "text",
+      "id": "2DF96656-3313-43AF-80F4-786176311152"
+    },
+    {
+      "class": "text",
+      "id": "DAC76F56-115A-4A28-980A-FFFC588AEE28"
+    },
+    {
+      "class": "text",
+      "id": "BFBBCC77-5A07-474E-9861-B45D4B00019B"
+    }
+  ],
+  "name": "Get in touch",
+  "nameIsFixed": true,
+  "resizingConstraint": 61,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

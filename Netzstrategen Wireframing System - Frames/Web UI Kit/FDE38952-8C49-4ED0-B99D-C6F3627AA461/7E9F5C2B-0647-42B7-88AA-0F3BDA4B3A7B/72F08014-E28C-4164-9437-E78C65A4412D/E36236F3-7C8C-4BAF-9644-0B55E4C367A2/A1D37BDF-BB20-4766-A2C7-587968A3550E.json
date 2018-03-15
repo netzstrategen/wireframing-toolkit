@@ -1,0 +1,54 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "A1D37BDF-BB20-4766-A2C7-587968A3550E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 36,
+    "width": 36,
+    "x": 16,
+    "y": 14
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Icon / File / Folder fill",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "B6B71D1E-F163-4BCC-A2A0-C8257E44EF3C_symbolID",
+      "value": "B5D56557-5E8C-4A04-9A3B-E2EED9779ADA"
+    }
+  ],
+  "overrides": {
+    "B6B71D1E-F163-4BCC-A2A0-C8257E44EF3C": {
+      "symbolID": "B5D56557-5E8C-4A04-9A3B-E2EED9779ADA"
+    }
+  },
+  "resizingConstraint": 41,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "E26E8904-DD73-43D7-97F9-8F880F1D5759",
+  "verticalSpacing": 0
+}

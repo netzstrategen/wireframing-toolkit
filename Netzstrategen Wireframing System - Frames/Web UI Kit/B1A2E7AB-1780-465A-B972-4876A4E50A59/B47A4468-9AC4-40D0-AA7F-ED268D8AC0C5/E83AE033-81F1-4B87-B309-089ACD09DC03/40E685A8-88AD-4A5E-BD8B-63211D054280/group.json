@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "40E685A8-88AD-4A5E-BD8B-63211D054280",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 439.9999999999999,
+    "width": 555,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "22F66582-A6EE-4601-A3D6-990039263AB1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "29843B13-5F11-49FB-B702-C833252023DA"
+    },
+    {
+      "class": "group",
+      "id": "F9465EB9-E5AA-4C69-8B88-12764F74DBFA"
+    },
+    {
+      "class": "group",
+      "id": "4B963964-7ECD-42BA-8E76-5DB3F4FE9901"
+    }
+  ],
+  "name": "Map",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGdndYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QIQcIDxAeHyAhIjI1PD9DR09QUVJTV1tnaGlqa2xtbm9xclUkbnVsbNMJCgsMDQ5YTlNTdHJpbmdWJGNsYXNzXE5TQXR0cmlidXRlc4ACgCCAA18QE0Jha2h0cmlvbmksIFRiaWxpc2nTERIKExgdV05TLmtleXNaTlMub2JqZWN0c6QUFRYXgASABYAGgAekGRobHIAIgA2AFYAfgB5fEBBOU1BhcmFncmFwaFN0eWxlXxAfTVNBdHRyaWJ1dGVkU3RyaW5nRm9udEF0dHJpYnV0ZV8QKk1TQXR0cmlidXRlZFN0cmluZ0NvbG9yRGljdGlvbmFyeUF0dHJpYnV0ZVZOU0tlcm7ZCiMkJSYnKCkqKywtLi8wMTAxWk5TVGFiU3RvcHNdTlNIZWFkZXJMZXZlbFxOU1RleHRCbG9ja3NbTlNUZXh0TGlzdHNfEA9OU01heExpbmVIZWlnaHRfEB9OU0FsbG93c1RpZ2h0ZW5pbmdGb3JUcnVuY2F0aW9uXxAPTlNNaW5MaW5lSGVpZ2h0XxASTlNXcml0aW5nRGlyZWN0aW9ugAyAACNAAAAAAAAAAIAJgAsjQEEAAAAAAAAQAdISCjM0oIAK0jY3ODlaJGNsYXNzbmFtZVgkY2xhc3Nlc15OU011dGFibGVBcnJheaM4OjtXTlNBcnJheVhOU09iamVjdNISCj00oIAK0jY3QEFfEBdOU011dGFibGVQYXJhZ3JhcGhTdHlsZaNAQjtfEBBOU1BhcmFncmFwaFN0eWxl0gpERUZfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AUgA7TERIKSEtOoklKgA+AEKJMTYARgBKAE18QE05TRm9udFNpemVBdHRyaWJ1dGVfEBNOU0ZvbnROYW1lQXR0cmlidXRlEBheUm9ib3RvLVJlZ3VsYXLSNjdUVV8QE05TTXV0YWJsZURpY3Rpb25hcnmjVFY7XE5TRGljdGlvbmFyedI2N1hZXxAQTlNGb250RGVzY3JpcHRvcqJaO18QEE5TRm9udERlc2NyaXB0b3LTERIKXGEdpF1eX2CAFoAXgBiAGaRiY2RlgBqAG4AcgB2AHlNyZWRVYWxwaGFUYmx1ZVVncmVlbiMAAAAAAAAAACM/8AAAAAAAACM/shISEg2LDiM/pBQUFAopSdI2N1ZwolY7Iz/JmZmZmZma0jY3c3RfEBJOU0F0dHJpYnV0ZWRTdHJpbmeidTtfEBJOU0F0dHJpYnV0ZWRTdHJpbmdfEA9OU0tleWVkQXJjaGl2ZXLReHlUcm9vdIABAAgAEQAaACMALQAyADcAWwBhAGgAcQB4AIUAhwCJAIsAoQCoALAAuwDAAMIAxADGAMgAzQDPANEA0wDVANcA6gEMATkBQAFTAV4BbAF5AYUBlwG5AcsB4AHiAeQB7QHvAfEB+gH8AgECAgIEAgkCFAIdAiwCMAI4AkECRgJHAkkCTgJoAmwCfwKEAqECowKlAqwCrwKxArMCtgK4AroCvALSAugC6gL5Av4DFAMYAyUDKgM9A0ADUwNaA18DYQNjA2UDZwNsA24DcANyA3QDdgN6A4ADhQOLA5QDnQOmA68DtAO3A8ADxQPaA90D8gQEBAcEDAAAAAAAAAIBAAAAAAAAAHoAAAAAAAAAAAAAAAAAAAQO"
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "A2740446-F3DB-41BF-8DC2-81F939C74E72",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 34,
+    "width": 186,
+    "x": 24,
+    "y": 24
+  },
+  "glyphBounds": "{{1, 7}, {183, 22}}",
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Bakhtrioni, Tbilisi",
+  "nameIsFixed": false,
+  "resizingConstraint": 9,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "E26C7D9A-6B56-42A0-AFAB-48D6D9611873"
+  },
+  "textBehaviour": 1
+}

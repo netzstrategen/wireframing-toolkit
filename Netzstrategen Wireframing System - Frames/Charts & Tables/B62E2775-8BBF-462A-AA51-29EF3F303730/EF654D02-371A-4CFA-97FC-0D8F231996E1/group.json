@@ -1,0 +1,59 @@
+{
+  "_class": "group",
+  "do_objectID": "EF654D02-371A-4CFA-97FC-0D8F231996E1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 500,
+    "width": 1240,
+    "x": 100,
+    "y": 100
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "D3F7AC05-B6A2-4AF0-BE69-84394F5B78CE"
+    },
+    {
+      "class": "group",
+      "id": "CED4E1A6-90BB-43F4-8B71-41B420367EEE"
+    },
+    {
+      "class": "group",
+      "id": "B264032C-525B-48A0-A9FF-7B41DEDC8433"
+    }
+  ],
+  "name": "Double Column Bar Chart - On White",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

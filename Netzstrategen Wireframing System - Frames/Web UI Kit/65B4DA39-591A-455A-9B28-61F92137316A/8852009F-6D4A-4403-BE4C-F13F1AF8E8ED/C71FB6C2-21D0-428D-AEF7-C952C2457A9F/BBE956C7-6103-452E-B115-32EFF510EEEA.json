@@ -1,0 +1,56 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGeXpYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QIgcIDxAeHyAhIjI1PD9CRkpSU1RVVlpeamtsbW5vcHFydHVVJG51bGzTCQoLDA0OWE5TU3RyaW5nViRjbGFzc1xOU0F0dHJpYnV0ZXOAAoAhgANfEBVpUGhvbmUgNyBQbHVzIE1vY2t1cHPTERIKExgdV05TLmtleXNaTlMub2JqZWN0c6QUFRYXgASABYAGgAekGRobHIAIgA6AFoAggB9fEBBOU1BhcmFncmFwaFN0eWxlXxAfTVNBdHRyaWJ1dGVkU3RyaW5nRm9udEF0dHJpYnV0ZV8QKk1TQXR0cmlidXRlZFN0cmluZ0NvbG9yRGljdGlvbmFyeUF0dHJpYnV0ZVZOU0tlcm7ZCiMkJSYnKCkqKywtLi8wLzAxWk5TVGFiU3RvcHNcTlNUZXh0QmxvY2tzW05TVGV4dExpc3RzXxAPTlNNYXhMaW5lSGVpZ2h0XxAfTlNBbGxvd3NUaWdodGVuaW5nRm9yVHJ1bmNhdGlvbl8QD05TTWluTGluZUhlaWdodF8QEk5TV3JpdGluZ0RpcmVjdGlvbltOU0FsaWdubWVudIANgAmAC4AMI0A7AAAAAAAAEAEQAtISCjM0oIAK0jY3ODlaJGNsYXNzbmFtZVgkY2xhc3Nlc15OU011dGFibGVBcnJheaM4OjtXTlNBcnJheVhOU09iamVjdNISCj00oIAK0hIKQDSggArSNjdDRF8QF05TTXV0YWJsZVBhcmFncmFwaFN0eWxlo0NFO18QEE5TUGFyYWdyYXBoU3R5bGXSCkdISV8QGk5TRm9udERlc2NyaXB0b3JBdHRyaWJ1dGVzgBWAD9MREgpLTlGiTE2AEIARok9QgBKAE4AUXxATTlNGb250U2l6ZUF0dHJpYnV0ZV8QE05TRm9udE5hbWVBdHRyaWJ1dGUQFF1NdWxpLVNlbWlCb2xk0jY3V1hfEBNOU011dGFibGVEaWN0aW9uYXJ5o1dZO1xOU0RpY3Rpb25hcnnSNjdbXF8QEE5TRm9udERlc2NyaXB0b3KiXTtfEBBOU0ZvbnREZXNjcmlwdG9y0xESCl9kHaRgYWJjgBeAGIAZgBqkZWZnaIAbgByAHYAegB9TcmVkVWFscGhhVGJsdWVVZ3JlZW4jP93d3d3nB34jP/AAAAAAAAAjP+Nzc3N5pjIjP+Hx8fHucRfSNjdZc6JZOyM/t0XR8U7iO9I2N3Z3XxASTlNBdHRyaWJ1dGVkU3RyaW5nong7XxASTlNBdHRyaWJ1dGVkU3RyaW5nXxAPTlNLZXllZEFyY2hpdmVy0Xt8VHJvb3SAAQAIABEAGgAjAC0AMgA3AFwAYgBpAHIAeQCGAIgAigCMAKQAqwCzAL4AwwDFAMcAyQDLANAA0gDUANYA2ADaAO0BDwE8AUMBVgFhAW4BegGMAa4BwAHVAeEB4wHlAecB6QHyAfQB9gH7AfwB/gIDAg4CFwImAioCMgI7AkACQQJDAkgCSQJLAlACagJuAoEChgKjAqUCpwKuArECswK1ArgCugK8Ar4C1ALqAuwC+gL/AxUDGQMmAysDPgNBA1QDWwNgA2IDZANmA2gDbQNvA3EDcwN1A3cDewOBA4YDjAOVA54DpwOwA7UDuAPBA8YD2wPeA/MEBQQIBA0AAAAAAAACAQAAAAAAAAB9AAAAAAAAAAAAAAAAAAAEDw=="
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "BBE956C7-6103-452E-B115-32EFF510EEEA",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 27,
+    "width": 218,
+    "x": 71,
+    "y": 440
+  },
+  "glyphBounds": "{{1, 6}, {216, 20}}",
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "iPhone 7 Plus Mockup",
+  "nameIsFixed": true,
+  "resizingConstraint": 45,
+  "resizingType": 1,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "D69E8327-05F0-4EEB-8D04-7D9A48690708"
+  },
+  "textBehaviour": 0,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "isAutoWidth": 0
+      }
+    },
+    "com.sketchapp.slinky-plugin": {
+      "hrefURL": ""
+    }
+  }
+}

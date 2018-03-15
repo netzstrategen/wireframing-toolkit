@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "4E08D784-F38E-4709-9A75-6DFBE3D49BBA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 298,
+    "width": 318,
+    "x": 695.9999999999997,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "1BC54C0C-B1A8-464E-8117-35B9622B5545"
+    },
+    {
+      "class": "text",
+      "id": "EAB2A269-4C2C-49DA-A9D6-8CBB702A3618"
+    },
+    {
+      "class": "text",
+      "id": "3AA94424-DFE1-431C-B296-D6EF168A8FB1"
+    }
+  ],
+  "name": "Person 7",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

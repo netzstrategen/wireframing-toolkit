@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "6EB20FD6-C407-488A-89EF-77A853F131BD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 521,
+    "width": 905,
+    "x": -8.526512829121205e-14,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "9F67C0ED-5EA0-417C-AE0E-9962881C717B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "87F470D7-01BF-45FF-807C-8C5B4F7846E2"
+    }
+  ],
+  "name": "Macbook",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "_class": "group",
+  "do_objectID": "CCFD2BD4-2D3A-4D97-BDCC-F6C2F05AF647",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 570,
+    "width": 1240,
+    "x": 100,
+    "y": 70
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "436D4BFE-A9CE-4629-9C69-AC149EEC5205"
+    },
+    {
+      "class": "group",
+      "id": "9BD473FD-0EDE-4759-B07E-9AE8D3F4173F"
+    },
+    {
+      "class": "group",
+      "id": "2754F8FB-FF9E-42B5-95E5-7EDB02AE7B42"
+    }
+  ],
+  "name": "Mixed Vertical Bar Chart - On White",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

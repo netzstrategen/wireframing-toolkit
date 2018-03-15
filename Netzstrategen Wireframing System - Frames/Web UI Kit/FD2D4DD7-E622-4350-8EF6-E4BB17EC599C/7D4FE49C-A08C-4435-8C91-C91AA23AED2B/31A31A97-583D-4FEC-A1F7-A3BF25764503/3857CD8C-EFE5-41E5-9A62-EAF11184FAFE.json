@@ -1,0 +1,72 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "3857CD8C-EFE5-41E5-9A62-EAF11184FAFE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 48,
+    "width": 120,
+    "x": 1073,
+    "y": 150
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Button / Medium / Basic ",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "199585FE-8122-4CEA-ABA8-8EDBCA0D3BC8_symbolID",
+      "value": "ECDF81BE-BA46-416C-B4D1-460DCFC2AA9E"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "884C3468-0A94-4A38-BEA0-0493ADEAFE3D",
+      "overrideName": "199585FE-8122-4CEA-ABA8-8EDBCA0D3BC8/D7D33C02-00AA-4809-ADC5-A65DE4B63388_symbolID",
+      "value": "397BFF9B-A028-45FD-BC37-19737415196D"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4B310720-D6EA-4696-8B2B-017292243513",
+      "overrideName": "78D80DD0-78E3-4AD9-B14E-7ABBF350A1E7/5832D81F-7936-404F-BC32-1935E6CC0C23_stringValue",
+      "value": "Add User"
+    }
+  ],
+  "overrides": {
+    "199585FE-8122-4CEA-ABA8-8EDBCA0D3BC8": {
+      "D7D33C02-00AA-4809-ADC5-A65DE4B63388": {
+        "symbolID": "397BFF9B-A028-45FD-BC37-19737415196D"
+      },
+      "symbolID": "ECDF81BE-BA46-416C-B4D1-460DCFC2AA9E"
+    },
+    "78D80DD0-78E3-4AD9-B14E-7ABBF350A1E7": {
+      "5832D81F-7936-404F-BC32-1935E6CC0C23": "Add User"
+    }
+  },
+  "resizingConstraint": 12,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "32A69FFF-3CA0-4AA7-961C-A6ABE5D7F032",
+  "verticalSpacing": 0
+}

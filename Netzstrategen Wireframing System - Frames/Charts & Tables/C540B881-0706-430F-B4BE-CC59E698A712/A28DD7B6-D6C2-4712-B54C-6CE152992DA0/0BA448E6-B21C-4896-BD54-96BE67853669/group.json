@@ -1,0 +1,59 @@
+{
+  "_class": "group",
+  "do_objectID": "0BA448E6-B21C-4896-BD54-96BE67853669",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 585,
+    "width": 585,
+    "x": 33,
+    "y": 32
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "4DA944C9-A432-4845-881B-EECB618D1383"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2569AF81-FD29-4FFA-9217-CEE55F341DDF"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "961C6985-D2D7-46C6-93DD-1BCC4A3E099B"
+    }
+  ],
+  "name": "Plot Circles",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

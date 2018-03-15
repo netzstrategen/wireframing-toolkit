@@ -1,0 +1,59 @@
+{
+  "_class": "group",
+  "do_objectID": "200BF1D5-7561-491C-B29B-B4800BEA7FD6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 501,
+    "width": 1240,
+    "x": 100,
+    "y": 100
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "EB200BAC-46D4-4C9C-BA9E-AAAA19D1086C"
+    },
+    {
+      "class": "group",
+      "id": "8BE78023-F39E-45B4-B8E1-35FAEA9B985F"
+    },
+    {
+      "class": "group",
+      "id": "0A463297-8C54-41BB-A49D-5B98CD9A3985"
+    }
+  ],
+  "name": "Line Chart - On White",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

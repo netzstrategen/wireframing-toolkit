@@ -1,0 +1,56 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGaWpYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QIAcIDxAgISIjJCUmJyszNDU2Nz5CS09bXF1eX2BhYmNlVSRudWxs0wkKCwwNDlhOU1N0cmluZ1YkY2xhc3NcTlNBdHRyaWJ1dGVzgAKAH4ADbxB+AKsASQB0IBkAcwAgAG4AbwB0ACAAagB1AHMAdAAgAGEAYgBvAHUAdAAgAGMAbwBwAHkAaQBuAGcAIABhAG4AZAAgAHAAYQBzAHQAaQBuAGcAIABlAGwAZQBtAGUAbgB0AHMALAAgAGEAdAAgAGEAbABsAC4AIABJAHQgGQBzACAAYQBiAG8AdQB0ACAAaQBtAHAAcgBvAHYAaQBuAGcAIAB5AG8AdQByACAAdwBvAHIAawBmAGwAbwB3ACwAIABnAGUAdAB0AGkAbgBnACAAbQBvAHIAZQAgAGEAbgBkACAAdwBvAHIAawBpAG4AZwAgAGwAZQBzAHMALgC70xESChMZH1dOUy5rZXlzWk5TLm9iamVjdHOlFBUWFxiABIAFgAaAB4AIpRobHB0egAmACoALgBOAFYAeXxAoTVNBdHRyaWJ1dGVkU3RyaW5nVGV4dFRyYW5zZm9ybUF0dHJpYnV0ZVZOU0tlcm5fEB9NU0F0dHJpYnV0ZWRTdHJpbmdGb250QXR0cmlidXRlXxAQTlNQYXJhZ3JhcGhTdHlsZV8QKk1TQXR0cmlidXRlZFN0cmluZ0NvbG9yRGljdGlvbmFyeUF0dHJpYnV0ZRAAIz+0euEcuva30gooKSpfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4ASgAzTERIKLC8yoi0ugA2ADqIwMYAPgBCAEV8QE05TRm9udFNpemVBdHRyaWJ1dGVfEBNOU0ZvbnROYW1lQXR0cmlidXRlEBBeUm9ib3RvLVJlZ3VsYXLSODk6O1okY2xhc3NuYW1lWCRjbGFzc2VzXxATTlNNdXRhYmxlRGljdGlvbmFyeaM6PD1cTlNEaWN0aW9uYXJ5WE5TT2JqZWN00jg5P0BfEBBOU0ZvbnREZXNjcmlwdG9yokE9XxAQTlNGb250RGVzY3JpcHRvctVDCkRFRkdISUpJWk5TVGFiU3RvcHNfEA9OU01pbkxpbmVIZWlnaHRfEB9OU0FsbG93c1RpZ2h0ZW5pbmdGb3JUcnVuY2F0aW9uXxAPTlNNYXhMaW5lSGVpZ2h0gACAFCNANgAAAAAAABAB0jg5TE1fEBdOU011dGFibGVQYXJhZ3JhcGhTdHlsZaNMTj1fEBBOU1BhcmFncmFwaFN0eWxl0xESClBVH6RRUlNUgBaAF4AYgBmkVldYWYAagBuAHIAdgB5TcmVkVWFscGhhVGJsdWVVZ3JlZW4jP93d3d3nB34jP/AAAAAAAAAjP+Nzc3N5pjIjP+Hx8fHucRfSODk8ZKI8PdI4OWZnXxASTlNBdHRyaWJ1dGVkU3RyaW5nomg9XxASTlNBdHRyaWJ1dGVkU3RyaW5nXxAPTlNLZXllZEFyY2hpdmVy0WtsVHJvb3SAAQAIABEAGgAjAC0AMgA3AFoAYABnAHAAdwCEAIYAiACKAYkBkAGYAaMBqQGrAa0BrwGxAbMBuQG7Ab0BvwHBAcMBxQHwAfcCGQIsAlkCWwJkAmkChgKIAooCkQKUApYCmAKbAp0CnwKhArcCzQLPAt4C4wLuAvcDDQMRAx4DJwMsAz8DQgNVA2ADawN9A58DsQOzA7UDvgPAA8UD3wPjA/YD/QQCBAQEBgQIBAoEDwQRBBMEFQQXBBkEHQQjBCgELgQ3BEAESQRSBFcEWgRfBHQEdwSMBJ4EoQSmAAAAAAAAAgEAAAAAAAAAbQAAAAAAAAAAAAAAAAAABKg="
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "FBA81EB2-098D-496E-B66E-B2DE5517FDE2",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 66,
+    "width": 319.9999999999993,
+    "x": 20,
+    "y": 88
+  },
+  "glyphBounds": "{{0, 4}, {300, 60}}",
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "«It’s not just about",
+  "nameIsFixed": false,
+  "resizingConstraint": 11,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "5A86E63A-29C6-449A-845C-75417D0A33CC"
+  },
+  "textBehaviour": 1,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "isAutoWidth": 0
+      }
+    },
+    "com.sketchapp.slinky-plugin": {
+      "hrefURL": ""
+    }
+  }
+}

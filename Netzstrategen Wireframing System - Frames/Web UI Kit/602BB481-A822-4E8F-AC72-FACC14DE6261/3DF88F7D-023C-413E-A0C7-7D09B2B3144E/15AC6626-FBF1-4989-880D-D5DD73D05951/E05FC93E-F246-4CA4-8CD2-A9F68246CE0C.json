@@ -1,0 +1,54 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "E05FC93E-F246-4CA4-8CD2-A9F68246CE0C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 26,
+    "width": 26,
+    "x": 20,
+    "y": 20
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Icon / Heart / Fill",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "C152CDB7-0709-489F-A522-6DC092761CEA_symbolID",
+      "value": "9E1C3B28-96E0-4D3C-A702-0076EEF55303"
+    }
+  ],
+  "overrides": {
+    "C152CDB7-0709-489F-A522-6DC092761CEA": {
+      "symbolID": "9E1C3B28-96E0-4D3C-A702-0076EEF55303"
+    }
+  },
+  "resizingConstraint": 27,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "15BC421F-07B0-4F2B-93DC-A9F109B35C6D",
+  "verticalSpacing": 0
+}

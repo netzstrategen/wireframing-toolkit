@@ -1,0 +1,93 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "728D4713-49E2-4D47-8885-6BDD5F699089",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 28.53225806451611,
+    "width": 146.9999999999999,
+    "x": 1.70530256582424e-13,
+    "y": 0
+  },
+  "hasClickThrough": true,
+  "hasClippingMask": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "ED7E1498-C330-4726-9FC3-327DF250EC85"
+    },
+    {
+      "class": "shapePath",
+      "id": "23E8C747-012A-4D1C-BA50-C2673B50DD71"
+    },
+    {
+      "class": "shapePath",
+      "id": "1DAD220A-6D9F-49F2-ADDD-55FCFCEE2821"
+    },
+    {
+      "class": "shapePath",
+      "id": "904321BB-0212-46E4-8110-2126E79A3EDF"
+    },
+    {
+      "class": "shapePath",
+      "id": "AA9A4B25-F12D-44BC-8ED3-D5C1DE0C29CB"
+    },
+    {
+      "class": "shapePath",
+      "id": "C09E31A3-60BB-4BE7-8F55-DF22DBC29D87"
+    },
+    {
+      "class": "shapePath",
+      "id": "6C81095B-2886-45DE-89A3-CF159CFA941E"
+    },
+    {
+      "class": "shapePath",
+      "id": "F82F81EF-F802-4403-AF93-FD4A9C653090"
+    },
+    {
+      "class": "shapePath",
+      "id": "0ED0FAB6-6D42-4253-85ED-10B4079CAF59"
+    },
+    {
+      "class": "shapePath",
+      "id": "4146DF5B-26BB-4118-B2EE-7B5416B25B5A"
+    },
+    {
+      "class": "shapePath",
+      "id": "DA6152FA-F189-4431-8DF8-A90BCECA3E2E"
+    },
+    {
+      "class": "shapePath",
+      "id": "5D2B3020-552F-4D36-96B4-8FD129C757DE"
+    },
+    {
+      "class": "shapePath",
+      "id": "398BB6B6-1E50-4F09-B606-C6E3DA2ABBBB"
+    }
+  ],
+  "name": "facebook",
+  "nameIsFixed": true,
+  "resizingConstraint": 61,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "972F72A5-A485-4798-8E0E-A984F397E525"
+  },
+  "windingRule": 1
+}

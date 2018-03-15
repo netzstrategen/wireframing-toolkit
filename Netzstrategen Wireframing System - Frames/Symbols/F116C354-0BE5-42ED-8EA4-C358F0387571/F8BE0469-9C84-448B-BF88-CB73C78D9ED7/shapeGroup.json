@@ -1,0 +1,69 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "F8BE0469-9C84-448B-BF88-CB73C78D9ED7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 22,
+    "width": 22,
+    "x": 1,
+    "y": 1
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "D93DD508-0860-4F59-9EB7-617DD3C1154D"
+    },
+    {
+      "class": "shapePath",
+      "id": "7C343F55-013C-4088-A3A5-F8E7C290F520"
+    },
+    {
+      "class": "shapePath",
+      "id": "BB196732-A4C9-4E0D-B2D1-A6E09D81C086"
+    },
+    {
+      "class": "shapePath",
+      "id": "DC994F70-B7C7-41AB-845D-4E9DA3FA7371"
+    }
+  ],
+  "name": "Spotify",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 12.89950232887248,
+      "type": 0
+    },
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "sharedObjectID": "8B48313C-D555-4464-AE64-1CEFCAECE891",
+    "startDecorationType": 0
+  },
+  "windingRule": 1
+}

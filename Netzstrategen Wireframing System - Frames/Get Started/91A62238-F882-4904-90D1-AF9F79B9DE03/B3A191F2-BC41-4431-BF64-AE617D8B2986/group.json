@@ -1,0 +1,59 @@
+{
+  "_class": "group",
+  "do_objectID": "B3A191F2-BC41-4431-BF64-AE617D8B2986",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 2158,
+    "width": 1200,
+    "x": 70,
+    "y": 70
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "912D4822-2C6C-44CB-8DD0-7A3C4DB477B2"
+    },
+    {
+      "class": "group",
+      "id": "8FCE1C6A-73EC-4F2A-B19A-22DD1342A2D2"
+    },
+    {
+      "class": "group",
+      "id": "2A0714F6-C3E2-4B5D-8F59-799189D33E31"
+    }
+  ],
+  "name": "Roboto",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGa2xYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QIAcIDxAgISIjJCUmJyszNDU2Nz5CTVFdXl9gYWJjZGVnVSRudWxs0wkKCwwNDlhOU1N0cmluZ1YkY2xhc3NcTlNBdHRyaWJ1dGVzgAKAH4ADbxA1AFMAaQB0AGUAbQBhAHAALgAgAFAAcgBpAHYAYQBjAHkAIAAmACAAVABlAHIAbQBzACAAqQAgAFIAbwBiAG8AdwBvAGwAZgAsACAAUwBhAGkAbgB0AC0AUABlAHQAZQByAHMAYgB1AHIAZ9MREgoTGR9XTlMua2V5c1pOUy5vYmplY3RzpRQVFhcYgASABYAGgAeACKUaGxwdHoAJgAqAC4ATgBWAHl8QKE1TQXR0cmlidXRlZFN0cmluZ1RleHRUcmFuc2Zvcm1BdHRyaWJ1dGVWTlNLZXJuXxAfTVNBdHRyaWJ1dGVkU3RyaW5nRm9udEF0dHJpYnV0ZV8QEE5TUGFyYWdyYXBoU3R5bGVfECpNU0F0dHJpYnV0ZWRTdHJpbmdDb2xvckRpY3Rpb25hcnlBdHRyaWJ1dGUQACM/two9cKPXCtIKKCkqXxAaTlNGb250RGVzY3JpcHRvckF0dHJpYnV0ZXOAEoAM0xESCiwvMqItLoANgA6iMDGAD4AQgBFfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZRASXlJvYm90by1SZWd1bGFy0jg5OjtaJGNsYXNzbmFtZVgkY2xhc3Nlc18QE05TTXV0YWJsZURpY3Rpb25hcnmjOjw9XE5TRGljdGlvbmFyeVhOU09iamVjdNI4OT9AXxAQTlNGb250RGVzY3JpcHRvcqJBPV8QEE5TRm9udERlc2NyaXB0b3LWQ0RFCkZHSElKS0xKW05TQWxpZ25tZW50Wk5TVGFiU3RvcHNfEA9OU01pbkxpbmVIZWlnaHRfEB9OU0FsbG93c1RpZ2h0ZW5pbmdGb3JUcnVuY2F0aW9uXxAPTlNNYXhMaW5lSGVpZ2h0EAKAACNAOAAAAAAAAIAUEAHSODlOT18QF05TTXV0YWJsZVBhcmFncmFwaFN0eWxlo05QPV8QEE5TUGFyYWdyYXBoU3R5bGXTERIKUlcfpFNUVVaAFoAXgBiAGaRYWVpbgBqAG4AcgB2AHlNyZWRVYWxwaGFUYmx1ZVVncmVlbiM/3d3d3ecHfiM/8AAAAAAAACM/43Nzc3mmMiM/4fHx8e5xF9I4OTxmojw90jg5aGlfEBJOU0F0dHJpYnV0ZWRTdHJpbmeiaj1fEBJOU0F0dHJpYnV0ZWRTdHJpbmdfEA9OU0tleWVkQXJjaGl2ZXLRbW5Ucm9vdIABAAgAEQAaACMALQAyADcAWgBgAGcAcAB3AIQAhgCIAIoA9wD+AQYBEQEXARkBGwEdAR8BIQEnASkBKwEtAS8BMQEzAV4BZQGHAZoBxwHJAdIB1wH0AfYB+AH/AgICBAIGAgkCCwINAg8CJQI7Aj0CTAJRAlwCZQJ7An8CjAKVApoCrQKwAsMC0ALcAucC+QMbAy0DLwMxAzoDPAM+A0MDXQNhA3QDewOAA4IDhAOGA4gDjQOPA5EDkwOVA5cDmwOhA6YDrAO1A74DxwPQA9UD2APdA/ID9QQKBBwEHwQkAAAAAAAAAgEAAAAAAAAAbwAAAAAAAAAAAAAAAAAABCY="
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "C2F6DDAB-DA96-475C-8A52-18062D2B8CD6",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 24,
+    "width": 449,
+    "x": 345.5,
+    "y": 30
+  },
+  "glyphBounds": "{{0, 4}, {448, 18}}",
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Sitemap. Privacy & T",
+  "nameIsFixed": false,
+  "resizingConstraint": 13,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "0CCEB8BF-99FF-448F-9FEE-03656643023B"
+  },
+  "textBehaviour": 0
+}

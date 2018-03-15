@@ -1,0 +1,59 @@
+{
+  "_class": "group",
+  "do_objectID": "16D0017E-A787-479C-8386-6F9496F32FBC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 500,
+    "width": 1240,
+    "x": 100,
+    "y": 775
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "B2E37E28-25EE-4ADB-95E9-CAEA8FD95DD3"
+    },
+    {
+      "class": "group",
+      "id": "6667B51D-0282-45A2-863C-37D24DB0DFB5"
+    },
+    {
+      "class": "group",
+      "id": "049E69CF-FA31-4700-A464-1608C42A2143"
+    }
+  ],
+  "name": "Bubble Chart - On Dark",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

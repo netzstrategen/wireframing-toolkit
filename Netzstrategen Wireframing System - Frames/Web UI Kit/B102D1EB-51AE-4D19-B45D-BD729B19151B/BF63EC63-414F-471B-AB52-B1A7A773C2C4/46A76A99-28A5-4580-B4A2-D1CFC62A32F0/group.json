@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "46A76A99-28A5-4580-B4A2-D1CFC62A32F0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 280,
+    "width": 317,
+    "x": 248,
+    "y": 123
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "3165D45C-B1C0-4A17-9820-AC5CC4228D6F"
+    },
+    {
+      "class": "group",
+      "id": "BEF2564C-F62D-434F-9E0F-EAD4AE909B57"
+    },
+    {
+      "class": "group",
+      "id": "3AC5E415-E51A-4223-86DD-2255042BF4FB"
+    },
+    {
+      "class": "text",
+      "id": "34F38D0B-DCF9-4869-8D19-5AB6C21BA17C"
+    },
+    {
+      "class": "text",
+      "id": "27FB945E-CBDD-45FE-B9CA-3DDF8A333DC5"
+    }
+  ],
+  "name": "F.A.Q",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "70B4B7F2-2C79-436E-9CBC-5C52FAC4D575",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 200,
+    "width": 360,
+    "x": 150,
+    "y": 105
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "6077D002-C99C-4C83-9E49-7459C1043E0F"
+    },
+    {
+      "class": "text",
+      "id": "AB6D9255-8EBF-47AB-8537-4308730C7D75"
+    },
+    {
+      "class": "text",
+      "id": "B8716780-1A19-4D20-9517-BC3C6A977E3D"
+    },
+    {
+      "class": "text",
+      "id": "84486193-55D7-41B1-ABD1-AFB4586AE484"
+    }
+  ],
+  "name": "Testimonial 1",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

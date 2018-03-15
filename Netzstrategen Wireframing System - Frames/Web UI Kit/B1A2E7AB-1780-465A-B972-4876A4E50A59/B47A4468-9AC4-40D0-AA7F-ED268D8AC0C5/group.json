@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "do_objectID": "B47A4468-9AC4-40D0-AA7F-ED268D8AC0C5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1060,
+    "width": 1440,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "1AE93BD2-A6A1-465A-ACA6-C78BD169C4E1"
+    },
+    {
+      "class": "group",
+      "id": "2F9A8239-C1F8-4465-BDA8-4AD83707D339"
+    },
+    {
+      "class": "group",
+      "id": "FE0798B4-63DA-4BBF-8903-617B73A57817"
+    },
+    {
+      "class": "group",
+      "id": "5CED53D1-C9B8-439F-80B2-EE0487C98E87"
+    },
+    {
+      "class": "group",
+      "id": "E83AE033-81F1-4B87-B309-089ACD09DC03"
+    },
+    {
+      "class": "group",
+      "id": "FF41A37C-D924-4E3B-9187-3F3D3E587760"
+    }
+  ],
+  "name": "Dashboard - 02",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

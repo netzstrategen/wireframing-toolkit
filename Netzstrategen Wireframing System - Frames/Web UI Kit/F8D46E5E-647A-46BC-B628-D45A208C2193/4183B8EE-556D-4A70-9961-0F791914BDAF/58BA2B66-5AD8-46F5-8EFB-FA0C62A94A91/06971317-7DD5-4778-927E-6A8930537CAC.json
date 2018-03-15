@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "06971317-7DD5-4778-927E-6A8930537CAC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 72,
+    "width": 72,
+    "x": 144,
+    "y": 36
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Data / Container / Icon Holder",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "47447162-D0D7-415E-A1F9-908AE2603683/A730C3A1-9592-445D-A7CC-297EAFD7DEE7_symbolID",
+      "value": ""
+    }
+  ],
+  "overrides": {
+    "47447162-D0D7-415E-A1F9-908AE2603683": {
+      "A730C3A1-9592-445D-A7CC-297EAFD7DEE7": {
+        "symbolID": ""
+      }
+    }
+  },
+  "resizingConstraint": 13,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "F7E5614E-E4EF-4CE3-AEBB-2696CD261132",
+  "verticalSpacing": 0
+}

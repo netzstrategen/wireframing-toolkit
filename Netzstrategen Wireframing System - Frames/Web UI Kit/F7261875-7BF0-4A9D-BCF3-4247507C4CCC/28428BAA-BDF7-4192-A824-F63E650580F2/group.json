@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "28428BAA-BDF7-4192-A824-F63E650580F2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 600,
+    "width": 1440,
+    "x": -1,
+    "y": 1
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "F4AFCB17-12AB-4C8C-A1B4-B8D37630BABF"
+    },
+    {
+      "class": "group",
+      "id": "E4340B1E-3044-4E44-B8F1-628BAE9E35AF"
+    },
+    {
+      "class": "group",
+      "id": "AB715860-B3AD-4CF1-AD97-499460EC9FB1"
+    },
+    {
+      "class": "group",
+      "id": "9F4A6040-56DA-4092-9212-77E2CAD87F30"
+    }
+  ],
+  "name": "Forms & Contacts - 12",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

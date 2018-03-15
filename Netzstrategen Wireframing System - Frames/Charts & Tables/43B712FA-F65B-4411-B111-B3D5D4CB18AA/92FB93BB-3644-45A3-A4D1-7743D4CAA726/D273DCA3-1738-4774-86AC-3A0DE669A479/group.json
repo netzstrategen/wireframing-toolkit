@@ -1,0 +1,101 @@
+{
+  "_class": "group",
+  "do_objectID": "D273DCA3-1738-4774-86AC-3A0DE669A479",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 600,
+    "width": 40,
+    "x": 0,
+    "y": 40
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "6B0FB76D-6621-4354-B6CF-6CB816122F8D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DB9E722B-7463-42A3-AAC3-436CF3991F36"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D649AE89-A71A-4FDD-B628-A6B0B2FF8EA9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6447F9B1-2721-4D99-B1CA-FE685C2C7729"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E2DA29D2-96C8-4E13-8F73-F9A6C187D3F3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "24ED8D3D-8523-4BF1-A373-5AE7F5B47E7C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0A9240EF-64CD-4A1C-AF5A-A752B9C828A3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4C062B4E-D0C9-4F41-95C0-988F12F27E42"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9645E226-8415-4F72-8C4F-D7C1EFD954A7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E5093C08-7B4E-4651-B88F-59ABD5031AD1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6883ADFD-FE6F-46F7-8002-F85D6EEF7EB2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E82B1107-7367-442C-846B-EE394245F28B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B485A898-108B-4B6B-B294-5FE0D52F388E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F0D2CBF5-0901-49E4-A835-58032AD071B4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "164FEC11-0DDB-49DE-80ED-0A859ACFEE2F"
+    }
+  ],
+  "name": "Side bar",
+  "nameIsFixed": true,
+  "resizingConstraint": 25,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

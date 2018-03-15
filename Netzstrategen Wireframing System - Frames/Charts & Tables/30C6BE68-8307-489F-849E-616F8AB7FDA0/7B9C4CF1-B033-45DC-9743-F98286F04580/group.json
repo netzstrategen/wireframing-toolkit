@@ -1,0 +1,59 @@
+{
+  "_class": "group",
+  "do_objectID": "7B9C4CF1-B033-45DC-9743-F98286F04580",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 501,
+    "width": 1240,
+    "x": 100,
+    "y": 100
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "2BD08C52-5510-4A76-BECB-EC31922FA704"
+    },
+    {
+      "class": "group",
+      "id": "9F75966D-F8F8-459F-9969-E5A04ED2C082"
+    },
+    {
+      "class": "group",
+      "id": "7AC6C3A1-61BA-4589-BB18-0F7F6136B57A"
+    }
+  ],
+  "name": "Area Line Chart - On White",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

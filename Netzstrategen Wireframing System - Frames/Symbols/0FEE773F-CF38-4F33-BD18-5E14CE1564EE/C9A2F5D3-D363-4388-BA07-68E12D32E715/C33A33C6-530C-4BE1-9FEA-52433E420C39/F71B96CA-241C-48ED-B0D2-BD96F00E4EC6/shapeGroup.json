@@ -1,0 +1,64 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "F71B96CA-241C-48ED-B0D2-BD96F00E4EC6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 14,
+    "width": 134,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "oval",
+      "id": "471AD347-489D-4E7B-B751-9204CFB567B8"
+    },
+    {
+      "class": "oval",
+      "id": "61942C15-63B7-4CFA-9696-18DE6F7114CE"
+    },
+    {
+      "class": "oval",
+      "id": "4512823C-F484-48A2-84C4-71796F5A3652"
+    },
+    {
+      "class": "oval",
+      "id": "141990E3-B440-4B7F-BE8B-ABCE24FA5636"
+    },
+    {
+      "class": "oval",
+      "id": "45F98685-2B3D-4F4C-8D47-6E38F80DFAF7"
+    }
+  ],
+  "name": "Dots",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "windingRule": 1
+}

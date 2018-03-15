@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "E54FF978-2231-4015-9333-9E416E8DD901",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 425,
+    "width": 1300,
+    "x": 70,
+    "y": 1056
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "DF7FF81D-64AF-4552-9BF6-44198ECEE934"
+    },
+    {
+      "class": "group",
+      "id": "5DB232D6-204D-40F3-A894-BD6423245850"
+    },
+    {
+      "class": "group",
+      "id": "CCDE126D-10B2-40EA-AB01-A0C6C4B670AF"
+    },
+    {
+      "class": "group",
+      "id": "62A31D50-361E-4C31-A088-138ED6C63781"
+    },
+    {
+      "class": "text",
+      "id": "DE42DEE9-8D73-4F67-B8D2-58FF69F565EE"
+    }
+  ],
+  "name": "Shades of grey",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

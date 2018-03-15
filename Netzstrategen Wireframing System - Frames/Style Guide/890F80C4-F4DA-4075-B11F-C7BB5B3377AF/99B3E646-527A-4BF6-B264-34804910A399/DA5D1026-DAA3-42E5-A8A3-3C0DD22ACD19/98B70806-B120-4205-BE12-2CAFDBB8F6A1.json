@@ -1,0 +1,76 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "98B70806-B120-4205-BE12-2CAFDBB8F6A1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 36,
+    "width": 117,
+    "x": 0,
+    "y": 152
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Button / Small / Basic",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "F4560003-0788-4177-99A1-A0FEC881C605_symbolID",
+      "value": "E44D300F-3A02-46D0-BCED-152D7910E4E4"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "F4560003-0788-4177-99A1-A0FEC881C605/AF60D3B7-8A93-49C1-9B01-B6485CB736C5_symbolID",
+      "value": "9E1C3B28-96E0-4D3C-A702-0076EEF55303"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "01D7F749-D744-4755-8432-30BED971D5F4_symbolID",
+      "value": "F9F7E993-FF13-4BB2-B793-29589BC80FA4"
+    }
+  ],
+  "overrides": {
+    "01D7F749-D744-4755-8432-30BED971D5F4": {
+      "symbolID": "F9F7E993-FF13-4BB2-B793-29589BC80FA4"
+    },
+    "F4560003-0788-4177-99A1-A0FEC881C605": {
+      "AF60D3B7-8A93-49C1-9B01-B6485CB736C5": {
+        "symbolID": "9E1C3B28-96E0-4D3C-A702-0076EEF55303"
+      },
+      "symbolID": "E44D300F-3A02-46D0-BCED-152D7910E4E4"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "03540A22-6200-4B52-A007-904EBC9F8D61",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

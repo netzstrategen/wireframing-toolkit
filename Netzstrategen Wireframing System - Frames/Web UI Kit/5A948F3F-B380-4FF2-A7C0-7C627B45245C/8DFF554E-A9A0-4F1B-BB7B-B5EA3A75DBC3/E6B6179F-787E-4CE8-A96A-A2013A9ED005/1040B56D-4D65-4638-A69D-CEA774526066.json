@@ -1,0 +1,131 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "1040B56D-4D65-4638-A69D-CEA774526066",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 64,
+    "width": 750,
+    "x": 345,
+    "y": 188
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Form / Input / Basic + L, R.Icon",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "82B9655A-7911-41AE-B471-F03FFCA8EF52_symbolID",
+      "value": "3FFE8AF8-453C-4BE6-A995-073078A6B78C"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "82B9655A-7911-41AE-B471-F03FFCA8EF52/16EA128D-6EF6-47CE-91AE-7AD07CDBD0C9_symbolID",
+      "value": "B0C77062-B2A7-49FE-BBF3-80B775914D34"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "82B9655A-7911-41AE-B471-F03FFCA8EF52/7839982B-263B-435E-BCA7-516F1FE821AB_symbolID",
+      "value": "B0C77062-B2A7-49FE-BBF3-80B775914D34"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "82B9655A-7911-41AE-B471-F03FFCA8EF52/4FA2D890-B710-4649-8898-F7FE0B1B555B_symbolID",
+      "value": "B0C77062-B2A7-49FE-BBF3-80B775914D34"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "0AE8CFDF-7952-4AEB-91E9-1EDED6B360BE_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "0AE8CFDF-7952-4AEB-91E9-1EDED6B360BE/7839982B-263B-435E-BCA7-516F1FE821AB_symbolID",
+      "value": "B0C77062-B2A7-49FE-BBF3-80B775914D34"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "0AE8CFDF-7952-4AEB-91E9-1EDED6B360BE/4FA2D890-B710-4649-8898-F7FE0B1B555B_symbolID",
+      "value": "B0C77062-B2A7-49FE-BBF3-80B775914D34"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "0D82DDC8-C7C2-4D43-A89E-8459371B5491_symbolID",
+      "value": "7258813C-3875-401C-83BD-498E2B003679"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "0D82DDC8-C7C2-4D43-A89E-8459371B5491/6907AEB2-A2B1-499E-B23E-C8A1B09527A3_stringValue",
+      "value": "Search for photos"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7E7E73B7-4101-4352-A994-4943B15856D2",
+      "overrideName": "EA951BD8-D2A2-4109-AA47-0A0A0C707667_symbolID",
+      "value": "74E4E90E-4149-4AA8-8313-A710B8853307"
+    }
+  ],
+  "overrides": {
+    "0AE8CFDF-7952-4AEB-91E9-1EDED6B360BE": {
+      "4FA2D890-B710-4649-8898-F7FE0B1B555B": {
+        "symbolID": "B0C77062-B2A7-49FE-BBF3-80B775914D34"
+      },
+      "7839982B-263B-435E-BCA7-516F1FE821AB": {
+        "symbolID": "B0C77062-B2A7-49FE-BBF3-80B775914D34"
+      },
+      "symbolID": ""
+    },
+    "0D82DDC8-C7C2-4D43-A89E-8459371B5491": {
+      "6907AEB2-A2B1-499E-B23E-C8A1B09527A3": "Search for photos",
+      "symbolID": "7258813C-3875-401C-83BD-498E2B003679"
+    },
+    "82B9655A-7911-41AE-B471-F03FFCA8EF52": {
+      "16EA128D-6EF6-47CE-91AE-7AD07CDBD0C9": {
+        "symbolID": "B0C77062-B2A7-49FE-BBF3-80B775914D34"
+      },
+      "4FA2D890-B710-4649-8898-F7FE0B1B555B": {
+        "symbolID": "B0C77062-B2A7-49FE-BBF3-80B775914D34"
+      },
+      "7839982B-263B-435E-BCA7-516F1FE821AB": {
+        "symbolID": "B0C77062-B2A7-49FE-BBF3-80B775914D34"
+      },
+      "symbolID": "3FFE8AF8-453C-4BE6-A995-073078A6B78C"
+    },
+    "EA951BD8-D2A2-4109-AA47-0A0A0C707667": {
+      "symbolID": "74E4E90E-4149-4AA8-8313-A710B8853307"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "F2A1D205-72DC-4947-A851-8AC012A6F37A",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

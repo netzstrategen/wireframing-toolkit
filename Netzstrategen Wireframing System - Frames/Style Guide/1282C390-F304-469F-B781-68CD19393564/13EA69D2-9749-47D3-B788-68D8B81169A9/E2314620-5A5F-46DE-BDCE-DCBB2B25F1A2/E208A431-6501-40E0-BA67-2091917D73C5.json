@@ -1,0 +1,66 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGd3hYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QIgcIDxAeHyAhIjAzOj1AREhQUVJTVFhcaGlqa2xtbm9wcnNVJG51bGzTCQoLDA0OWE5TU3RyaW5nViRjbGFzc1xOU0F0dHJpYnV0ZXOAAoAhgANfECtUaGUgc3BlY3RhY2xlIGJlZm9yZSB1cyB3YXMgaW5kZWVkIHN1YmxpbWUu0xESChMYHVdOUy5rZXlzWk5TLm9iamVjdHOkFBUWF4AEgAWABoAHpBkaGxyACIAOgBaAIIAfXxAQTlNQYXJhZ3JhcGhTdHlsZV8QH01TQXR0cmlidXRlZFN0cmluZ0ZvbnRBdHRyaWJ1dGVfECpNU0F0dHJpYnV0ZWRTdHJpbmdDb2xvckRpY3Rpb25hcnlBdHRyaWJ1dGVWTlNLZXJu2AojJCUmJygpKissLS4vLy5aTlNUYWJTdG9wc1tOU1RleHRMaXN0c1xOU1RleHRCbG9ja3NfEB9OU0FsbG93c1RpZ2h0ZW5pbmdGb3JUcnVuY2F0aW9uXxAPTlNNYXhMaW5lSGVpZ2h0XxAPTlNNaW5MaW5lSGVpZ2h0XxASTlNXcml0aW5nRGlyZWN0aW9ugA2ACYAMgAsQASNAOwAAAAAAANISCjEyoIAK0jQ1NjdaJGNsYXNzbmFtZVgkY2xhc3Nlc15OU011dGFibGVBcnJheaM2ODlXTlNBcnJheVhOU09iamVjdNISCjsyoIAK0hIKPjKggArSNDVBQl8QF05TTXV0YWJsZVBhcmFncmFwaFN0eWxlo0FDOV8QEE5TUGFyYWdyYXBoU3R5bGXSCkVGR18QGk5TRm9udERlc2NyaXB0b3JBdHRyaWJ1dGVzgBWAD9MREgpJTE+iSkuAEIARok1OgBKAE4AUXxATTlNGb250U2l6ZUF0dHJpYnV0ZV8QE05TRm9udE5hbWVBdHRyaWJ1dGUQFF1NdWxpLVNlbWlCb2xk0jQ1VVZfEBNOU011dGFibGVEaWN0aW9uYXJ5o1VXOVxOU0RpY3Rpb25hcnnSNDVZWl8QEE5TRm9udERlc2NyaXB0b3KiWzlfEBBOU0ZvbnREZXNjcmlwdG9y0xESCl1iHaReX2BhgBeAGIAZgBqkY2RlZoAbgByAHYAegB9TcmVkVWFscGhhVGJsdWVVZ3JlZW4jAAAAAAAAAAAjP/AAAAAAAAAjP7ISEhINiw4jP6QUFBQKKUnSNDVXcaJXOSM/t0XR8U7iO9I0NXR1XxASTlNBdHRyaWJ1dGVkU3RyaW5nonY5XxASTlNBdHRyaWJ1dGVkU3RyaW5nXxAPTlNLZXllZEFyY2hpdmVy0Xl6VHJvb3SAAQAIABEAGgAjAC0AMgA3AFwAYgBpAHIAeQCGAIgAigCMALoAwQDJANQA2QDbAN0A3wDhAOYA6ADqAOwA7gDwAQMBJQFSAVkBagF1AYEBjgGwAcIB1AHpAesB7QHvAfEB8wH8AgECAgIEAgkCFAIdAiwCMAI4AkECRgJHAkkCTgJPAlECVgJwAnQChwKMAqkCqwKtArQCtwK5ArsCvgLAAsICxALaAvAC8gMAAwUDGwMfAywDMQNEA0cDWgNhA2YDaANqA2wDbgNzA3UDdwN5A3sDfQOBA4cDjAOSA5sDpAOtA7YDuwO+A8cDzAPhA+QD+QQLBA4EEwAAAAAAAAIBAAAAAAAAAHsAAAAAAAAAAAAAAAAAAAQV"
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "E208A431-6501-40E0-BA67-2091917D73C5",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 27,
+    "width": 605,
+    "x": 0,
+    "y": 67
+  },
+  "glyphBounds": "{{0, 6}, {420, 20}}",
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "description",
+  "nameIsFixed": true,
+  "resizingConstraint": 41,
+  "resizingType": 3,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "EE73D23B-5484-4FEF-AC87-6330E0066AF9"
+  },
+  "textBehaviour": 1,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "isAutoWidth": 1
+      }
+    },
+    "com.invisionlabs.duplicate": {
+      "type-duplicate": {
+        "action": "article",
+        "options": {
+          "section": "technology",
+          "type": "title"
+        },
+        "title": "Technology"
+      }
+    },
+    "com.sketchapp.slinky-plugin": {
+      "hrefURL": ""
+    }
+  }
+}

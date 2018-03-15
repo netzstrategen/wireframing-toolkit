@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "do_objectID": "0EB0FD6F-BDC4-4C00-8BE0-11196BE2F07B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 501,
+    "width": 1199,
+    "x": 40,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "3CDCDE6B-7D4D-4749-88BC-CC1040961BF0"
+    },
+    {
+      "class": "group",
+      "id": "94FFAC42-2856-4404-B812-15EA01151D1E"
+    },
+    {
+      "class": "group",
+      "id": "1611542A-F877-4CAE-ABA6-567EEBBA5417"
+    },
+    {
+      "class": "group",
+      "id": "D7E01940-C35C-435E-AF01-34AF1D5312AF"
+    }
+  ],
+  "name": "Chart",
+  "nameIsFixed": true,
+  "resizingConstraint": 58,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

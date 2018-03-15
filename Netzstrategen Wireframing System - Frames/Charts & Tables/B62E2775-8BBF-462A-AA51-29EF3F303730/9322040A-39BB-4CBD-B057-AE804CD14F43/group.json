@@ -1,0 +1,59 @@
+{
+  "_class": "group",
+  "do_objectID": "9322040A-39BB-4CBD-B057-AE804CD14F43",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 500,
+    "width": 1240,
+    "x": 100,
+    "y": 785
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "D7861677-6A97-45A9-8EA7-96BD9C8B1B40"
+    },
+    {
+      "class": "group",
+      "id": "6367735F-F8CD-48CD-B733-2466CFC89E66"
+    },
+    {
+      "class": "group",
+      "id": "00CFAEE4-8A5D-427B-909E-A7BB2705D0E3"
+    }
+  ],
+  "name": "Double Column Bar Chart - On Dark",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

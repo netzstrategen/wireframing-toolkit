@@ -1,0 +1,59 @@
+{
+  "_class": "group",
+  "do_objectID": "9A91BAEE-40D8-4F51-96B7-A5E46C6EEE74",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 501,
+    "width": 1240,
+    "x": 100,
+    "y": 100
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "CE186116-C565-4A5F-8BC2-83CAA1EA2A3B"
+    },
+    {
+      "class": "group",
+      "id": "68339772-1399-4D55-8AFD-77D27F1395AE"
+    },
+    {
+      "class": "group",
+      "id": "7657615A-4F1D-4B1A-9702-0BF60D08FAD5"
+    }
+  ],
+  "name": "Smooth Area Line - On White",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

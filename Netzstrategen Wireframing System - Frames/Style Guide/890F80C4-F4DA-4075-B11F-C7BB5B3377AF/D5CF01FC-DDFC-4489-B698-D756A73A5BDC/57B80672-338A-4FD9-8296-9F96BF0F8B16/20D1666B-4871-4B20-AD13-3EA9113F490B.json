@@ -1,0 +1,68 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "20D1666B-4871-4B20-AD13-3EA9113F490B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 24,
+    "width": 208,
+    "x": 0,
+    "y": 226
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Form / Radio / Basic + Description",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "C586087C-E1DB-4180-9A38-B62DB373D0AD_symbolID",
+      "value": "A527A3E3-5512-4AA7-8672-40081F8FD37E"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "36F186A5-F3A4-4EF5-8D97-926270E7E048/69290FED-5EE4-4522-916A-AE9DF1D6C841_stringValue",
+      "value": "Disabled"
+    }
+  ],
+  "overrides": {
+    "36F186A5-F3A4-4EF5-8D97-926270E7E048": {
+      "69290FED-5EE4-4522-916A-AE9DF1D6C841": "Disabled"
+    },
+    "C586087C-E1DB-4180-9A38-B62DB373D0AD": {
+      "symbolID": "A527A3E3-5512-4AA7-8672-40081F8FD37E"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "AD8B2FB6-FEBA-43E6-9DC3-0D0A8E33CAF7",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

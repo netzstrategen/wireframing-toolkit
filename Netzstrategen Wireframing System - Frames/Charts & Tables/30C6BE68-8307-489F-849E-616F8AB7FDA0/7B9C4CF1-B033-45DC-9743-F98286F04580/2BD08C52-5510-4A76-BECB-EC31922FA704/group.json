@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "do_objectID": "2BD08C52-5510-4A76-BECB-EC31922FA704",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 454,
+    "width": 1200,
+    "x": 40,
+    "y": 11.00000000000004
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "FC732B06-6040-4AD3-831F-F428EAC32245"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "FAC3DD1C-47E8-4CEE-9AA9-6FFC74889CB6"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C565A011-CD1F-4FCA-A8C7-F36DDDD5E5E6"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "58A17578-6E2F-4254-8AC5-6FA8A15BF284"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "1083ABBC-4C54-4C5F-A52C-C11396CE89F0"
+    }
+  ],
+  "name": "Gridline",
+  "nameIsFixed": true,
+  "resizingConstraint": 58,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

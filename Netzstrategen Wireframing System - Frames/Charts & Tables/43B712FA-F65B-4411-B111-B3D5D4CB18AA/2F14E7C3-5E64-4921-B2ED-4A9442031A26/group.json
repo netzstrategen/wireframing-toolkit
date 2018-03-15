@@ -1,0 +1,59 @@
+{
+  "_class": "group",
+  "do_objectID": "2F14E7C3-5E64-4921-B2ED-4A9442031A26",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 600,
+    "width": 1240,
+    "x": 100,
+    "y": 1711
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "4F121802-D82E-4831-811B-690C49F1ECA4"
+    },
+    {
+      "class": "group",
+      "id": "28CF62F3-C1AA-4BC0-9EB4-BE5BC2A79EF5"
+    },
+    {
+      "class": "group",
+      "id": "940A04FA-9E27-485E-B464-5465100EC5A5"
+    }
+  ],
+  "name": "Admin table",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

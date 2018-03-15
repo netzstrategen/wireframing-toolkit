@@ -1,0 +1,74 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "35CFBB00-D14C-417E-A058-69BB233A45F7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 28,
+    "width": 98,
+    "x": 90,
+    "y": 174
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Button / Text Button / Label + Icon",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "68DE6FE0-8CF7-4D48-A178-03555836BFDF_symbolID",
+      "value": "FBEE7AFE-E43B-47B2-B388-BD02896CB0B5"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "68DE6FE0-8CF7-4D48-A178-03555836BFDF/DD780A6E-C114-4476-936D-9B8A820AA698_stringValue",
+      "value": "Learn more"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "68DE6FE0-8CF7-4D48-A178-03555836BFDF/52B02051-20F0-4229-B29B-7A1B35E47FCD_stringValue",
+      "value": "Discover"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "4801E8AC-5476-4C4E-A10E-8AB2A1A1BFC9_symbolID",
+      "value": "087D97ED-6B7C-47AD-95ED-0789DB8796CA"
+    }
+  ],
+  "overrides": {
+    "4801E8AC-5476-4C4E-A10E-8AB2A1A1BFC9": {
+      "symbolID": "087D97ED-6B7C-47AD-95ED-0789DB8796CA"
+    },
+    "68DE6FE0-8CF7-4D48-A178-03555836BFDF": {
+      "52B02051-20F0-4229-B29B-7A1B35E47FCD": "Discover",
+      "DD780A6E-C114-4476-936D-9B8A820AA698": "Learn more",
+      "symbolID": "FBEE7AFE-E43B-47B2-B388-BD02896CB0B5"
+    }
+  },
+  "resizingConstraint": 41,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "B0BC89DD-03A6-476A-90E1-D0E84F91AB3A",
+  "verticalSpacing": 0
+}

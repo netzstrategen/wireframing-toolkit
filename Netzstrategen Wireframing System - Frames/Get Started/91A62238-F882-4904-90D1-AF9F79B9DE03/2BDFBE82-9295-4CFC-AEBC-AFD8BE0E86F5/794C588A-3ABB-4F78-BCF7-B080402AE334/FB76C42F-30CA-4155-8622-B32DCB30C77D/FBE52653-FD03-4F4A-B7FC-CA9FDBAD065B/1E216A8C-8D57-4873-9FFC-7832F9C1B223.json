@@ -1,0 +1,56 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGeXpYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QIgcIDxAeHyAhIjI1PD9CRkpSU1RVVlpeamtsbW5vcHFydHVVJG51bGzTCQoLDA0OWE5TU3RyaW5nViRjbGFzc1xOU0F0dHJpYnV0ZXOAAoAhgANaSDUgSGVhZGluZ9MREgoTGB1XTlMua2V5c1pOUy5vYmplY3RzpBQVFheABIAFgAaAB6QZGhscgAiADoAWgCCAH18QEE5TUGFyYWdyYXBoU3R5bGVfEB9NU0F0dHJpYnV0ZWRTdHJpbmdGb250QXR0cmlidXRlXxAqTVNBdHRyaWJ1dGVkU3RyaW5nQ29sb3JEaWN0aW9uYXJ5QXR0cmlidXRlVk5TS2VybtkKIyQlJicoKSorLC0uLzAvMDFaTlNUYWJTdG9wc1xOU1RleHRCbG9ja3NbTlNUZXh0TGlzdHNfEA9OU01heExpbmVIZWlnaHRfEB9OU0FsbG93c1RpZ2h0ZW5pbmdGb3JUcnVuY2F0aW9uXxAPTlNNaW5MaW5lSGVpZ2h0XxASTlNXcml0aW5nRGlyZWN0aW9uW05TQWxpZ25tZW50gA2ACYALgAwjQDsAAAAAAAAQARAC0hIKMzSggArSNjc4OVokY2xhc3NuYW1lWCRjbGFzc2VzXk5TTXV0YWJsZUFycmF5ozg6O1dOU0FycmF5WE5TT2JqZWN00hIKPTSggArSEgpANKCACtI2N0NEXxAXTlNNdXRhYmxlUGFyYWdyYXBoU3R5bGWjQ0U7XxAQTlNQYXJhZ3JhcGhTdHlsZdIKR0hJXxAaTlNGb250RGVzY3JpcHRvckF0dHJpYnV0ZXOAFYAP0xESCktOUaJMTYAQgBGiT1CAEoATgBRfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZRAUXU11bGktU2VtaUJvbGTSNjdXWF8QE05TTXV0YWJsZURpY3Rpb25hcnmjV1k7XE5TRGljdGlvbmFyedI2N1tcXxAQTlNGb250RGVzY3JpcHRvcqJdO18QEE5TRm9udERlc2NyaXB0b3LTERIKX2QdpGBhYmOAF4AYgBmAGqRlZmdogBuAHIAdgB6AH1NyZWRVYWxwaGFUYmx1ZVVncmVlbiM/3d3d3ecHfiM/8AAAAAAAACM/43Nzc3mmMiM/4fHx8e5xF9I2N1lzolk7Iz+3RdHxTuI70jY3dndfEBJOU0F0dHJpYnV0ZWRTdHJpbmeieDtfEBJOU0F0dHJpYnV0ZWRTdHJpbmdfEA9OU0tleWVkQXJjaGl2ZXLRe3xUcm9vdIABAAgAEQAaACMALQAyADcAXABiAGkAcgB5AIYAiACKAIwAlwCeAKYAsQC2ALgAugC8AL4AwwDFAMcAyQDLAM0A4AECAS8BNgFJAVQBYQFtAX8BoQGzAcgB1AHWAdgB2gHcAeUB5wHpAe4B7wHxAfYCAQIKAhkCHQIlAi4CMwI0AjYCOwI8Aj4CQwJdAmECdAJ5ApYCmAKaAqECpAKmAqgCqwKtAq8CsQLHAt0C3wLtAvIDCAMMAxkDHgMxAzQDRwNOA1MDVQNXA1kDWwNgA2IDZANmA2gDagNuA3QDeQN/A4gDkQOaA6MDqAOrA7QDuQPOA9ED5gP4A/sEAAAAAAAAAAIBAAAAAAAAAH0AAAAAAAAAAAAAAAAAAAQC"
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "1E216A8C-8D57-4873-9FFC-7832F9C1B223",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 27,
+    "width": 114,
+    "x": 0,
+    "y": 0
+  },
+  "glyphBounds": "{{1, 6}, {111, 20}}",
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "H5 / Muli / Center / Grey",
+  "nameIsFixed": false,
+  "resizingConstraint": 45,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "D69E8327-05F0-4EEB-8D04-7D9A48690708"
+  },
+  "textBehaviour": 0,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "isAutoWidth": 1
+      }
+    },
+    "com.sketchapp.slinky-plugin": {
+      "hrefURL": ""
+    }
+  }
+}

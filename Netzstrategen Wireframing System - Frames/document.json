@@ -1,0 +1,1310 @@
+{
+  "_class": "document",
+  "assets": {
+    "_class": "assetCollection",
+    "colors": [
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 1,
+        "green": 0.5573423343282008,
+        "red": 0.1776949179292929
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 1,
+        "green": 0.9332374254049446,
+        "red": 0.8627450980392157
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.2549019607843137,
+        "green": 0.2549019607843137,
+        "red": 1
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.4,
+        "green": 0.807843137254902,
+        "red": 0.0745098039215686
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.2392156862745098,
+        "green": 0.8,
+        "red": 1
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.07058823529,
+        "green": 0.03921568627,
+        "red": 0
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.2392156862745098,
+        "green": 0.1764705882352941,
+        "red": 0.1215686274509804
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.6078431372549019,
+        "green": 0.5607843137254902,
+        "red": 0.4666666666666667
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.796078431372549,
+        "green": 0.7568627450980392,
+        "red": 0.7215686274509804
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.9082429846938775,
+        "green": 0.88543015470843,
+        "red": 0.8648986077215273
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 1,
+        "green": 1,
+        "red": 1
+      }
+    ],
+    "gradients": [
+    ],
+    "imageCollection": {
+      "_class": "imageCollection",
+      "images": {
+      }
+    },
+    "images": [
+    ]
+  },
+  "colorSpace": 0,
+  "do_objectID": "AD5824DF-55F0-4381-8CB0-6DF8C4EA6155",
+  "foreignSymbols": [
+  ],
+  "layerSymbols": {
+    "_class": "symbolContainer",
+    "objects": [
+    ]
+  },
+  "meta": {
+    "appVersion": "49",
+    "build": 51002,
+    "version": 101
+  },
+  "pages": [
+    "Preview",
+    "Get Started",
+    "Style Guide",
+    "Web UI Kit",
+    "Charts & Tables",
+    "Symbols"
+  ],
+  "userInfo": {
+    "com.invisionlabs.sync": {
+      "metadata": "{\"hasSynced\":0,\"hasProjectIdChanged\":0,\"projectId\":0,\"publicLink\":\"\",\"resolution\":2,\"syncAll\":1}"
+    },
+    "com.lingoapp.lingo": {
+      "first_version": 89,
+      "kitID": "8BE9F0F6-C287-4AEF-AC68-731E9CB0586B",
+      "min_version": 84,
+      "storage": {
+        "hashes": {
+          "colors": {
+          },
+          "layerStyles": {
+          },
+          "layers": {
+          },
+          "symbols": {
+            "00B31035-D924-4774-A59D-F8D3293E921E": {
+              "hash": "1331d7dc96bbcfd8e892ef7fb15897bf2a364f28",
+              "name": "Icon / Trash"
+            },
+            "00BB6D3E-D42B-4C0F-AC13-5568718AD5EC": {
+              "hash": "d2c12fa7dc59c8f79adacdf688f24b325705c5ce",
+              "name": "State / Button / Focus - Radius: 100"
+            },
+            "02F0E107-CADD-482E-9E79-409BB31A0F31": {
+              "hash": "2720979517f04b6c3890865ea10a9a6e25066fa6",
+              "name": "Text / Input / Medium / Center / Dark Grey"
+            },
+            "03324BA6-22E1-4CE5-BFF4-AF2D2E6974CC": {
+              "hash": "bc2b6e3140f137fe4d76c521716d5c7290d91172",
+              "name": "Text / Input / Large / Left / Green"
+            },
+            "034F607B-77A2-4132-81C4-7BA09FC4C143": {
+              "hash": "e452016c41e1996d7c90102c769766619d587913",
+              "name": "Text / Button / Large / Left / Red"
+            },
+            "04D21083-60E7-43F8-A250-3E45393E61B5": {
+              "hash": "0bd3489d40cd0b6a17c586c1905fb149f0c27939",
+              "name": "State / Slider / 25%"
+            },
+            "06BDF643-90C1-4B4A-B5D2-EEA099705108": {
+              "hash": "fc02159165073888a69eb2e0a1ec969c3e028af6",
+              "name": "Mockup / Device / iPhone 7"
+            },
+            "076F6D04-98F8-4B02-8AFC-6129FC71CF98": {
+              "hash": "0ec969176dd828d4198696f756aa8c69f7d8f9e7",
+              "name": "Icon / Warning"
+            },
+            "0963FAAC-4F47-4BEE-9DF7-832292321048": {
+              "hash": "ae22c505dcfc5e02bec1ec18306fb4efa6e48cc3",
+              "name": "Text / Button / Small / Left / White"
+            },
+            "0A0BB5AB-05AA-48F2-954D-95FF9BE911E3": {
+              "hash": "356a9e1ea29151db3b0fdaa50e96bba2d2d4cc8e",
+              "name": "Text / Button / Small / Left / Grey"
+            },
+            "0CA5C339-051F-4529-A1CF-72FDB1E00611": {
+              "hash": "027d7d956ff0e5ee3f583ca72224f7baee89085f",
+              "name": "Text / Input / Small / Center / Blue"
+            },
+            "0D887DE9-0E92-4CD0-892F-9F4FEF707911": {
+              "hash": "02b2a82083cf2f4c755b50972ce92f89c017654f",
+              "name": "Icon / Star"
+            },
+            "0E82B6D8-D3F6-4320-A316-B2E45246669A": {
+              "hash": "d13c93592edb2a673fcb00daac22533449334f80",
+              "name": "Text / Text Area / Left / Light Grey"
+            },
+            "0FEE773F-CF38-4F33-BD18-5E14CE1564EE": {
+              "hash": "405ce8650d9af4732ae12ae7ee07ead56f6ba51b",
+              "name": "State / Pagination / 6 Dots"
+            },
+            "11739123-491D-4DE5-AAB4-57E82EF4D832": {
+              "hash": "78dbdb0ff9b5275995c0b952c70a42af8800cd28",
+              "name": "Text / Button / Large / Left / Green"
+            },
+            "11974C93-6767-4918-972B-492452D5584B": {
+              "hash": "9d021840e75c4ecb72f98056e279abc044e32e79",
+              "name": "Icon / Thumb up"
+            },
+            "11E5DA1E-AB81-4E80-80D5-451A04255B03": {
+              "hash": "0030f71ab9c6f883e2879c600221b6cb76f95ed7",
+              "name": "State / Radio / Normal"
+            },
+            "126D98D2-5B0A-4D8B-9B20-9AC10784FCBF": {
+              "hash": "9e046fb04fbd66c69faf8e16056fb9d5d9f51293",
+              "name": "Icon / Pause"
+            },
+            "127585E6-B956-43D4-87C0-19142751C5EB": {
+              "hash": "67618863eaeca4fa1adb5ec76231cb3acb4bac46",
+              "name": "Text / Input / Small / Left / Blue"
+            },
+            "1293E667-7322-48EE-B31F-DBED17441329": {
+              "hash": "341807beae5be48156f2df0c1180f4a20701431b",
+              "name": "State / Checkbox / Hover"
+            },
+            "12D52549-1165-43B4-8E5B-CF8C916A65EC": {
+              "hash": "3877777cec8fcd84b614a1f5762acfe50ab97a0f",
+              "name": "Shape / Cell Item / Top"
+            },
+            "12DF30FE-0AB0-44C6-8EB4-BA35BB398686": {
+              "hash": "76901546d313e2957001231ca71c395d74ba2f79",
+              "name": "State / Checkbox / Normal"
+            },
+            "178F3CA3-9016-4D3B-94C7-D4323974CC95": {
+              "hash": "ae505b1015c17b06949ede4b20b9b85454807f3b",
+              "name": "Text / Button / Medium / Left / Red"
+            },
+            "18CE2AAE-97EC-4C90-9D25-8BC92416C5BA": {
+              "hash": "a7d262cd8a21a28b1378b5cdb9cc1200be82dc7b",
+              "name": "Icon / Work"
+            },
+            "19635E42-0188-42D8-818F-0FD0109A6D60": {
+              "hash": "14823ddc3fedad4bc2bd4c958ddc1a3c3d14d55d",
+              "name": "Text / Caption / Left / Dark"
+            },
+            "1C0AD3BE-25F2-4470-8198-BAAEACCDC0F3": {
+              "hash": "0b63a5150dc8a43a480e5fbf234236982d49dcfa",
+              "name": "Shape / Button / Fill / Left Radius: 4"
+            },
+            "1C83DC80-460B-4F41-B47B-9DB34DC41BD4": {
+              "hash": "7d12a198e1c567e3dca8117737ae5754313d65c2",
+              "name": "Text / Input / Small / Center / Dark"
+            },
+            "1CF455E3-126E-4A23-97E1-C065A74F3BDE": {
+              "hash": "3b39bb080f345e8cbbfbf5f2be6f7136c8056b93",
+              "name": "Text / Button / Large / Right / White"
+            },
+            "1DB392DB-0817-4C37-A8C4-15262022907C": {
+              "hash": "022750f3daa66b2a4a5988c9406dfdcc41911724",
+              "name": "Shape / Bar / Fill / Basic - Radius: 100"
+            },
+            "1F79D767-6A8D-46B1-A3A9-61951E96EF9A": {
+              "hash": "3b16c74fdfc606c3225799313f0e94ce883b2795",
+              "name": "Text / Button / Small / Center / Dark"
+            },
+            "21EB8641-A671-42FE-8108-76D0A54C5670": {
+              "hash": "3550c2221b0bc1e02b466975b1885b832d544345",
+              "name": "Text / Button / Small / Center / Red"
+            },
+            "226E6E10-1B60-4280-8CDD-9B58A3DB17AA": {
+              "hash": "bd8f2995b485e118e647d7e8427a68239ebdc3d5",
+              "name": "Text / Button / Large / Center / Red"
+            },
+            "22D800B1-6907-451F-950A-FEC6DD4FB3B7": {
+              "hash": "5efcd815bb65c8117da363eb369e19bca390d845",
+              "name": "Text / Input / Small / Left / Red"
+            },
+            "2603BB72-7D3D-4F69-83A6-112A951B54F2": {
+              "hash": "09c2d9051fa9160c26c9f4f6a863d3c550d97d86",
+              "name": "Text / Button / Large / Right / Grey"
+            },
+            "26D6DBA1-1E94-4B31-8D55-088F2AD473FE": {
+              "hash": "c6713e2f397a17140ddb48548cc292ba61462d2b",
+              "name": "State / Progress / 25%"
+            },
+            "26D8BDB8-066B-4626-BF96-48A7D117B42B": {
+              "hash": "d22740f20e6334edfee120574223fd670b409350",
+              "name": "Text / Button / Medium / Center / Dark"
+            },
+            "26F778F0-4E07-40CC-9D33-1F0C208094E5": {
+              "hash": "a4aa57e0b2986c109f877d949ffad0b259415189",
+              "name": "Text / Button / Small / Right / Grey"
+            },
+            "289D4F39-7A9C-4AAF-B1A2-8F939FF45F72": {
+              "hash": "2be31029609fdc36fce3f6148e5de7ba1a43f4eb",
+              "name": "Icon / Share"
+            },
+            "29C1045A-01D2-4673-9B33-669C08890AD0": {
+              "hash": "f4199f545abb71559f83a7ca6de43c815ce36f93",
+              "name": "Text / Text Area / Left / Blue"
+            },
+            "2A1360AE-C671-4707-A2DB-B654B164EBEB": {
+              "hash": "190df9e020d0b5ff871a2cae8588592138150bcb",
+              "name": "Text / Text Area / Left / Dark"
+            },
+            "2B17309B-F235-4A34-BFF3-76004881DD7B": {
+              "hash": "a2616c2499e55b44c2de4e3ebc78c68d583263e9",
+              "name": "Text / Input / Large / Center / Light Grey"
+            },
+            "2B2D07DB-2C56-4ABC-851C-FDD4BBDEFB04": {
+              "hash": "78f142563645d24ac7a346af18b6cce84a3a7ed0",
+              "name": "Text / Button / Small / Right / Blue"
+            },
+            "2B5E0C2F-F3EE-45F7-A0FD-9D5E9DC39CCF": {
+              "hash": "cf890b0c0fe932746dfd69100d633ec880a77a74",
+              "name": "Text / Button / Large / Left / Blue"
+            },
+            "2C2CD584-F581-4082-97E8-BAA74DA47821": {
+              "hash": "2e3bd6d12def104b3a09fafd46c7dc2c04153efc",
+              "name": "Mockup / _Assets / Macbook / Gold"
+            },
+            "2D8D8C85-F936-482E-905A-636E2194907D": {
+              "hash": "e3623078d5e3da3921d21a620716fbdaf33265c3",
+              "name": "State / Avatar / Robowolf"
+            },
+            "2E095264-A8B2-4851-A608-BBFE65F1D53E": {
+              "hash": "5d1a130a3714e32ffc60bc16028bd4617d85c9a2",
+              "name": "Text / Button / Large / Right / Dark"
+            },
+            "2F07FF7D-FADE-44EA-99FE-21B57B9EC7C3": {
+              "hash": "28809ff9643b9f24b3ac0f6c239fd9a1c18bf92b",
+              "name": "Shape / Button / Fill / Basic - Radius: 4"
+            },
+            "3244C5E0-0A61-4ADA-83E2-3EFF6E842C30": {
+              "hash": "afc46b78d2650018a17be012663f8f396670c28e",
+              "name": "Text / Button / Medium / Center / White"
+            },
+            "3256D0A9-DFE7-4235-AA42-D5A701F502D1": {
+              "hash": "62cf0281657eabc1c5ebe3e0aeed48f0683b3fd4",
+              "name": "Text / Button / Large / Center / Dark Grey"
+            },
+            "32E8C2D1-F56B-4CBF-9EEB-C5D3D6C2F1CF": {
+              "hash": "dbd3586b47e7f8a87d88cf12410531d6560590f9",
+              "name": "Shape / Button / Border / Right Radius: 4"
+            },
+            "3411E038-788D-4D75-BB67-83397F57526C": {
+              "hash": "fab6b21cf46cc4473090c14ada608b1c9236373a",
+              "name": "Mockup / _Assets / iPad Air / _Linear"
+            },
+            "351E20FC-CC9A-4AEE-B87B-7FCBE41B3C7A": {
+              "hash": "db518458adc1a9499d31c51aa791fe367a7ce758",
+              "name": "State / Input / Normal"
+            },
+            "3569DFE6-1E5C-4E8F-9945-3F2627463658": {
+              "hash": "857cfcb41d51aba7cefed1b6a79273b3b39d3248",
+              "name": "Text / Input / Large / Left / Red"
+            },
+            "37691774-9C03-40E8-8904-E4EA00D291AD": {
+              "hash": "cb76aaed4c9f3e951fcf69d54479ffa731029e96",
+              "name": "Mockup / _Assets / iPhone 7 / Silver"
+            },
+            "37DAF053-C066-463C-98C7-1D9EEA5D6336": {
+              "hash": "3ab0e5b2e5fc92194fcd23c2eadf7b74934d0c4d",
+              "name": "Text / Input / Medium / Center / Grey"
+            },
+            "3853A033-6A9E-4B9A-BA32-0158722FB35E": {
+              "hash": "556ee0d527557b0b54c28e79c22254ed30b84519",
+              "name": "Icon / Search"
+            },
+            "388AAB6C-20BB-4230-9A84-C5B69364D648": {
+              "hash": "9ee443adcf5a3937bc66d1a2a4ce3257c5bcb787",
+              "name": "Text / Input / Medium / Left / Red"
+            },
+            "39C0C0AF-58E4-4B2B-B8DB-A10B2E78BE0B": {
+              "hash": "520cdf527b511906dc406a2bc9d37800da66b60a",
+              "name": "Shape / Button / Fill / Radius: 0"
+            },
+            "3B1A5A58-5840-4206-9D99-8671E757D2DA": {
+              "hash": "67e20d28a70202e8ac1f736987c24a0ce601d3b4",
+              "name": "Text / Button / Large / Right / Dark Grey"
+            },
+            "3B4E1B90-E61C-41FD-9635-195CA430E8E4": {
+              "hash": "9c14b289f95f836ee360113989140789ad0d2d1f",
+              "name": "Text / Button / Small / Left / Dark Grey"
+            },
+            "3CB4FBC3-DAE7-4281-B9F7-5F198061ADE2": {
+              "hash": "83b8cb0efbb96501827c8eb87731137b2d329da6",
+              "name": "Text / Input / Large / Center / White"
+            },
+            "3EB96770-5A99-4606-B593-838AAE5F49D2": {
+              "hash": "1ca554172deb28f804267e5e9d13d940e2a30868",
+              "name": "Text / Input / Medium / Left / White"
+            },
+            "404EE8D3-54B8-4CB9-BA8F-4625CE795680": {
+              "hash": "1b2331cf1efa8058f83239a3df9bc31ca4f92522",
+              "name": "Text / Input / Small / Center / Light Grey"
+            },
+            "41645BF5-C917-4057-84BF-C40DF731C233": {
+              "hash": "cb28d0019a00127f71699918329cf74b8729b987",
+              "name": "Shape / Bar / Border / Basic - Radius: 100"
+            },
+            "42CDA13F-0E4D-425D-BF91-DAE8CF18FBFB": {
+              "hash": "f0b731af3cd5b7b36f3dd1356a642dd5af3e443b",
+              "name": "State / Button / Pressed"
+            },
+            "42EAB3BD-578B-4874-8EED-4770361DB17C": {
+              "hash": "233d484235344afadfbead6f926abd0d2ce3ed8c",
+              "name": "State / Slider / 75%"
+            },
+            "430B3DFC-AA49-4A57-8348-F494F7E79E80": {
+              "hash": "a0023246ed2113dba0bd7c1757d7e49d835e6e90",
+              "name": "Text / Input / Large / Center / Dark Grey"
+            },
+            "432E54FA-7EC7-40DA-8686-F973F34481AE": {
+              "hash": "f011d7aeeaca77bb7c989f31b0bd0d86ca10e808",
+              "name": "Mockup / _Assets / iPad Air / Silver Grey"
+            },
+            "442E6DC7-119E-4E9E-B541-253C738FDD13": {
+              "hash": "2993699003b7ac7ce8a9d955a44ac9c332461780",
+              "name": "Text / Input / Large / Left / Light Grey"
+            },
+            "446E6DEC-3EFB-4044-AEFA-95B6016527EF": {
+              "hash": "b2e74b3422b71483e05efede3035213fa23e5c85",
+              "name": "State / Slider / 0%"
+            },
+            "46B0EEE7-2DF4-4677-B0C2-F79A84896AE3": {
+              "hash": "f3c5cb1e6770458f3fa426d1cccee80bf3b169f4",
+              "name": "Text / Button / Medium / Right / White"
+            },
+            "475CB356-78FF-460A-9F76-481CA144328C": {
+              "hash": "ae34296c7e46abd8abbf4a579356074f4c278015",
+              "name": "Text / Input / Medium / Center / Light Grey"
+            },
+            "47CB3A82-B42A-48A5-BE88-002EB3D7847D": {
+              "hash": "a927fe8b65f30b300e1c0d9706fc649fd501fea0",
+              "name": "State / Tab / Hover"
+            },
+            "48497E89-A595-457C-95F8-C78A9DBA02F1": {
+              "hash": "1735f4968e6fbeb755f2def5e0b6cd1a3a0eb69f",
+              "name": "Text / Input / Medium / Center / White"
+            },
+            "490353D7-30B3-40AE-9108-0666956EB204": {
+              "hash": "ec618375f35e2edec79609358397f8f85ab7219c",
+              "name": "Text / Button / Medium / Left / Green"
+            },
+            "49713A31-74DD-4921-8E14-00EC11247FF7": {
+              "hash": "8742aba474765835b77b866cc01f324494f84f25",
+              "name": "Text / Button / Medium / Left / White"
+            },
+            "4A316B04-07D2-4E46-82B6-F23359422B76": {
+              "hash": "11e370b59512d36b4d8a175d60f750dabeb2ad6c",
+              "name": "Text / Input / Medium / Left / Dark"
+            },
+            "4AC5E2F1-9192-424D-BF18-7E43B3BA99D4": {
+              "hash": "2903145425a15c138491174e1e2a3dae222650e7",
+              "name": "Text / Button / Large / Left / Grey"
+            },
+            "4B4770C3-B00F-4973-A476-E22F793A5EE2": {
+              "hash": "f192e7c753433981f16e200eccafbfe620ae322f",
+              "name": "State / Button / Disabled"
+            },
+            "4C17ADA1-339A-44E8-8F2B-7A51A626F258": {
+              "hash": "3efc0b33ed03c5f5e3935e43d09e6f354da754d5",
+              "name": "Text / Button / Small / Center / White"
+            },
+            "4E8534C8-5E0E-4DF3-939D-B4B141A23CDB": {
+              "hash": "d3725307583c265531c2b01dd5c35c34b35a716a",
+              "name": "State / Slider / 50%"
+            },
+            "4EF92A7D-EAC3-4CC4-B310-986844D475CA": {
+              "hash": "affc7a44b989103bcbaf8b8f83d8105c0be269ad",
+              "name": "Text / Button / Small / Right / Dark Grey"
+            },
+            "4FE88DC1-AA59-44A8-BAA6-38574BFB3E75": {
+              "hash": "3633cd0a360ac92b4fc0d742cebb1c612cb4dd83",
+              "name": "Mockup / _Assets / Macbook / _Linear"
+            },
+            "5088A9C5-F1E1-4A60-9C48-0D9FB74E68A5": {
+              "hash": "a4791568da99889cf91b6c2910f7d99dac6d3e56",
+              "name": "Icon / Open view"
+            },
+            "5103EEC7-C1BE-49ED-9F4C-DC1158237638": {
+              "hash": "ece63c4a3443122e727a553bde14ec3f8ac8f4d1",
+              "name": "Text / Input / Medium / Center / Blue"
+            },
+            "57C812FC-C5DF-4146-B5A4-D61F0153D751": {
+              "hash": "e8a4c9a5b8df82401b71aa2e66c97eb66cf6ef5a",
+              "name": "Text / Input / Small / Center / Grey"
+            },
+            "57E60FAA-175A-4BE4-A6E1-8F301F8AE6F6": {
+              "hash": "72673d63e135b3716c3bdcd633cbbe2a8181d9f4",
+              "name": "Text / Input / Large / Center / Blue"
+            },
+            "5856E5B2-6475-46B2-A8F7-87A2D07D1D4C": {
+              "hash": "1e583b55e1a5bb9f934b2376c633941f77b3c74d",
+              "name": "Text / Button / Medium / Right / Blue"
+            },
+            "5883D267-9E19-4F8E-BE5F-6F53A06525D9": {
+              "hash": "bb8d1b710bcc732c0d0fb5ab764227806b13a13f",
+              "name": "Text / Button / Large / Center / Dark"
+            },
+            "589804EA-D3A2-4B09-981F-AE3B974F17CA": {
+              "hash": "e6ba8b3a37975512909e3002eff5827868e17236",
+              "name": "State / Checkbox / Selected"
+            },
+            "5A2EABCB-9842-40EA-B10A-351FECE6353E": {
+              "hash": "f540b57df239ebabc035504bff1fb92270613e35",
+              "name": "Text / Button / Medium / Right / Grey"
+            },
+            "5AC5CE6F-C3AD-40D7-9951-A1375286A508": {
+              "hash": "084ecea9ec0899a5f9a39b2352b8b6c19a07d641",
+              "name": "Shape / Cell Item / Bottom"
+            },
+            "5C387405-4547-4588-8E16-DB27D08F146D": {
+              "hash": "4082ca17140902d266297e2f6c5664ed1488ab6d",
+              "name": "Text / Button / Medium / Right / Green"
+            },
+            "5C5DB57F-9E94-4559-AB43-98992615FB20": {
+              "hash": "88752dda0c63a310ee88c0c8f639e5a31b5ca1bb",
+              "name": "Shape / Bar / Fill / Basic - Radius: 4"
+            },
+            "5CEFF9F1-0903-49EC-9CF1-F2A476C36B55": {
+              "hash": "848c013d9f4bf91539b0d8e47e9ebc5050ee046d",
+              "name": "Text / Input / Large / Center / Grey"
+            },
+            "5F338F47-EE06-4CEF-8AA4-90DB5A7F7DCB": {
+              "hash": "258b5ea0d747e1ed0eb7ebab51d31cf8a3e70676",
+              "name": "State / Radio / Hover"
+            },
+            "5F9A43D3-E366-46B5-A50D-33EE2A4AF440": {
+              "hash": "2b5aa86f7634c190945b1fc8b0740bd274e0f89b",
+              "name": "State / Progress / _100%"
+            },
+            "6050EE10-D98E-49A4-9433-20C5040BE697": {
+              "hash": "0bc9793e291fe530a09be0ee849ff0d4f1be4e5d",
+              "name": "State / Pagination / 4 Dots"
+            },
+            "60D9E250-3FC0-469E-9190-B862ACB37CEE": {
+              "hash": "ee3df3e478bd95f20ca67cf9a3f7efcd95f0afaa",
+              "name": "Icon / Play circle"
+            },
+            "63DDAFC0-D97E-4F57-BA3F-BF21FDD3CA88": {
+              "hash": "1956ef963110dccf2b3967c2e7606c47dd9630a6",
+              "name": "Text / Button / Medium / Center / Blue"
+            },
+            "64529657-1BB6-493D-8A41-A4C7E862C085": {
+              "hash": "ca4d3a1004b7cbed588c249021c457a2c4277eb1",
+              "name": "Text / Input / Large / Left / Dark"
+            },
+            "65C0B5A8-F501-43C9-8C53-56AD3D75F241": {
+              "hash": "86b640fd8f2091919ac2f68104a59b67812bcec0",
+              "name": "Text / Button / Small / Center / Light Grey"
+            },
+            "66321C09-C43F-46C2-B6A5-E0A13560D246": {
+              "hash": "6ab570db1ed6ff8a908fce07526196f1179d3e3d",
+              "name": "Icon / Phone"
+            },
+            "6663B13D-9253-4FFD-B623-BBE09BC7DA18": {
+              "hash": "4c62723f0d218d7a62e087789ba349ed7b9e43bb",
+              "name": "State / Avatar / Photo"
+            },
+            "66677427-A190-465B-8504-210BE043E4AB": {
+              "hash": "0d3c75f193fe097258177289ef4205897f55765f",
+              "name": "Text / Button / Medium / Center / Grey"
+            },
+            "66B03F8D-B495-4238-B57F-B5C20940ADD3": {
+              "hash": "e40c698f1d1aeaaa2d81cee07430392b4bdffaa3",
+              "name": "State / Input / Warning"
+            },
+            "67A98769-1DE5-4223-AF96-36F8BCF797C6": {
+              "hash": "bcc1d5ad0549084b630deba81e8b83d4c0bc8fa3",
+              "name": "Text / Input / Small / Center / Green"
+            },
+            "68FF49F4-9CA7-4D8C-A737-39071478AED0": {
+              "hash": "5cfa7aeff1fe7febaad32ce748f385494946a2a1",
+              "name": "Icon / Volume Up"
+            },
+            "6ADFEBB4-A31E-4017-85F3-D9F8E20958A5": {
+              "hash": "a10dc1d8a106fde1dc0993f079ec0efa922596d5",
+              "name": "Text / Caption / Left / Red"
+            },
+            "6AFB979B-BB42-401F-B1D5-7AF1190DD159": {
+              "hash": "01cecfdc5ea36dfaa6b725f5d8829ddd66f87ae0",
+              "name": "State / Switch / ON"
+            },
+            "6C43832E-E20D-444F-9856-E60AA5B12F2A": {
+              "hash": "dace680a78523d971fb3157c4faeddd2fd8fb422",
+              "name": "Text / Button / Medium / Left / Blue"
+            },
+            "6D97D1E0-3742-4756-A36C-502403F69790": {
+              "hash": "bb2f2cd93dad10c48e17098831d6feb1de09d8f4",
+              "name": "Text / Input / Small / Left / Light Grey"
+            },
+            "6E42F00A-4E1D-4ADC-8FB5-76DB9EE68601": {
+              "hash": "b3315236d1f5e740abe67f01549e713f14d30850",
+              "name": "Text / Button / Large / Left / Dark"
+            },
+            "7257B83A-DB97-4494-9D50-9E7431F52788": {
+              "hash": "954c207742ef2d6c82a71c0f6c495e279e14707d",
+              "name": "Text / Input / Large / Left / Dark Grey"
+            },
+            "72C0D064-00D2-4FD2-ACF0-FDC6D060B0C2": {
+              "hash": "1f608752c61ba3626cfc5c35bc0226991187403d",
+              "name": "Shape / Button / Fill / Right Radius: 100"
+            },
+            "72C8BD49-06C3-481C-9229-C69461B0C5BB": {
+              "hash": "a6a23e06dd58b03d3b81a9cdb82e3e9b76a2673c",
+              "name": "Text / Input / Large / Left / Blue"
+            },
+            "74451513-856C-4133-93D3-CDA1B2598DA6": {
+              "hash": "26a7afc392ba73346ddfcd6b75bbb45e2aa37b5f",
+              "name": "Text / Button / Small / Right / White"
+            },
+            "74D8D0B0-9C56-4003-9329-9433271753E3": {
+              "hash": "9486173bc5610758df67cefedb6a2fe5df021403",
+              "name": "Text / Button / Small / Center / Grey"
+            },
+            "75D82FF2-0E3A-41E6-BE3C-EFB2A9AA8F2F": {
+              "hash": "2d91d6b49d27d052fd848de66a2d0ad0d54404b6",
+              "name": "Text / Button / Small / Left / Light Grey"
+            },
+            "78EF2914-D14F-4B0E-90FE-3D46CF7A2CD1": {
+              "hash": "9a55ae5eb6aefe66ae9dd8bc1b369f5260a16279",
+              "name": "Text / Button / Medium / Right / Light Grey"
+            },
+            "79E867BB-AF7B-4E90-90EE-129F60A79FDB": {
+              "hash": "81216232ecee1cd6a990c76da8b6cdb590d7fa76",
+              "name": "Mockup / _Assets / iPhone 7 / Matte Black"
+            },
+            "7AA0DB74-36A0-4C6C-A411-38125477F368": {
+              "hash": "003e71ec631a23b32d24fbc76356f8da5692c629",
+              "name": "Text / Input / Medium / Center / Red"
+            },
+            "7AD9C672-B4F2-4C02-B05A-66EEB003E8E1": {
+              "hash": "7409726ee63d0168a1faeea32731d22a5a1f3be2",
+              "name": "Text / Text Area / Left / Red"
+            },
+            "7B1A3791-5302-43E1-8AB0-DD6C04C3B464": {
+              "hash": "6a6fbedca6ab9355e2b039dd7c042df0d0dadc52",
+              "name": "Mockup / _Assets / _Overlay / Null"
+            },
+            "7B7FD789-09E3-47B6-A035-42305A65CAE7": {
+              "hash": "54acfb263999c96bc290ed895955d65acbe3413b",
+              "name": "Text / Button / Small / Left / Dark"
+            },
+            "7BD43A6B-F6C8-48AF-B3B2-88AE560E4A57": {
+              "hash": "8617abc4e029e6fec5d644eb02614c7e23a34484",
+              "name": "Mockup / Device / iPad Air"
+            },
+            "7E46A768-0077-4BE0-A056-949795E688E0": {
+              "hash": "065940adf3b04915ce682dff21260d87b33d05c2",
+              "name": "Text / Caption / Left / Dark Grey"
+            },
+            "82699489-20C2-4298-A975-A2A99C504D5B": {
+              "hash": "1100644b8c4b533e065794a5a059474438da453d",
+              "name": "Text / Button / Small / Left / Red"
+            },
+            "837CB615-56F5-4D45-A283-76F0BE2B39A5": {
+              "hash": "aeb10322c7bfa51b5ea1465ba8baffe7c74511fb",
+              "name": "Shape / Bar / Border / Basic - Radius: 4"
+            },
+            "8516BDAA-3A13-4879-A4D9-86A6FA07E5D2": {
+              "hash": "cc0050c44c95653981fc9ba6d0a49409700363a2",
+              "name": "Text / Button / Large / Center / Light Grey"
+            },
+            "8696C12C-0F0B-4AAC-9113-D5BB9B3490DE": {
+              "hash": "521e8cdf926a944ccba3fb76b485956ea9fe402b",
+              "name": "Shape / Cell Item / Middle"
+            },
+            "8764B5C9-AADF-4C8B-AB4E-0BE9959896ED": {
+              "hash": "0920416b37d8fb70c1fbaf71cf2d9e8a31a263a8",
+              "name": "Text / Input / Medium / Left / Light Grey"
+            },
+            "88039479-174D-476D-99D1-4A852B2186A2": {
+              "hash": "65e5e92b33464b4ab5f5ad1251c2cd932f37951e",
+              "name": "Text / Button / Large / Center / Grey"
+            },
+            "891B4A81-2A09-4EA1-A643-B6459B7BB9FE": {
+              "hash": "ccef510eef41dabb5f9a59fd7a228271b6900579",
+              "name": "Text / Input / Medium / Center / Green"
+            },
+            "89C3FA62-C096-4F5E-8B10-22328B9501E2": {
+              "hash": "3c34712b9c22776234a767bb8076f258193e71e0",
+              "name": "Text / Button / Small / Left / Blue"
+            },
+            "8BF7EF5D-9F52-4060-8CA3-55094BD5C834": {
+              "hash": "5516fec1464fdb70321a21a33f5006f644a3bfa9",
+              "name": "Text / Button / Large / Right / Blue"
+            },
+            "8C7376E1-2703-447B-9C50-F8DFEF409549": {
+              "hash": "e203f27312cdf9740ce01873935118cc80775097",
+              "name": "Icon / User"
+            },
+            "8CAA28E2-DC5C-4F4A-87D2-FC65B0EC47FD": {
+              "hash": "1b07217fb02d4033d4247bd9759904d3ed66f848",
+              "name": "Text / Input / Small / Center / White"
+            },
+            "8E696371-91DE-43D8-9010-555DF0463AF5": {
+              "hash": "7c6aed4cd340ab0bc9a541ead92cc560d50f54c7",
+              "name": "Mockup / _Assets / iPhone 7 / _Linear"
+            },
+            "8F4FEA94-B6C1-4F20-83EA-2BFFDFF755C1": {
+              "hash": "9e3d062aac88ef72a7d7770d54c283cd8a1d1860",
+              "name": "Text / Button / Small / Center / Dark Grey"
+            },
+            "93C4B3D0-C309-471D-8A90-CF236EAF21BB": {
+              "hash": "79cacfa75f23e72f01a9f5c527a33348a0974898",
+              "name": "Icon / Thumb down"
+            },
+            "943B9F17-B5CE-4C72-BFD0-E87C1CA706E6": {
+              "hash": "3e7d5799e61623d083c0105394c5bd9bde6a19a6",
+              "name": "Text / Caption / Left / Green"
+            },
+            "945211D9-2863-4BFE-9F09-EE09BFBB40A4": {
+              "hash": "89fcb1bddf925a72b46779fffc1f2e806d25fcf4",
+              "name": "State / Screen / Photo"
+            },
+            "95245F74-C4DD-4EAA-B407-B23E9085B765": {
+              "hash": "d0ab01ea75617e5b6f878d9518e74a3df9b90649",
+              "name": "Text / Input / Small / Left / White"
+            },
+            "965776BB-8B10-4BD8-BAD6-F74BFF51AF17": {
+              "hash": "b32493ad8a26da67fd7f9111ae1ef3692ff20888",
+              "name": "Mockup / _Assets / _Overlay / Splash (20% Opacity)"
+            },
+            "96A654E8-1706-4A08-8C0D-F4B143849064": {
+              "hash": "cedcdf6b6ea5f4190aab16dc3c8539e8e58507d6",
+              "name": "Icon / Photo"
+            },
+            "973FFD13-C494-4705-BE8A-77ED4DC7E307": {
+              "hash": "0dbda666f2dd92afdaba7d91b526ceae4da88b48",
+              "name": "State / Progress / 0%"
+            },
+            "9A27E9F1-A455-4C4B-8542-8E52D41F2848": {
+              "hash": "577aaa8ce054680dfe4c265edab88028067f5528",
+              "name": "Text / Button / Large / Right / Green"
+            },
+            "9A9DB37A-DEE2-4787-A824-B82BA2876C7A": {
+              "hash": "6aade801a5dba3f0f1c21931c76f47b10583428f",
+              "name": "Mockup / _Assets / iPhone 7 / Jet Black"
+            },
+            "9C8F3C45-A095-45DF-8444-905602F4F5C6": {
+              "hash": "5b2d32db0d32bf8983ab2cbfd435a3cad5721740",
+              "name": "Text / Input / Large / Left / Grey"
+            },
+            "9E991E20-165E-4A8D-B412-976C5514B038": {
+              "hash": "8f7592494a9e7886824e80ced2564868705528b9",
+              "name": "Text / Button / Small / Right / Green"
+            },
+            "9EF6D0FD-1121-42AF-837F-E2B7C872E549": {
+              "hash": "2485f9c05cd3074b800ad19b46631dc454ec0cf0",
+              "name": "State / Slider / _100%"
+            },
+            "A1160BE0-2458-4DFA-8A48-7BB69FE2BE8A": {
+              "hash": "738118eb780ea1dbf15894e0adbf1e201823fb16",
+              "name": "Text / Button / Large / Left / Light Grey"
+            },
+            "A1A60D75-6329-493A-9C80-0AB5FF903621": {
+              "hash": "51b78d0c33787ab16e3576a7e17a4ee29c972612",
+              "name": "Text / Input / Large / Center / Green"
+            },
+            "A398900E-0ADC-4D00-AAF5-295C5B7EC4E1": {
+              "hash": "ce996a2e71a32fa8ad1b8b8c2a69dd7391eb443d",
+              "name": "Text / Button / Small / Center / Blue"
+            },
+            "A3C30D07-4191-4947-8373-C65870F75C81": {
+              "hash": "7b9bf9b5d4a4aba619be258a01138480c2b3e269",
+              "name": "Text / Input / Medium / Left / Grey"
+            },
+            "A6571C99-A624-4275-9B4E-F63AD18A3145": {
+              "hash": "53c485df3eba15823cf2163fffb09a3ff3f19133",
+              "name": "State / Avatar / Initials"
+            },
+            "A6ACD89D-B2EB-436A-A91B-6911BBED6508": {
+              "hash": "8cc8f6cdc2952b11c10add8968c92d0651d5da88",
+              "name": "Text / Input / Small / Center / Red"
+            },
+            "A82F9411-74DF-4612-8F47-0A9BCF32A348": {
+              "hash": "9c86dc5edd3908e5b0cdbfd1cf06b3e62bb88008",
+              "name": "Text / Input / Medium / Left / Green"
+            },
+            "AC169EF4-6A87-4E8B-A064-85065A1F2FE6": {
+              "hash": "e1463d69efc33e8fdf02994e4eaec68c003bc540",
+              "name": "Text / Button / Medium / Center / Light Grey"
+            },
+            "ACBDA38A-3275-4F6E-8268-E7361825178D": {
+              "hash": "dbae0e889ae8214ad8893a364376d8434d20de2b",
+              "name": "Text / Input / Large / Left / White"
+            },
+            "AD1E9903-263D-49DF-9D68-FEDC927C1D57": {
+              "hash": "63f60d7ed32355a7f2f198481711a37795b2173b",
+              "name": "Text / Button / Medium / Center / Green"
+            },
+            "AD2A8A69-D793-4965-B989-2D2C65CDCDB0": {
+              "hash": "ee886e53fff880b5733d63ddc1f21a86fcdb56be",
+              "name": "Mockup / _Assets / iPhone 7 / Gold"
+            },
+            "ADA211E7-6BDD-4B65-AA37-EE59485D8A80": {
+              "hash": "c0b6e6856241044feaa4297214bd1e8aa44d4399",
+              "name": "Shape / Button / Fill / Left Radius: 100"
+            },
+            "AED46FBA-DBA6-468E-B207-2A7117857CEC": {
+              "hash": "f494a9a2f5a9359a822521f0b80865b425416567",
+              "name": "Text / Caption / Left / White"
+            },
+            "AF330C69-21B6-498B-BA99-CF41798F323F": {
+              "hash": "aba87ed4a68b9ebd1bc30a3a8048a793beef7638",
+              "name": "Icon / Play"
+            },
+            "B16487FE-D78C-4634-B4CA-45BB8B85F3D9": {
+              "hash": "1293fa9c5bc3b05954554e2bceb2a947e5ee5b9d",
+              "name": "Shape / Button / Border / Radius: 0"
+            },
+            "B26FD483-FD9A-451C-9783-84C4AAB14DE9": {
+              "hash": "bd5caff8ed2b2a2dbcbdeab9fd75d14351495602",
+              "name": "State / Radio / Selected"
+            },
+            "B2705FBC-8A4E-4EE7-8909-32A6CA805A75": {
+              "hash": "96d0bc4ae47d8255e55b0c9c7bd64eb78f1907c8",
+              "name": "State / Checkbox / _Indeterminate"
+            },
+            "B461EC45-9A92-45B0-A7E8-BEA1E903A23E": {
+              "hash": "72fc21d1758a171855b2709c6d17f669aae2442a",
+              "name": "Text / Button / Medium / Right / Red"
+            },
+            "B4768937-4319-4C6B-B813-24426D207E04": {
+              "hash": "c98c74c383ec8c30893333b5f2785915cd5c964f",
+              "name": "Shape / Button / Border / Basic - Radius: 100"
+            },
+            "B5A55C7F-5895-494D-A369-F48AE3B201BA": {
+              "hash": "41e702717a94644482bc8bc61d0b1931d3e712ca",
+              "name": "Icon / Send"
+            },
+            "B7284E45-DD72-4129-829A-8C86C2754E57": {
+              "hash": "fba4a343108b98a382cb30becf994495673ea4d6",
+              "name": "Text / Input / Large / Center / Red"
+            },
+            "B93BE164-15DB-47FC-B589-FC6AF851CEB3": {
+              "hash": "2fe48d9ce3b8c9567330a215442fad124a6cf27f",
+              "name": "State / Checkbox / Disabled"
+            },
+            "B9FFCED2-4AEE-4240-93B7-C3EAAC4A3AB6": {
+              "hash": "fe64d5a72c085ac95a09223f16f83ef5c784ef8c",
+              "name": "Text / Button / Small / Right / Dark"
+            },
+            "BAF14908-E391-45AF-BDC4-1421357125CF": {
+              "hash": "e07a87b70afe68fc716310bef22df1cab54b11cc",
+              "name": "State / Tab / Inactive"
+            },
+            "BB12F69E-F1FE-4604-BA9D-F171C52950F6": {
+              "hash": "02fef9a066253dd41364019a76a8241254c1254b",
+              "name": "Text / Input / Medium / Left / Blue"
+            },
+            "BDC4A64F-BA05-4359-9A4F-1A214FC5A88E": {
+              "hash": "2aa0b4760267fecbcdf1b24f5bbb05e468823736",
+              "name": "Icon / Time"
+            },
+            "C0922227-0D8D-4337-8751-779EC906BD16": {
+              "hash": "30df3e67005166e5b6d3d7f70f047a9669a4fdc3",
+              "name": "Text / Input / Large / Center / Dark"
+            },
+            "C1EDE745-C7AF-413C-B124-54909A60AD58": {
+              "hash": "e9f58593ca171e7f4ca5cb5e1fc912193aac2449",
+              "name": "Mockup / Screen"
+            },
+            "C24A5C76-F223-45AF-80E6-87CB1ED3DFB2": {
+              "hash": "d9c94f7c36c8c24c4fe3b1137a643cc978a9746f",
+              "name": "Text / Button / Large / Left / White"
+            },
+            "C2F6EFAD-ACBB-4908-BC47-86EDB492C9EC": {
+              "hash": "3d7902bad99ecf7a8fce510fbb9e01ed54f5ccb9",
+              "name": "Icon / Selector"
+            },
+            "C2FFB292-B49B-4BC1-94F0-58AD2E46B80B": {
+              "hash": "d629a3ec7b004d5a6ea04b3345602c81a8068dcc",
+              "name": "Text / Caption / Left / Grey"
+            },
+            "C31831C7-6615-4B7C-B98B-5113E17C89E7": {
+              "hash": "a48265fa02501d44d5c9ac05f54b5aee7775cf78",
+              "name": "State / Pagination / 2 Dots"
+            },
+            "C4179315-532D-4664-8E6D-D88B83E07D87": {
+              "hash": "f9300698db2d53990e24718145e0f12750c2ac2e",
+              "name": "State / Pagination / 5 Dots"
+            },
+            "C45D02B1-6246-4A22-8F8A-1420951A5A5D": {
+              "hash": "44a6b6f42877e817c4aadc442c07410e7a1f298f",
+              "name": "Shape / Button / Border / Basic - Radius: 4"
+            },
+            "C4D2312D-2570-4E57-A410-FA6E27766060": {
+              "hash": "90019403b8721cd57a4fd57fac4cc5fb8cb4895a",
+              "name": "Text / Input / Small / Left / Dark Grey"
+            },
+            "C6F68B0C-C67F-49F1-A10E-62D6055C852E": {
+              "hash": "eaaef727086d8d83c0b3ffad6bbc70e67f3c3338",
+              "name": "Text / Input / Medium / Center / Dark"
+            },
+            "C756DD7C-F850-4D38-AFBA-1C16862A746D": {
+              "hash": "a43faf6f8fbc287e024a6be2135f87755958da4e",
+              "name": "Mockup / Device / Macbook"
+            },
+            "C77854B3-BDB6-4597-A0DB-B5CDAF0290C1": {
+              "hash": "26adf44a847e9bad97638014daa15ef9c43ddf81",
+              "name": "Shape / Button / Border / Right Radius: 100"
+            },
+            "C7A20D1D-30CD-4385-9577-88869473E3EA": {
+              "hash": "837941ce0b753dd84859e47c6cf5faa8dbb5a507",
+              "name": "Text / Button / Small / Right / Red"
+            },
+            "CAA582C0-6629-475B-B273-8EDEC83470DD": {
+              "hash": "b8cf96b288cfd4741c225593d27e5e1953210de2",
+              "name": "Text / Button / Large / Right / Light Grey"
+            },
+            "CAF7DB82-8CD7-4447-8CC6-01CFCD8C618C": {
+              "hash": "2e08095b0597df6d2a9c5402076e118259aa6708",
+              "name": "Text / Button / Medium / Right / Dark"
+            },
+            "CB5B66EF-382D-4DC2-A784-862CA5025139": {
+              "hash": "869098c21e181b7d4884bd169504b2d21ab2f20d",
+              "name": "Text / Button / Large / Left / Dark Grey"
+            },
+            "CB738D37-6977-4DC9-BCDD-8CB845757F86": {
+              "hash": "f9adc4eabd8d162d2fabf1136b2395aa9580ea32",
+              "name": "Text / Input / Small / Left / Green"
+            },
+            "CC01E6CE-77CB-4914-B3B0-5B0BDB4CAF76": {
+              "hash": "c306281b52839dbeb2003f6e955e413cea343f89",
+              "name": "State / Input / Active"
+            },
+            "CC91039B-9CD0-447D-9E0B-9555ED550C68": {
+              "hash": "ad3143c8ef231be0044e4a697357b1a9fa153c3f",
+              "name": "Icon / Time"
+            },
+            "CD3C8F3F-136E-4405-B3B6-E0536DA02129": {
+              "hash": "231addb654c54fab8a370443f8cbec9d56fcf6f4",
+              "name": "Icon / Warning"
+            },
+            "CD7FE03A-A158-471A-A38F-F31356B5104E": {
+              "hash": "5f780e6bf705a62774289376119d6b15c2ac5c1c",
+              "name": "State / Button / Focus - Radius: 4"
+            },
+            "CF59650E-5911-460F-A2F1-63A1AB365B69": {
+              "hash": "e8a1e0136d31015c6d435277fa55c01db9514ff1",
+              "name": "Text / Text Area / Left / White"
+            },
+            "CF7FDE7E-D738-412C-A1A0-791070AFA62E": {
+              "hash": "86d335f7746ade470138bdfaf6dc3dcddc5b85ee",
+              "name": "Shape / Button / Border / Left Radius: 100"
+            },
+            "D05B55CB-5592-4587-B358-1191E8E64584": {
+              "hash": "3d49252799731623669390f9118135e3681b093a",
+              "name": "Mockup / Browser Frame"
+            },
+            "D0FDD52F-5669-4C92-8D80-52E918F54603": {
+              "hash": "0e1d6a9eb1adf967607849dc5d48f66addfedbae",
+              "name": "Text / Button / Medium / Center / Red"
+            },
+            "D1065543-0ED9-4000-85E9-B700CCA99AC3": {
+              "hash": "0c8f6a81569b4e900159803c8680f42c696397a4",
+              "name": "State / Button / Normal"
+            },
+            "D424D81A-05A2-453B-ADBF-47B1DE9EEE10": {
+              "hash": "a335c576f0cd4e2a8bb733b1f11b09c5ad864a62",
+              "name": "Text / Button / Large / Center / White"
+            },
+            "D6935390-2B91-400E-82C5-9B1B0D6A3E62": {
+              "hash": "109a76af255a0c6b5cdd99a0babd22230cc0474b",
+              "name": "Text / Button / Medium / Right / Dark Grey"
+            },
+            "D6B54182-4172-4746-AE53-D3CFAF769FEE": {
+              "hash": "86ba6a602b3e846d59d81f902bf5fba1f85024d9",
+              "name": "Text / Button / Medium / Left / Dark"
+            },
+            "D77B4B3D-8B55-4320-A3AC-6C1CDF5041E1": {
+              "hash": "db42dd3b9dcf54eb97ac1dad5a311b99ae371463",
+              "name": "State / Button / Hover"
+            },
+            "D80FABC2-19E3-47DB-8F24-F9B6093CADE5": {
+              "hash": "372e6fffc8723e96e5fa975b9e53197d8b0b0152",
+              "name": "Text / Button / Medium / Left / Light Grey"
+            },
+            "D97E162C-B892-4276-9AB2-E38C970126CD": {
+              "hash": "d6c6eeddfcfadf39054a5eb3f75cbf90706b924a",
+              "name": "Text / Text Area / Left / Grey"
+            },
+            "DA11F1CA-4FC1-4817-A419-117E3CD5149A": {
+              "hash": "ec4cd28574a6555141719d339d59ce27f4eabfb7",
+              "name": "Text / Text Area / Left / Dark Grey"
+            },
+            "DC27DD2C-2454-4AB7-BE96-14B8A24F0F74": {
+              "hash": "7c23527a7619990b2786aab6e7c566439181a452",
+              "name": "Mockup / _Assets / iPad Air / Gold"
+            },
+            "DCB8BDA6-5029-49CF-842B-55BD01C5AA59": {
+              "hash": "ec42283780d9bbe85af88cdd175892beca7fa40c",
+              "name": "Text / Button / Medium / Left / Grey"
+            },
+            "DCFF8B49-C0B1-464D-B84B-4C1E536ECE20": {
+              "hash": "7b65f3efda56ef8b1a23b51db868e263dd24fcd6",
+              "name": "Text / Text Area / Left / Green"
+            },
+            "DE43FE96-978B-41D9-96D0-D9F5C18818EC": {
+              "hash": "fdd63a9f0a1465e63c515af80f1d542d8874317d",
+              "name": "Mockup / _Assets / iPhone 7 / Rose Gold"
+            },
+            "DE8683CC-C84F-4F1B-A78A-2E7B1E71D386": {
+              "hash": "e91749022366fd86a5ea02b533dcbefed9da726d",
+              "name": "Text / Caption / Left / Blue"
+            },
+            "DEA009DD-2796-4ABE-848E-3854E63B5198": {
+              "hash": "6a34028095c88239753178afe67e7ee79bfd6be1",
+              "name": "Text / Input / Small / Center / Dark Grey"
+            },
+            "DF033CFA-E9E6-4EFD-A79F-7DB536A1F11B": {
+              "hash": "3a89277ffe24c7e908a0d46899066c14e405d385",
+              "name": "Text / Input / Medium / Left / Dark Grey"
+            },
+            "DF69CBC1-42F5-46A9-AC4C-8CF3435890A8": {
+              "hash": "fee451bd42e949e2128e0197eb7531a115bdb72f",
+              "name": "State / Pagination / 3 Dots"
+            },
+            "DFFB9B05-6A14-4028-830D-81E9D8697FE0": {
+              "hash": "12e2709bb45780765f6e47597d81992257a3038c",
+              "name": "State / Tab / Active"
+            },
+            "E105CC5F-820E-477B-819F-448D092F724F": {
+              "hash": "2a7cb43521c89b2bb3ffecd5a549dd32224f10c0",
+              "name": "Text / Button / Small / Right / Light Grey"
+            },
+            "E14CC4C7-BDF1-421F-83F9-1222BC8C8104": {
+              "hash": "0f2fc7b0cf5e48656a213d8a7092accea4758fbc",
+              "name": "Mockup / _Assets / iPad Air / Silver"
+            },
+            "E3697B19-A03C-4D15-88A3-7E8EDB95CEC8": {
+              "hash": "8b717e163006ef9581420fbdc9c10014f5ae7afb",
+              "name": "Icon / User"
+            },
+            "E3AF1C82-6328-4653-A9A7-05F865F4CDB5": {
+              "hash": "c0c8615324421e7bb7711ef2f0c7c70fb9c1b62a",
+              "name": "State / Input / Hover"
+            },
+            "E58BAA93-FC96-4373-A4B4-FFF652112AD1": {
+              "hash": "ac0f0a39666c034549031c5094edfe3f72a49019",
+              "name": "Icon / Volume Down"
+            },
+            "E7C63C29-C79A-4A95-93C0-3C70FC8D939E": {
+              "hash": "9d5b273af62b3cc0f2415fc58c1f994568f210d0",
+              "name": "Text / Button / Small / Left / Green"
+            },
+            "E8B20155-AB4B-4B38-9CF7-539D47E77319": {
+              "hash": "37f59860b060f0bae4a3fc1aba694941d4d84f9e",
+              "name": "Mockup / _Assets / _Overlay / Black to White"
+            },
+            "E90A63DC-12FA-43CC-A6AB-2CC39EED8826": {
+              "hash": "d8061842defdfeb179f0c40a34284be393e72905",
+              "name": "Text / Button / Large / Right / Red"
+            },
+            "E9DA5B01-6F6B-46C3-85D8-A512CE28BD28": {
+              "hash": "a452c6908eb20ba555abd2879158d8883aa869ce",
+              "name": "Text / Input / Small / Left / Grey"
+            },
+            "E9E8490D-53E0-4CEC-82DE-17C512834C38": {
+              "hash": "ca6b553b47bd91d0e849f7b4686b5e9ba2615721",
+              "name": "Mockup / _Assets / _Overlay / Splash (50% Opacity)"
+            },
+            "EB2BB2A3-6457-49B8-9DD0-D25AFBBEF717": {
+              "hash": "0b52a8b4106e9cf58e39242e61a161f101621af9",
+              "name": "Text / Button / Medium / Center / Dark Grey"
+            },
+            "EB667725-B9BB-420D-A210-F6D6E66BBFA9": {
+              "hash": "c672a3c90cb0099e663d213b42f4299db4b570ae",
+              "name": "Text / Button / Large / Center / Green"
+            },
+            "EBE05BFB-E711-45D9-8A81-7FE95B3FF83C": {
+              "hash": "9a2b12e33f67eb184d94836523f862c6f3eeed52",
+              "name": "Text / Input / Small / Left / Dark"
+            },
+            "EC2CE382-2D83-47A3-A1B9-7C6664B7ECA2": {
+              "hash": "338523352e347c0cb2a250211a16366807fd027b",
+              "name": "Shape / Button / Fill / Basic - Radius: 100"
+            },
+            "ED8236A8-FE44-4A49-B3A8-1D6E98E985C0": {
+              "hash": "36906ba929d0516bdfeb3fd9e7cb2631fb7f46ad",
+              "name": "State / Radio / Disabled"
+            },
+            "EDABB2DE-2C86-4E4B-BE52-6315C5873312": {
+              "hash": "48aaafc54b6f64ffb8e86d3cb6d70c3be49a65ea",
+              "name": "State / Progress / 75%"
+            },
+            "EF6E043B-601B-4161-A857-ADCF789D2728": {
+              "hash": "63ce32469a0653c279d82f4cd520dcf4195c83d0",
+              "name": "Text / Button / Large / Center / Blue"
+            },
+            "EFD433E3-BE7A-42CA-9BBA-BA713381F733": {
+              "hash": "0ada32f4aaa45f7d14bbb50d476244ebb0b1a565",
+              "name": "Shape / Button / Border / Left Radius: 4"
+            },
+            "EFD6CAE1-C8E1-4DF7-A018-4CE26784BDD5": {
+              "hash": "45b196bc5d2d76e1c447bfaa10874bf21f7be1b5",
+              "name": "State / Switch / OFF"
+            },
+            "F01603CC-FD02-45E9-BF74-6612C21461BD": {
+              "hash": "df9237dbb39162b211a867f0c55ebfa9d36b3e8c",
+              "name": "State / Input / Blank"
+            },
+            "F2A838B3-E124-48CA-9975-CBB085EE5448": {
+              "hash": "a77205f24f2718d14607594e65b621da57bbc7d7",
+              "name": "Icon / Upload"
+            },
+            "F399DA5D-E481-4FEE-BA69-247EA67B10F9": {
+              "hash": "d93d41ec79b408ed06b610db2e50e1cb3ee59476",
+              "name": "Text / Button / Small / Center / Green"
+            },
+            "F50F12AB-831F-4686-AA40-FE33D5C0A4A1": {
+              "hash": "78cce60e6194f3fa6a20ea8320689fd09da7e561",
+              "name": "Text / Button / Medium / Left / Dark Grey"
+            },
+            "F50FCA7C-5CFC-46FD-A758-D1FB3047F5A8": {
+              "hash": "eec94f1e92da96e931e2ee439510f406b27fe3d8",
+              "name": "State / Screen / _Frame"
+            },
+            "F68612A6-BB73-486D-8D6D-D54AE7832740": {
+              "hash": "1d30ca14b9035dc533c53c6c898d4cbf73ac2875",
+              "name": "Shape / Button / Fill / Right Radius: 4"
+            },
+            "F8CE7D15-BA92-4840-91E9-700CE71E94CD": {
+              "hash": "3337ce9fe60ad190b369f21068019dcc7ac3e550",
+              "name": "State / Progress / 50%"
+            },
+            "FA6B616A-85FA-47B4-9D91-7326418540E4": {
+              "hash": "005d1b89cee790c2239695b06e9b40c512f1a4b9",
+              "name": "State / Input / Success"
+            },
+            "FBE9E0AE-9F0C-49B8-9F55-40F7E3FB87FF": {
+              "hash": "8cac1c7da5f79cddf711148c2b4bb4ddf1fbdaed",
+              "name": "Mockup / _Assets / Macbook / Space Grey"
+            },
+            "FC607C86-C524-4ED3-8338-708F9F2918CB": {
+              "hash": "d11c5cdbd1e8be6c5d78e28c7d03150631b429b2",
+              "name": "State / Input / Disabled"
+            },
+            "FCACE276-0A0D-4B6B-853D-E1A0BAFBC62B": {
+              "hash": "ead2918e2f3a1dd6581d13e7c53c0ffd2cee1be4",
+              "name": "Text / Caption / Left / Light Grey"
+            }
+          },
+          "textStyles": {
+          }
+        },
+        "skipped": [
+        ],
+        "sync": {
+          "colors": {
+            "097E6D14-D0A1-4922-A77F-90E89F3C1260": "1F2D3D",
+            "1838A547-C86B-40EB-8ACF-2869CADD3DD7": "FFFFFF",
+            "53227210-7036-4BAE-8CD4-1EE71C202823": "778F9B",
+            "5EEABFF3-5E11-40D2-A6E6-A515EA0C759C": "FF9D41",
+            "8EF03220-C074-41AA-93BD-394E99592CEA": "13CE66",
+            "8F03FF77-3764-42D6-866E-3DEAD4CCB4FC": "000A12",
+            "9858D1B7-5417-4DA7-B8A6-5FC35F83C12D": "FFCC3D",
+            "A7CDAAB1-E803-4480-B655-0F76F5EB1113": "2D8EFF",
+            "AA22B0F9-5C56-41F4-A2C5-AC4326050493": "FF4141",
+            "BB5D1F72-5AD9-4E8A-AC5C-C2A54F10700F": "465262",
+            "DD005098-701F-437D-993D-151F688DF5FF": "B8C1CB",
+            "DEC5B382-FA01-489B-8445-35DC57EDED44": "DCEEFF"
+          },
+          "layerStyles": {
+            "07A2510C-DCAF-4D1E-A875-1098436FB52C": "D6D81BF5-4837-4EC3-9667-98D1EC0CA0E3",
+            "09638A7E-BDF0-44FB-9251-BE5AA2DD20A3": "674B6CFB-6DE1-4E0F-B3E2-A0F5D2300580",
+            "0E55540C-29D4-40D9-8063-1A7BDF8CEE52": "3914EC66-3820-400C-B115-D245E724D0F1",
+            "1B9A7DAB-EDD6-425D-AFC2-5F7859DA1857": "ACF16447-25E4-43F6-BE2B-8BC3AFC78C79",
+            "1E26BADC-78DD-434A-8E75-86C95C2AD13B": "9A3A02A6-4C43-4B4A-BB55-66EB14BED775",
+            "252BD09F-6464-4517-ADCB-5B9CCCCE80E6": "402D827F-4DE4-4533-A8DB-98659277344A",
+            "2DC39F00-1CCE-4BDE-8B44-226685EB2162": "11C100B9-81C6-4665-A434-7E858240ADE1",
+            "2DDBBB70-49C1-4FC7-909E-8381D483A117": "E061152B-D34E-452F-933B-549192BE84D1",
+            "307E32C8-7224-4286-9597-519BD8E10593": "224B5234-A86F-40A7-B58C-DCA00C5D0022",
+            "330B5E7D-A349-44DE-9C43-6BDC84E9BA87": "87B05BB7-29E2-4B0A-A545-A36E5D4A3872",
+            "33C5E1BF-D115-4F11-A3A9-4ED8CB4E1023": "D2FD6F33-9413-4049-962A-CC92DFE8EF9A",
+            "33F07EA6-8741-480B-A007-C4F48E9FFB9B": "FAD64E73-CDE9-4FE3-949C-83528AA64EA5",
+            "361AE09D-0CF4-453B-9027-D4FDD4AF9C0D": "18D74A7F-A6C5-439D-A24F-DE601666F116",
+            "3AF3C549-4E5A-421C-A375-9E994DB10B99": "961B0E7B-4AE8-4753-B901-BCC8E8A43902",
+            "40F2623B-2ADE-4C5C-82E9-8A6B7E689261": "FE165FDD-6CB0-4961-8700-DC13236565F1",
+            "50DDF93D-E5F5-4A83-A067-2F1AE75AF871": "1D62FF72-118A-4280-8CC0-AA518B9366A4",
+            "516E5F74-56CF-4827-940E-6ED1EEFAABC6": "E33C52B2-411B-4D97-9C6C-C81EBC2BE7C9",
+            "5D9D1F17-6BE9-4AE3-AC77-E56DF864409C": "EF83DE90-1CD3-408F-A9FC-69C5E8192DBA",
+            "67159E92-C4B9-4DD6-B941-8F30185AC215": "768B13CC-CC8C-4E5C-B17B-423A0A2CED1D",
+            "7567D163-A54D-47A6-A45E-B606C6CCE2F3": "30886BA1-7FA7-462B-93A3-D548CFC752DA",
+            "77577F72-61F7-4061-B113-06E8045CAE56": "9F0ECA63-5D84-453B-989F-9D3F3BC9106F",
+            "79B6F7F5-9FC3-4D11-832F-F0D2B6585CC4": "2F497774-6498-4FA0-9169-CBD5095F736E",
+            "7E2C40D2-AFE9-44B6-A720-47775260DF3E": "8DDADE76-B7E2-4DA0-8662-7622FC78E76E",
+            "8A789FBF-6DAC-4EB7-A185-90E975AEA9EB": "6B160626-EA38-4180-A2FC-902BAECA4A7B",
+            "9E796626-C9B6-4A7E-BD4B-9C32AFA29D49": "29C97583-6C66-427A-A5DA-16D305B09330",
+            "A4510EE7-8907-4DCD-BCCD-0FE1669FB285": "7506F2DB-3127-45F1-BD79-82516071B13C",
+            "A5684965-F5F1-47CD-9279-C750A8B1AA2E": "1B6C0084-1C3E-4B36-B208-00C6DAAB1BFB",
+            "A81016AF-65D2-4CE9-BF96-5463905686D8": "DC1FC3D0-9541-41BF-A515-C6D58B3B497B",
+            "A917249C-F1D9-44CC-9CDA-45B483DC7747": "0A7B4B1A-EED8-4597-9C89-447131986504",
+            "A95173D6-EB1A-4725-9ECD-E8BD9093F520": "1363BAB0-365A-4FD8-A80C-953FE221C0A0",
+            "B1AC106D-B29C-4C0C-95B7-DF5430529160": "0D8C8264-71ED-4627-A956-938A308D8BFE",
+            "B477A3CF-0478-4224-A4D2-25ACE8E612F5": "97DB3D4B-6363-42D7-9325-556292DFF480",
+            "B498854F-BECD-404E-B6BE-7266DA1D3684": "299DB667-77B1-45CA-8FCC-EA60A9559824",
+            "BF4CFDC0-1055-481E-84BF-445B6A02DC35": "F04A8D07-74A0-41CB-A81E-43CFDFE70D3D",
+            "D0E01ABB-6368-49FC-BDA0-6C1DADE69FE6": "CAED893A-89AB-4CC4-B125-FF96A18FC739",
+            "D254840A-660D-4DA5-9703-C1545F6F6E9D": "90AD1CA6-6B51-4D84-8D53-93AFF6C93E2F",
+            "D3D6BECB-6A49-4A82-98CD-72A36403E0D6": "E93034B2-1377-4BEF-BD49-17BA2F840817",
+            "D6E6ADA7-91D2-4CEA-A3D3-16ABCD950560": "4A9FD2A2-E985-433C-B9CA-B0611497E078",
+            "EAC7B0C5-A427-401A-91A4-0E5DDC7B8D00": "4764979B-C9FE-4378-90A8-2477FD834959",
+            "EF311F12-0BF4-460A-8A1E-D8D7AC6D1ACE": "ECDDED4C-58CF-4474-995C-B2A4B704C2CA",
+            "F730B34B-D89E-4FAC-92F8-0D8526A9F1C5": "972F72A5-A485-4798-8E0E-A984F397E525"
+          },
+          "layers": {
+          },
+          "symbols": {
+          },
+          "textStyles": {
+            "03D8D67B-C40E-4E6C-9BA6-8933580D495A": "4B766D4D-3921-463D-89E4-09E332CA9FCF",
+            "0649AEDF-D207-4EAB-8EDD-1C5F35EAC74B": "AB3E032D-47FE-4E37-804A-AACF9CE91E6E",
+            "06CD654C-B898-429C-8BF7-D848457C6859": "C12479F9-429A-4948-B9B7-C41BD5D84C48",
+            "06D9C6F7-B599-46E3-8A10-1A97C8379A60": "769E86A5-4900-41AB-BEB4-ED2845CB0F59",
+            "08598BCA-CC3A-465F-A98F-E4B8F96B4DCD": "53103E8C-DB67-45BA-975C-6E3369CDDFA3",
+            "0A188C22-78BD-44CF-9609-CC5A00375E4D": "994C985B-A3AB-497D-8661-63B531A8FC8F",
+            "0B1EB6D0-62BF-4ECD-BB60-E4B15932C0E6": "68536213-DFD5-4060-89A7-9E59A11EE25E",
+            "153218C8-DB0A-4CCB-A446-D07F55FDA029": "B2B9F1BC-88CE-4D95-A78F-52450BBB0569",
+            "1610A331-17D8-4973-B4FC-47CCB5CA375F": "771655A4-FDD4-46D5-8750-ED57C8994512",
+            "198BF5BE-1EFD-49DA-A33E-7FDB7FF1E20F": "B6E8F14B-0D63-4812-887F-A31CDAF918E8",
+            "1B6DC0DE-8929-4B0D-98F5-1B28236D751A": "00153AEF-6A2F-413B-B6BE-B6BBB046E36E",
+            "1BC0BB0E-7B6C-4B89-A21D-1C9E4C173EA0": "7FC58D02-D0A2-455C-A200-A72907D4116E",
+            "22AE307F-A891-419B-A8D2-BB219C4CC509": "E0BE7117-4FB2-4617-8B06-6D97C6ECB583",
+            "24ECF105-5525-4A9F-AB49-3632F9090FB6": "38194FC9-59EA-484D-ABBD-0D355EE49DB8",
+            "25170060-E0E3-43BC-9778-9A807C8CC826": "403A049D-FFC5-4843-9770-785BF0694619",
+            "2608A58F-EC78-49CF-8B3C-4BF9A0D69AAE": "D3C17D41-C4EA-489F-9EC7-BF0E5AE4A947",
+            "2C28772A-58D4-478C-8170-9E7AF5CF0A21": "D69E8327-05F0-4EEB-8D04-7D9A48690708",
+            "2EE5C4C3-8FCE-460C-A5FE-F3B7773A0620": "122C4510-1F2A-4F05-93D1-2EB5DE29A127",
+            "2FF52759-05C1-414C-A910-8175CB84CE95": "9C839B36-AE48-477F-9132-72010DF966BD",
+            "342AD9E4-B807-4E6A-B8B2-F4CE5629C7C6": "8137BEB5-E643-40E2-A73E-EE7BCBEFFC10",
+            "355C2B19-F095-44B5-85A2-FFA1B5DA5233": "8D16DF21-9CB8-4CE9-BB7E-D7F8E0D6DEAF",
+            "384376FC-87F2-47DF-A646-9B4D91BBD93A": "52F6A415-0408-48A8-9F89-59284A51649C",
+            "3A910F89-B61F-49BA-BB13-BFA81F86EE8E": "CAE81F5D-F511-4488-A292-DA5FCD20108A",
+            "3B9CFE8B-18C6-451E-972C-1DC029EC213D": "A37A4850-FADD-4484-A211-5C09666BDCD0",
+            "3F109230-6542-44C4-98EE-0EA3BA289A6C": "213D4BD5-7C59-40D5-8ACF-DD512C7B5DCC",
+            "3F66E2C5-F341-4EE1-A413-39B1354B959F": "BDAA42DC-0945-403A-85D8-7F813F8CD41A",
+            "3F717A08-19FD-41A9-B77C-9111EB95975E": "09007EC8-81BD-487E-B676-D09A5C569D5C",
+            "42F7189D-0AD8-452F-8FE9-AB67972AD847": "E26C7D9A-6B56-42A0-AFAB-48D6D9611873",
+            "459B7E47-F01C-4C39-8EA5-6B173EB4D20E": "092A3D5A-9B92-486A-AF21-306AD9BB9C7C",
+            "45AE1BB9-BFFD-4842-BA80-7782DCC69929": "FDE2D80A-49D8-43C4-85BA-A3C375E29842",
+            "4831B397-9229-4571-9169-C547AFFC92CB": "3548C131-5690-4F59-B09A-DEBEC531A9A0",
+            "4B18138E-5D44-4C91-94F6-74FC4CA06ED0": "457DFE8B-B164-4C0C-89F0-9763BEF62CD1",
+            "4D15285B-1780-441F-8ACD-412AE78D37A5": "DCA0FFDB-922F-4F87-9ADB-3CA17BA9E21C",
+            "4ECEAFAD-3C49-4B33-AF3B-428373775975": "B5937BBB-1AB4-4677-AEEA-3B1530C223B0",
+            "50750F62-AE39-4581-9D73-3AD2EC879D85": "E4ABDA02-D4A9-45BE-AAD7-06DDF0D756B4",
+            "54DC61FB-11A3-47CF-96EF-2D11EA94FB52": "423A20C2-5BC9-41C3-8C07-55B74BC1B1FB",
+            "556548FB-A0C4-405F-AE68-7486C4F00364": "314F06F7-FF3B-403C-8270-0E10236ED71D",
+            "5802A5C7-E8AD-4EBB-A7DD-89D6F4CFCD12": "5CD3ECCC-0A05-4394-AD09-EEA3E06F6C84",
+            "59DF44F0-CCEC-4A92-BCEC-71C600D839F0": "887FF1D6-A5C2-4BCB-830C-0342152F486B",
+            "5A5E58A6-B814-4D6D-8E0E-951DCC3BC0C7": "E79AFDCD-5E43-4066-B3BD-BEED8B5072AE",
+            "5B2F41FA-894B-488B-B46A-B874DA8ACD21": "3CE1B2DE-B581-4860-B80C-6F880D23D988",
+            "5D2418B8-CB94-4238-9C95-5790D87A74DE": "CCD507F7-58BC-475E-BC24-2630AEE4E60A",
+            "6211B31C-EB00-4A35-A3F8-996FB5FF4705": "EE73D23B-5484-4FEF-AC87-6330E0066AF9",
+            "63E8DAE2-035B-41D2-A9C9-15F6B5C96C6A": "E72F895C-9B83-4264-A37B-DCA581B5A704",
+            "647219DE-A2E9-4CCD-B6D1-80BD233DA447": "25FF90B8-3BDF-47F4-A58E-BA767054129C",
+            "6510C933-5D0B-47ED-BBAA-294131A9BF47": "BBDCF6A7-186C-4AD5-8587-B1F57913111D",
+            "65C43413-492C-49FA-9C42-E22636B5E598": "D6602E88-0EE3-483C-A0A4-904A0CF4DF6C",
+            "65CEE1BA-7E95-430E-8F3F-34CA27D62224": "98387FFA-5147-4600-A2A2-BEE5BF7E8EC1",
+            "66A731D3-44A0-4F5A-873E-78FC1756D433": "09891581-0E50-4E42-942A-0563D95C0F00",
+            "69C0A520-5349-41E6-A8DB-EACCF6A1DE03": "664D3B2F-3766-4474-AAF7-9BA09B4446E2",
+            "6F5553F1-7601-4C54-A23F-8E351AF446D7": "78F54A6B-D8B9-49E1-BD36-CDFD78D43D3C",
+            "702B259E-14DB-41D4-95F3-86875783639E": "F7245E6F-1D00-4751-9BA5-3E0EDF0763A3",
+            "7D82A280-1F4B-4223-B9F7-5189BF1AC5EB": "64906645-A631-4B97-A69C-9B2EA0C818D3",
+            "86D3B23B-D7DC-4E68-B073-2C3641C53CB0": "C53C60DC-E4B1-435C-9DEE-1F0C2D911636",
+            "8735C0D5-BDEA-4FC1-81AC-A3276135C3D8": "E43DAEC6-1292-4249-8B68-B72892A13A20",
+            "8872C310-3F4D-4B8C-8286-839CEB5BFC41": "A2DEDB86-FBE3-4CF3-8389-A175D0EDC381",
+            "89478E3C-9151-40BB-9CF3-0800578AFB7E": "B283FFCF-2DA2-41C0-84C4-F1CA62814D8B",
+            "90F8517D-FA0D-4FF4-8EB8-C6F2D1EF079C": "C7ED9471-9456-4DE7-AD9D-FF6D73995567",
+            "9666702E-327B-44BC-BA83-0C7AAA35A045": "B58EA10D-C1D3-488A-AEA7-D360126C5BDB",
+            "980011D0-9E9D-44F5-A502-25FC20E34242": "344758E4-2395-4C29-BD1B-5637615531CE",
+            "9B93F32F-E3CE-47B0-B1FB-204225096C12": "F80926B7-7879-4B41-A5A1-7EC13C1270D6",
+            "9C436B92-E1D2-46CD-B896-BB6621BDD147": "5B7BC455-5809-4EA3-B323-7A7428D6AA85",
+            "A33CBBF2-9873-4E54-991A-31A79D965F8D": "5BEA9495-444A-49CE-9C9B-5E1A4828FB81",
+            "A5FAAF5C-781B-4E04-8E96-9176DF8C5DA8": "0A84B359-CB27-4E7D-8B2C-204D7F98A572",
+            "A60E96B0-68BD-422E-84A9-4452A6B1052C": "EA41207A-1929-42AA-8689-E52C165BFEE0",
+            "AA25D07F-2AA9-4D01-B803-D6561823584A": "A7F8D160-1FEC-4FD4-9C23-2C99266667F9",
+            "AAC348E5-7EB8-4797-9775-515FF6860031": "6C8C4F1A-773C-44ED-ACF1-8C165FA0BFC8",
+            "ABB85B67-4E07-4E91-8FED-4F95F531095E": "EF4088DB-B172-45FD-B3CA-3D395132E3E0",
+            "AC0D46C2-4EEA-467E-A8A8-2E05C83A81AE": "CE478832-F00E-4574-A808-C4155B2C7BB3",
+            "ADCA34F8-614C-4892-A9FD-EFF87B96E2BF": "A3863FFD-6916-4CD0-B495-309CD8DEA6FF",
+            "AF1D9573-3550-4DD2-9D0F-4327AE2DC5F2": "3C42A4B5-5241-4D85-A1D3-E89A17A22344",
+            "B202DD9E-ECF3-46B1-8A73-62B70885B20F": "6BCE5198-F052-4E6C-AF74-311F0D3CF020",
+            "B2E35261-B2B1-475F-AAB6-C33F46F9765D": "1BD9DE81-DB52-4AEE-A214-FBFA7E8F2F51",
+            "B429EE70-9B15-4B9D-8ABD-8713F93E6473": "1E97AE3F-EE20-4907-8ACA-9D300270AD96",
+            "B4378A35-3450-42FA-89C2-4F7E5160014E": "1C959995-B9CA-49B8-977C-058AC840B1F5",
+            "B4BBB9B0-4A27-4F2B-8CF7-F37B9201E018": "8728F00D-77E4-4517-A2D5-80E98D20AC56",
+            "B6766156-3F34-4BD3-A7A7-0AC4F785F940": "4BBFEF49-9485-4985-8663-D0B1E807CC22",
+            "B6A53CF3-C122-4D52-B40B-3B707AF28FE8": "62A970B3-3F78-47EA-B502-B9CADDBE9B66",
+            "B7C5C1AE-BE3C-44A7-B061-9EE288E0D127": "2C1F0D3B-7C69-4358-AEE7-33CCE33AD6DD",
+            "BA4DE1A4-9098-451A-A22E-6D16E171E64A": "E6EF5D65-8DE0-4E01-80D6-CCAC130608AD",
+            "BCB4F159-F99F-47CD-8B2D-C6CD52C04BB1": "C43D3A91-30FF-4391-8BD0-4B541BC9EBF1",
+            "C23697D6-1F22-4B2C-8CDB-3B5ADE48F155": "5A86E63A-29C6-449A-845C-75417D0A33CC",
+            "C68695AA-FCB7-4962-8974-7E40CCFD3C12": "D208C426-4215-4C6D-8B12-76FC1D0F6852",
+            "C6AD4A10-2C5F-41F0-8591-7AFF61FA4C16": "4199683C-694F-423E-A1CE-E558171A76E8",
+            "C6D8AAA6-1222-4A11-BC13-075599F8144B": "10AFE9C1-721C-46D0-856F-6E7BBA41CEA1",
+            "C7451895-B8D8-4362-8A66-729A8B056D92": "A9380C50-2ABD-4E03-888F-789FD0F80466",
+            "CE2999E5-A169-4B8A-A4B5-2FB918369434": "0CCEB8BF-99FF-448F-9FEE-03656643023B",
+            "CE456C23-DF8C-409E-A6E2-E12064495040": "B65B1146-DF7E-4ADC-BACF-4A8A92F7D0A7",
+            "CF8166D9-47E7-48D7-A319-55C8BF15E6B7": "901361A0-BF5E-4689-9C5F-5753A9F0D5A0",
+            "D33F56D6-BACF-47E5-A12D-1CD9BCE6D769": "FDC8CFDB-E43C-4209-9BD0-7401C28DADA2",
+            "DA04C6FF-2E6A-4257-9E8D-C4AB5A8011B2": "CC483703-02F8-4F6C-8E6B-DE33362439DB",
+            "DAD23329-C04F-4AAF-8749-8EC6E0599C6E": "47C2FD8C-6A9E-4E31-B270-60748550EA1C",
+            "E3107721-D55D-4903-A179-F6FD90D57C74": "674FED29-7443-4924-8EA3-DB0FA1030CD7",
+            "E4C52234-A149-425E-A89F-A8D4D19AC1FC": "5AA514E7-015C-4CD7-BCAC-DAB0E1B1FF49",
+            "E7375C77-B510-46C6-8409-F5D5FFE6CB1B": "1912FD0B-D8EA-427B-91F9-F8FAFDB66D67",
+            "E7C18543-6A58-4C6E-B6F4-4E689CC25E71": "57B5E872-BC00-4A98-B5D3-7F3553767DF5",
+            "E8BA493D-7B73-4FD4-ACB2-2177AC72B4E9": "94397D26-B9AA-4915-B253-78495A498B54",
+            "EA5879D5-C0ED-41BB-B58A-514E1B18EF4E": "196ECB7B-0139-47A4-B78D-570D3D964551",
+            "EC94AF61-E6E4-4362-B949-21DE03CAB893": "CF0D31E3-EAE8-4067-B6FF-20C0AF35FC23",
+            "EEB99306-1335-49F4-A82A-23FF419AAFB8": "D250B612-1CE5-4EB5-BE78-8DB0EE7A6731",
+            "F08D103D-F28B-49B3-9586-26E4FC3E7684": "FD924155-60C9-40A8-86E2-7C7E5AF94F31",
+            "F8FD52F4-25E4-4891-89EA-C6E29264BDBA": "49A89D19-DE2E-4EE2-98F8-2567F2C34040"
+          }
+        }
+      },
+      "version": 89
+    }
+  }
+}

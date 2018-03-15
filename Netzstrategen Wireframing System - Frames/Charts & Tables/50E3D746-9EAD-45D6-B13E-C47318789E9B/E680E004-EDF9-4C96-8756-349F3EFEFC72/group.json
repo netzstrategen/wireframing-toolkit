@@ -1,0 +1,74 @@
+{
+  "_class": "group",
+  "do_objectID": "E680E004-EDF9-4C96-8756-349F3EFEFC72",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 587,
+    "width": 585,
+    "x": 70,
+    "y": 70
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "593DB3D3-0341-4972-B35B-36AA06F5CDAB"
+    },
+    {
+      "class": "group",
+      "id": "4F9E1D5E-9B86-483F-9CD3-7E92BD262B4D"
+    },
+    {
+      "class": "group",
+      "id": "F181B95D-1B62-4C42-A9FF-1B19A7790158"
+    }
+  ],
+  "name": "Gauge Meter - On White",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 585,
+            "enabled": 1,
+            "modelID": "constraint_fcac5330-861f-4405-8721-c4b2cf6d7a65",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 585
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_7bcb1064-ef57-4442-8825-3fc216564f00",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}

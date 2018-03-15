@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "7D0E33D2-EDF5-4E95-B6DA-92C638DFD5F4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 736,
+    "width": 458,
+    "x": 735,
+    "y": 89
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "082389A2-B3E3-497C-BF75-69F72687CB02"
+    },
+    {
+      "class": "text",
+      "id": "74E4411A-FB27-4719-BF27-F6EF969B90BA"
+    },
+    {
+      "class": "text",
+      "id": "6F7F35BD-5994-4C94-A21D-72F1809AFA12"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "50CFB17B-07D6-41A9-B307-33E9B7FB1B07"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C67F5096-F590-4A61-B3BB-316ECAE352AC"
+    }
+  ],
+  "name": "Blog 2",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

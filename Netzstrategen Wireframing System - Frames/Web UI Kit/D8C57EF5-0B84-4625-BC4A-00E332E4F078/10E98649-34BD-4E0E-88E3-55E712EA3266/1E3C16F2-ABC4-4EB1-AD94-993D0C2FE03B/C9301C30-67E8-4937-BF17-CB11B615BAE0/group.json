@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "C9301C30-67E8-4937-BF17-CB11B615BAE0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 27,
+    "width": 488,
+    "x": 188,
+    "y": 47
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "B1D5559E-2F68-4EE9-8C29-102D046C7F0C"
+    },
+    {
+      "class": "text",
+      "id": "3943078B-AE42-4F5F-B51E-F4209848B450"
+    },
+    {
+      "class": "text",
+      "id": "835CC287-7C7F-45FC-BE9F-10D4DFE02AF1"
+    },
+    {
+      "class": "text",
+      "id": "F71F3161-1395-434D-A40D-8E481B15366C"
+    }
+  ],
+  "name": "Menu",
+  "nameIsFixed": true,
+  "resizingConstraint": 41,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

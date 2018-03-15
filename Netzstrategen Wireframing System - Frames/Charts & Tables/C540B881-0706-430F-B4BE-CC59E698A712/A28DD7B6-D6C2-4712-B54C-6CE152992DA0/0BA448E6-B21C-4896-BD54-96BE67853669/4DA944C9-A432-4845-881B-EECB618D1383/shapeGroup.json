@@ -1,0 +1,66 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "4DA944C9-A432-4845-881B-EECB618D1383",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 194.6849542620489,
+    "width": 195,
+    "x": 195,
+    "y": 194.6849542620489
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "oval",
+      "id": "71E40260-B538-4BE2-8C35-E953A140F36C"
+    }
+  ],
+  "name": "Plot",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "2EB3BC3E-E2C5-4842-A737-219A8D30DD76"
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 194.3522,
+            "enabled": 1,
+            "modelID": "constraint_4f9bec33-e995-47de-a996-c478c69560ba",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 195
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_0b0eed03-157e-467e-a21b-9855cca2dc34",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  },
+  "windingRule": 1
+}

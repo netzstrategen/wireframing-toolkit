@@ -1,0 +1,68 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "0864D178-1622-4ECF-BFF0-4AE4ACAC246A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 24,
+    "width": 210,
+    "x": 0,
+    "y": 118
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Form / Checkbox / Basic + Description",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "46443441-188D-4807-9A2A-35975D17B92C_symbolID",
+      "value": "B7B5B059-732F-4D8B-BFB9-250C3F83613D"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "D4F6AFEC-9539-4FD6-BE53-82E0FB25CB60/69290FED-5EE4-4522-916A-AE9DF1D6C841_stringValue",
+      "value": "Hover"
+    }
+  ],
+  "overrides": {
+    "46443441-188D-4807-9A2A-35975D17B92C": {
+      "symbolID": "B7B5B059-732F-4D8B-BFB9-250C3F83613D"
+    },
+    "D4F6AFEC-9539-4FD6-BE53-82E0FB25CB60": {
+      "69290FED-5EE4-4522-916A-AE9DF1D6C841": "Hover"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "39A01A9A-F73F-479D-97CC-FAD6819197C1",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

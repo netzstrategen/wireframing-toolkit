@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "C35C4502-959B-4306-8B90-8A3EEBB2AEE2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 200,
+    "width": 360,
+    "x": 930,
+    "y": 126
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "10AC002E-0B4B-410A-90FA-0D4B760331E6"
+    },
+    {
+      "class": "text",
+      "id": "67830BDA-FD00-4E9C-BF5D-CD9F00794F85"
+    },
+    {
+      "class": "text",
+      "id": "20AC5DF9-368F-40D0-B1F8-21CE24AB4665"
+    }
+  ],
+  "name": "Pinned 2",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

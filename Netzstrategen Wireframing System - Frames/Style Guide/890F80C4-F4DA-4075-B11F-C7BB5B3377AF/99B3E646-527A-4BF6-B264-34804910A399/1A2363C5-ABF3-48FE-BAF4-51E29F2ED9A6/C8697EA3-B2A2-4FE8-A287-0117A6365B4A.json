@@ -1,0 +1,71 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "C8697EA3-B2A2-4FE8-A287-0117A6365B4A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 50,
+    "width": 162,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Button / Large / Basic  ",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "8A9B0A5E-3289-43F0-9616-80D51FBF6A58_symbolID",
+      "value": "28886670-404F-4802-BF0A-D5BBB4C9E69E"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0632D444-C564-4023-8898-4370B1ED35CA",
+      "overrideName": "E88CBCF2-5B9D-4CC1-B125-82E869F78CE1/DAAB5054-A014-495E-BDBB-2932E9625E45_symbolID",
+      "value": "AA7B4EEC-6670-4F21-A5C1-7BD403E67131"
+    }
+  ],
+  "overrides": {
+    "8A9B0A5E-3289-43F0-9616-80D51FBF6A58": {
+      "symbolID": "28886670-404F-4802-BF0A-D5BBB4C9E69E"
+    },
+    "E88CBCF2-5B9D-4CC1-B125-82E869F78CE1": {
+      "DAAB5054-A014-495E-BDBB-2932E9625E45": {
+        "symbolID": "AA7B4EEC-6670-4F21-A5C1-7BD403E67131"
+      }
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "3089ADF8-9561-40F9-83B5-171C30310E08",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "A6B259EE-1B3F-4397-A40B-7D0A84546A53",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 169,
+    "width": 158,
+    "x": 678,
+    "y": 107
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "2325853E-34F1-4D9D-A73A-DD36A14440F9"
+    },
+    {
+      "class": "text",
+      "id": "7459F414-3A1D-4F76-B4B9-6EE66E57E26A"
+    },
+    {
+      "class": "text",
+      "id": "B1F702C2-91B6-4975-83D5-F70A2971E7F3"
+    },
+    {
+      "class": "text",
+      "id": "B0C96D71-41DE-41F4-9658-22243567D1A0"
+    }
+  ],
+  "name": "Roadmap",
+  "nameIsFixed": true,
+  "resizingConstraint": 45,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

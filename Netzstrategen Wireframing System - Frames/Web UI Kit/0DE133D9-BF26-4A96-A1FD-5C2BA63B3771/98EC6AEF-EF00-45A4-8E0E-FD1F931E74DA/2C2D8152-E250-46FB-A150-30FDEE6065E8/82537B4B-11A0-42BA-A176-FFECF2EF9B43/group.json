@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "82537B4B-11A0-42BA-A176-FFECF2EF9B43",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 542,
+    "width": 555,
+    "x": 1058,
+    "y": 99
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "7F1699FF-4943-43F7-A138-4FB3083CFC4B"
+    },
+    {
+      "class": "text",
+      "id": "D403DC86-AE18-410C-87E5-6C607939B171"
+    },
+    {
+      "class": "text",
+      "id": "302E598E-1C00-46EB-BFB8-9F0F3364BD3C"
+    },
+    {
+      "class": "group",
+      "id": "C2462C42-3B67-4D57-B5C7-187E9EE6A865"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E6BBEB1A-8956-4F8A-894D-E83F2ABEF061"
+    }
+  ],
+  "name": "Card",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

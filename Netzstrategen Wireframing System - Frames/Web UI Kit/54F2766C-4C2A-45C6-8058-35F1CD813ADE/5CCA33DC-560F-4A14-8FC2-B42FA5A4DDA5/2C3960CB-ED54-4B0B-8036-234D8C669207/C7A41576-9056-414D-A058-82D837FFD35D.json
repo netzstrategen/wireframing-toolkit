@@ -1,0 +1,54 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "C7A41576-9056-414D-A058-82D837FFD35D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 62,
+    "width": 62,
+    "x": 1278,
+    "y": 29
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Data / Container / Avatar",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "5DE06A22-46BD-48AD-A909-E8474AAB9326/82CEB598-3C75-47BA-8C8B-3C21F5F1C94C_stringValue",
+      "value": "DB"
+    }
+  ],
+  "overrides": {
+    "5DE06A22-46BD-48AD-A909-E8474AAB9326": {
+      "82CEB598-3C75-47BA-8C8B-3C21F5F1C94C": "DB"
+    }
+  },
+  "resizingConstraint": 44,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "3F9B8A38-7653-48A7-A064-2D3D3B132A90",
+  "verticalSpacing": 0
+}

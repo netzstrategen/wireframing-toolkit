@@ -1,0 +1,46 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGd3hYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QIgcIDxAeHyAhIjAzOj1AREhQUVJTVFhcaGlqa2xtbm9wcnNVJG51bGzTCQoLDA0OWE5TU3RyaW5nViRjbGFzc1xOU0F0dHJpYnV0ZXOAAoAhgANaTmV3c2xldHRlctMREgoTGB1XTlMua2V5c1pOUy5vYmplY3RzpBQVFheABIAFgAaAB6QZGhscgAiADoAWgCCAH18QEE5TUGFyYWdyYXBoU3R5bGVfEB9NU0F0dHJpYnV0ZWRTdHJpbmdGb250QXR0cmlidXRlXxAqTVNBdHRyaWJ1dGVkU3RyaW5nQ29sb3JEaWN0aW9uYXJ5QXR0cmlidXRlVk5TS2VybtgKIyQlJicoKSorLC0uLy8uWk5TVGFiU3RvcHNbTlNUZXh0TGlzdHNcTlNUZXh0QmxvY2tzXxAfTlNBbGxvd3NUaWdodGVuaW5nRm9yVHJ1bmNhdGlvbl8QD05TTWF4TGluZUhlaWdodF8QD05TTWluTGluZUhlaWdodF8QEk5TV3JpdGluZ0RpcmVjdGlvboANgAmADIALEAEjQDsAAAAAAADSEgoxMqCACtI0NTY3WiRjbGFzc25hbWVYJGNsYXNzZXNeTlNNdXRhYmxlQXJyYXmjNjg5V05TQXJyYXlYTlNPYmplY3TSEgo7MqCACtISCj4yoIAK0jQ1QUJfEBdOU011dGFibGVQYXJhZ3JhcGhTdHlsZaNBQzlfEBBOU1BhcmFncmFwaFN0eWxl0gpFRkdfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AVgA/TERIKSUxPokpLgBCAEaJNToASgBOAFF8QE05TRm9udFNpemVBdHRyaWJ1dGVfEBNOU0ZvbnROYW1lQXR0cmlidXRlEBRdTXVsaS1TZW1pQm9sZNI0NVVWXxATTlNNdXRhYmxlRGljdGlvbmFyeaNVVzlcTlNEaWN0aW9uYXJ50jQ1WVpfEBBOU0ZvbnREZXNjcmlwdG9yols5XxAQTlNGb250RGVzY3JpcHRvctMREgpdYh2kXl9gYYAXgBiAGYAapGNkZWaAG4AcgB2AHoAfU3JlZFVhbHBoYVRibHVlVWdyZWVuIwAAAAAAAAAAIz/wAAAAAAAAIz+yEhISDYsOIz+kFBQUCilJ0jQ1V3GiVzkjP7dF0fFO4jvSNDV0dV8QEk5TQXR0cmlidXRlZFN0cmluZ6J2OV8QEk5TQXR0cmlidXRlZFN0cmluZ18QD05TS2V5ZWRBcmNoaXZlctF5elRyb290gAEACAARABoAIwAtADIANwBcAGIAaQByAHkAhgCIAIoAjACXAJ4ApgCxALYAuAC6ALwAvgDDAMUAxwDJAMsAzQDgAQIBLwE2AUcBUgFeAWsBjQGfAbEBxgHIAcoBzAHOAdAB2QHeAd8B4QHmAfEB+gIJAg0CFQIeAiMCJAImAisCLAIuAjMCTQJRAmQCaQKGAogCigKRApQClgKYApsCnQKfAqECtwLNAs8C3QLiAvgC/AMJAw4DIQMkAzcDPgNDA0UDRwNJA0sDUANSA1QDVgNYA1oDXgNkA2kDbwN4A4EDigOTA5gDmwOkA6kDvgPBA9YD6APrA/AAAAAAAAACAQAAAAAAAAB7AAAAAAAAAAAAAAAAAAAD8g=="
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "C901BCF9-13C7-414F-A4A6-FA0F88606467",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 27,
+    "width": 103,
+    "x": 0,
+    "y": 0
+  },
+  "glyphBounds": "{{0, 0}, {103, 23}}",
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Newsletter",
+  "nameIsFixed": false,
+  "resizingConstraint": 41,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "EE73D23B-5484-4FEF-AC87-6330E0066AF9"
+  },
+  "textBehaviour": 0
+}

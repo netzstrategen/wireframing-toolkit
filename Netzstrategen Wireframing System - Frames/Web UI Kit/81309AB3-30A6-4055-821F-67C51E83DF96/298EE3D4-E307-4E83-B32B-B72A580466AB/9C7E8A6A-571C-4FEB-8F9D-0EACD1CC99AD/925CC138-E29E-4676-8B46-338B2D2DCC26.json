@@ -1,0 +1,46 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGa2xYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QIAcIDxAgISIjJCUmJyszNDU2Nz5CTVFdXl9gYWJjZGVnVSRudWxs0wkKCwwNDlhOU1N0cmluZ1YkY2xhc3NcTlNBdHRyaWJ1dGVzgAKAH4ADbxAtAKkAIAAyADAAMQA3ACAAUgBvAGIAbwB3AG8AbABmACAAaQBuAGMALgAgAFMAaQB0AGUAbQBhAHAALgAgAFAAcgBpAHYAYQBjAHkAIAAmACAAVABlAHIAbQBz0xESChMZH1dOUy5rZXlzWk5TLm9iamVjdHOlFBUWFxiABIAFgAaAB4AIpRobHB0egAmACoALgBOAFYAeXxAoTVNBdHRyaWJ1dGVkU3RyaW5nVGV4dFRyYW5zZm9ybUF0dHJpYnV0ZVZOU0tlcm5fEB9NU0F0dHJpYnV0ZWRTdHJpbmdGb250QXR0cmlidXRlXxAQTlNQYXJhZ3JhcGhTdHlsZV8QKk1TQXR0cmlidXRlZFN0cmluZ0NvbG9yRGljdGlvbmFyeUF0dHJpYnV0ZRAAIz+3Cj1wo9cK0gooKSpfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4ASgAzTERIKLC8yoi0ugA2ADqIwMYAPgBCAEV8QE05TRm9udFNpemVBdHRyaWJ1dGVfEBNOU0ZvbnROYW1lQXR0cmlidXRlEBJeUm9ib3RvLVJlZ3VsYXLSODk6O1okY2xhc3NuYW1lWCRjbGFzc2VzXxATTlNNdXRhYmxlRGljdGlvbmFyeaM6PD1cTlNEaWN0aW9uYXJ5WE5TT2JqZWN00jg5P0BfEBBOU0ZvbnREZXNjcmlwdG9yokE9XxAQTlNGb250RGVzY3JpcHRvctZDREUKRkdISUpLTEpbTlNBbGlnbm1lbnRaTlNUYWJTdG9wc18QD05TTWluTGluZUhlaWdodF8QH05TQWxsb3dzVGlnaHRlbmluZ0ZvclRydW5jYXRpb25fEA9OU01heExpbmVIZWlnaHQQAoAAI0A4AAAAAAAAgBQQAdI4OU5PXxAXTlNNdXRhYmxlUGFyYWdyYXBoU3R5bGWjTlA9XxAQTlNQYXJhZ3JhcGhTdHlsZdMREgpSVx+kU1RVVoAWgBeAGIAZpFhZWluAGoAbgByAHYAeU3JlZFVhbHBoYVRibHVlVWdyZWVuIz/d3d3d5wd+Iz/wAAAAAAAAIz/jc3NzeaYyIz/h8fHx7nEX0jg5PGaiPD3SODloaV8QEk5TQXR0cmlidXRlZFN0cmluZ6JqPV8QEk5TQXR0cmlidXRlZFN0cmluZ18QD05TS2V5ZWRBcmNoaXZlctFtblRyb290gAEACAARABoAIwAtADIANwBaAGAAZwBwAHcAhACGAIgAigDnAO4A9gEBAQcBCQELAQ0BDwERARcBGQEbAR0BHwEhASMBTgFVAXcBigG3AbkBwgHHAeQB5gHoAe8B8gH0AfYB+QH7Af0B/wIVAisCLQI8AkECTAJVAmsCbwJ8AoUCigKdAqACswLAAswC1wLpAwsDHQMfAyEDKgMsAy4DMwNNA1EDZANrA3ADcgN0A3YDeAN9A38DgQODA4UDhwOLA5EDlgOcA6UDrgO3A8ADxQPIA80D4gPlA/oEDAQPBBQAAAAAAAACAQAAAAAAAABvAAAAAAAAAAAAAAAAAAAEFg=="
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "925CC138-E29E-4676-8B46-338B2D2DCC26",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 24,
+    "width": 385,
+    "x": 378,
+    "y": 376
+  },
+  "glyphBounds": "{{0, 4}, {384, 18}}",
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "© 2017 Robowolf inc.",
+  "nameIsFixed": false,
+  "resizingConstraint": 45,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "0CCEB8BF-99FF-448F-9FEE-03656643023B"
+  },
+  "textBehaviour": 0
+}

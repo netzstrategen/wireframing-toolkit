@@ -1,0 +1,70 @@
+{
+  "_class": "group",
+  "do_objectID": "A9864B85-664F-420F-AC5B-EB2F15A9914A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 585,
+    "width": 585,
+    "x": 788,
+    "y": 70
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "3960718F-4324-4C9A-B931-74F18E6C7F4E"
+    },
+    {
+      "class": "group",
+      "id": "B4C859C4-C55D-4140-8492-5D5DDEEB201F"
+    }
+  ],
+  "name": "Segmented Pie Chart - On Dark",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 585,
+            "enabled": 1,
+            "modelID": "constraint_1052bd99-d44e-41fc-86dd-6e4777c64ce7",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 585
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_7ccab691-5fc9-44fa-a8c0-2a7369747871",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}

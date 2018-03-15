@@ -1,0 +1,86 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "F33E5E6C-CBF3-4C41-B32A-E86A74ABBE93",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 52,
+    "width": 51.42857142857139,
+    "x": 205.7142857142857,
+    "y": 260
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Data / Cell / Calendar Date",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "74592009-99BB-4B25-8146-B50539C31819_symbolID",
+      "value": "218D52E0-89EF-4B74-9245-B4CD0E3E2A31"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "AFB09BA9-8D8F-4BAF-936C-5CA5421B4D04_stringValue",
+      "value": "4"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "512BD9A8-B9AE-425B-AE0B-6B0013838A46_symbolID",
+      "value": "218D52E0-89EF-4B74-9245-B4CD0E3E2A31"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "512BD9A8-B9AE-425B-AE0B-6B0013838A46/02F02213-0DCC-40BB-8DB5-38DA1E425330_stringValue",
+      "value": "3"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "512BD9A8-B9AE-425B-AE0B-6B0013838A46/4B65C916-DC78-4B71-B09A-4B357F6F8641_stringValue",
+      "value": "3"
+    }
+  ],
+  "overrides": {
+    "512BD9A8-B9AE-425B-AE0B-6B0013838A46": {
+      "02F02213-0DCC-40BB-8DB5-38DA1E425330": "3",
+      "4B65C916-DC78-4B71-B09A-4B357F6F8641": "3",
+      "symbolID": "218D52E0-89EF-4B74-9245-B4CD0E3E2A31"
+    },
+    "74592009-99BB-4B25-8146-B50539C31819": {
+      "symbolID": "218D52E0-89EF-4B74-9245-B4CD0E3E2A31"
+    },
+    "AFB09BA9-8D8F-4BAF-936C-5CA5421B4D04": "4"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "957AACBF-71B4-41BB-BD7A-D74B4900DE72",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

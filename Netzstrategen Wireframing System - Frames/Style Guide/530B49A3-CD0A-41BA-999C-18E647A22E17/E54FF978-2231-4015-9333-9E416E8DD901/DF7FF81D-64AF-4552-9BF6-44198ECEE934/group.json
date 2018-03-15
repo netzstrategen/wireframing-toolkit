@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "DF7FF81D-64AF-4552-9BF6-44198ECEE934",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 348,
+    "width": 300,
+    "x": 1000,
+    "y": 77
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "0C09DE5E-EDFE-4914-96EA-5BB14BEEDF02"
+    },
+    {
+      "class": "text",
+      "id": "9F93D8FC-2F0A-4D1D-BE46-7512E892286B"
+    },
+    {
+      "class": "text",
+      "id": "0C67442F-5B5E-42B0-9850-15B306BF23DC"
+    },
+    {
+      "class": "text",
+      "id": "1A57F441-6718-43C6-90D5-F9407C03926E"
+    }
+  ],
+  "name": "Snow",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

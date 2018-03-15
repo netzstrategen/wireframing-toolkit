@@ -1,0 +1,147 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "E2E885C8-2BAC-43C0-ADE3-9EC71A83B12F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 56,
+    "width": 222,
+    "x": 255,
+    "y": 246
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Form / Input / Basic + L, R.Icon",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "1983AE8C-7480-4DB7-882E-E1BDF310C158_symbolID",
+      "value": "E7D2718F-9C70-49EA-A8B3-D35590A93BE0"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "0D82DDC8-C7C2-4D43-A89E-8459371B5491_symbolID",
+      "value": "7F44D013-829D-4C0A-87BD-12C5A7A78F41"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "0D82DDC8-C7C2-4D43-A89E-8459371B5491/69290FED-5EE4-4522-916A-AE9DF1D6C841_stringValue",
+      "value": "Acitve"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "0D82DDC8-C7C2-4D43-A89E-8459371B5491/2535BBC7-CBA5-455E-BEAA-312586B49E53_stringValue",
+      "value": "Hover"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "0AE8CFDF-7952-4AEB-91E9-1EDED6B360BE_symbolID",
+      "value": "418977AD-BC90-4418-A7CB-74646FC6CF01"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "0AE8CFDF-7952-4AEB-91E9-1EDED6B360BE/7839982B-263B-435E-BCA7-516F1FE821AB_symbolID",
+      "value": "B0C77062-B2A7-49FE-BBF3-80B775914D34"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "0AE8CFDF-7952-4AEB-91E9-1EDED6B360BE/4FA2D890-B710-4649-8898-F7FE0B1B555B_symbolID",
+      "value": "B0C77062-B2A7-49FE-BBF3-80B775914D34"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "82B9655A-7911-41AE-B471-F03FFCA8EF52_symbolID",
+      "value": "3FFE8AF8-453C-4BE6-A995-073078A6B78C"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "82B9655A-7911-41AE-B471-F03FFCA8EF52/16EA128D-6EF6-47CE-91AE-7AD07CDBD0C9_symbolID",
+      "value": "B0C77062-B2A7-49FE-BBF3-80B775914D34"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "82B9655A-7911-41AE-B471-F03FFCA8EF52/7839982B-263B-435E-BCA7-516F1FE821AB_symbolID",
+      "value": "B0C77062-B2A7-49FE-BBF3-80B775914D34"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "82B9655A-7911-41AE-B471-F03FFCA8EF52/4FA2D890-B710-4649-8898-F7FE0B1B555B_symbolID",
+      "value": "B0C77062-B2A7-49FE-BBF3-80B775914D34"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "73E6CBE5-903A-49A1-A135-94FEC06F0398",
+      "overrideName": "EA951BD8-D2A2-4109-AA47-0A0A0C707667/1DADCA98-F66A-46FB-BCB6-19D9A2D7A4A3_symbolID",
+      "value": "E7D2718F-9C70-49EA-A8B3-D35590A93BE0"
+    }
+  ],
+  "overrides": {
+    "0AE8CFDF-7952-4AEB-91E9-1EDED6B360BE": {
+      "4FA2D890-B710-4649-8898-F7FE0B1B555B": {
+        "symbolID": "B0C77062-B2A7-49FE-BBF3-80B775914D34"
+      },
+      "7839982B-263B-435E-BCA7-516F1FE821AB": {
+        "symbolID": "B0C77062-B2A7-49FE-BBF3-80B775914D34"
+      },
+      "symbolID": "418977AD-BC90-4418-A7CB-74646FC6CF01"
+    },
+    "0D82DDC8-C7C2-4D43-A89E-8459371B5491": {
+      "2535BBC7-CBA5-455E-BEAA-312586B49E53": "Hover",
+      "69290FED-5EE4-4522-916A-AE9DF1D6C841": "Acitve",
+      "symbolID": "7F44D013-829D-4C0A-87BD-12C5A7A78F41"
+    },
+    "1983AE8C-7480-4DB7-882E-E1BDF310C158": {
+      "symbolID": "E7D2718F-9C70-49EA-A8B3-D35590A93BE0"
+    },
+    "82B9655A-7911-41AE-B471-F03FFCA8EF52": {
+      "16EA128D-6EF6-47CE-91AE-7AD07CDBD0C9": {
+        "symbolID": "B0C77062-B2A7-49FE-BBF3-80B775914D34"
+      },
+      "4FA2D890-B710-4649-8898-F7FE0B1B555B": {
+        "symbolID": "B0C77062-B2A7-49FE-BBF3-80B775914D34"
+      },
+      "7839982B-263B-435E-BCA7-516F1FE821AB": {
+        "symbolID": "B0C77062-B2A7-49FE-BBF3-80B775914D34"
+      },
+      "symbolID": "3FFE8AF8-453C-4BE6-A995-073078A6B78C"
+    },
+    "EA951BD8-D2A2-4109-AA47-0A0A0C707667": {
+      "1DADCA98-F66A-46FB-BCB6-19D9A2D7A4A3": {
+        "symbolID": "E7D2718F-9C70-49EA-A8B3-D35590A93BE0"
+      }
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "F2A1D205-72DC-4947-A851-8AC012A6F37A",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

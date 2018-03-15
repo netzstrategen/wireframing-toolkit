@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "34356BFA-8D85-4FB2-8F26-1991086D2EFF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 54,
+    "width": 165,
+    "x": 196,
+    "y": 299
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Button / Large / Basic  ",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "13A9B5C2-DFD9-4BF6-B9CA-7C19B03D2D28/71D93405-F376-4F3E-BF9B-1127FC101C07_stringValue",
+      "value": "Chat with us"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "11978265-45F6-4F73-86AA-F00E1C6DA84D/9124E1A1-F331-4F78-A016-CC98405D2E54_symbolID",
+      "value": "B0C77062-B2A7-49FE-BBF3-80B775914D34"
+    }
+  ],
+  "overrides": {
+    "11978265-45F6-4F73-86AA-F00E1C6DA84D": {
+      "9124E1A1-F331-4F78-A016-CC98405D2E54": {
+        "symbolID": "B0C77062-B2A7-49FE-BBF3-80B775914D34"
+      }
+    },
+    "13A9B5C2-DFD9-4BF6-B9CA-7C19B03D2D28": {
+      "71D93405-F376-4F3E-BF9B-1127FC101C07": "Chat with us"
+    }
+  },
+  "resizingConstraint": 57,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "3089ADF8-9561-40F9-83B5-171C30310E08",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "963E9B65-6CDF-4FB7-9134-E8A20A661905",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 500,
+    "width": 1440,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "D2A633FA-EEB7-47EC-9A58-6C780DB5ECEE"
+    },
+    {
+      "class": "group",
+      "id": "C183592D-5D31-49D5-8B0A-3DE60A45674F"
+    },
+    {
+      "class": "group",
+      "id": "D828EF6A-E5B4-40B3-93D1-B5586CE97274"
+    },
+    {
+      "class": "group",
+      "id": "A2B769F0-5A99-4FBC-8E8B-06C650402912"
+    },
+    {
+      "class": "text",
+      "id": "D6B43E2D-0BC7-446C-AF6E-C17331495BD0"
+    }
+  ],
+  "name": "Footers - 03",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

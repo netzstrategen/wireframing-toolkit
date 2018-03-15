@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "9DB237FB-C62C-4F88-AE61-38639760A53A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 820,
+    "width": 1440,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "90EC8DE5-652D-42C4-9727-A39DE4A5AA07"
+    },
+    {
+      "class": "group",
+      "id": "C7825A96-D7AF-4FDE-988A-C758F0DD0646"
+    },
+    {
+      "class": "group",
+      "id": "05C90A82-CB7D-458B-B79F-F24ACC85943E"
+    },
+    {
+      "class": "group",
+      "id": "6B164EDA-B345-4FF4-BB53-8D783F19E9AA"
+    },
+    {
+      "class": "group",
+      "id": "7DAED007-A46B-4FC1-95DC-84977F96733A"
+    }
+  ],
+  "name": "Team - 07",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

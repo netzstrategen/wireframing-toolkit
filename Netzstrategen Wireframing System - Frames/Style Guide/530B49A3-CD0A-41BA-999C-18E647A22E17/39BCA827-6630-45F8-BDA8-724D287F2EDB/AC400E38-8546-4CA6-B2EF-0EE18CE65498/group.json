@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "AC400E38-8546-4CA6-B2EF-0EE18CE65498",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 348,
+    "width": 300,
+    "x": 667,
+    "y": 77
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "6D43B1AE-B85C-4F14-9D41-72581BBF6A37"
+    },
+    {
+      "class": "text",
+      "id": "C2E34356-C3C0-48F1-8300-48B5B9599E8E"
+    },
+    {
+      "class": "text",
+      "id": "F7F9F330-74E0-4047-85BF-6D7FBC047F63"
+    },
+    {
+      "class": "text",
+      "id": "8D4040AA-E0B6-4A53-8891-2A11D500381C"
+    }
+  ],
+  "name": "Yellow",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

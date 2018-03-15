@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "804E027F-1618-47D2-A9FD-EF9480BA5DF5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 440,
+    "width": 480,
+    "x": 665,
+    "y": 717
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "D0323623-BF73-494C-A3C8-D4C5546C0EF0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "597D7BE6-0EFE-4D57-A28F-2042C6CF7352"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1FAA2DE2-DA4F-4304-A73A-51BFA5A76F5E"
+    }
+  ],
+  "name": "iPhone X",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

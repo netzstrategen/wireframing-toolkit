@@ -1,0 +1,59 @@
+{
+  "_class": "group",
+  "do_objectID": "64387640-3F6F-4E43-8E7E-C010C190B776",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 132,
+    "width": 70,
+    "x": 1050,
+    "y": 130
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "137C5E75-D4AA-46B7-8EE4-3029D1BC57F0"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D177D45F-21CA-4F62-B9A6-0EC08AE609F0"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "CBC92944-32C2-4334-98C2-5B089C9CF9D0"
+    }
+  ],
+  "name": "Candle",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

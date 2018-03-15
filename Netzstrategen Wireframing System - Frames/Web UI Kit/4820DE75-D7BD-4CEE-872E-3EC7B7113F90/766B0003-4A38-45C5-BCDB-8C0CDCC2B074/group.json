@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "766B0003-4A38-45C5-BCDB-8C0CDCC2B074",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 820,
+    "width": 1440,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "4224F906-05BD-4CD6-AFD4-865F0A2EF7AD"
+    },
+    {
+      "class": "group",
+      "id": "CD214D2C-A863-45D0-8379-D1F0B0E1B5EB"
+    },
+    {
+      "class": "group",
+      "id": "39BADCE7-84A9-40DA-87AA-4C46C058A283"
+    },
+    {
+      "class": "text",
+      "id": "832F5F1E-8848-4660-BB63-DEE6DDD05D5E"
+    }
+  ],
+  "name": "Ecommerce - 05",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "do_objectID": "CE293A28-E173-4F7A-9E67-2E31445FB670",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 269,
+    "width": 360,
+    "x": 150,
+    "y": 89
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "D07AD6F5-4262-4ED8-97B7-1F374A542E85"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3C6325B5-91B1-4374-BE98-68A9F3862FD9"
+    },
+    {
+      "class": "text",
+      "id": "88CE960F-151E-49D9-904C-9E9C725C87CF"
+    },
+    {
+      "class": "text",
+      "id": "BA26D9B0-F525-4F63-B698-A649B4DA5FFC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3A2C070F-B872-4D3B-88CB-B7E7D541AAD4"
+    }
+  ],
+  "name": "Blog 1",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "30A9690C-CCA4-43AD-8663-6D03BBF99E3D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 820,
+    "width": 1440,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "4C1C593A-EC64-4272-9513-FB37A0D0F8B2"
+    },
+    {
+      "class": "group",
+      "id": "131034EA-B4C6-4F70-A5B5-3BF5A6E4416F"
+    },
+    {
+      "class": "group",
+      "id": "A4E06229-AB65-4630-AA46-4B4272456E84"
+    }
+  ],
+  "name": "Ecommerce - 07",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

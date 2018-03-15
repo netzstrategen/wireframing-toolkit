@@ -1,0 +1,62 @@
+{
+  "_class": "group",
+  "do_objectID": "6B164EDA-B345-4FF4-BB53-8D783F19E9AA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 495,
+    "width": 360,
+    "x": 150,
+    "y": 230
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "89021A9A-DCD9-4D93-99B3-FA5A1D02276F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "22B41C1D-A637-4DAF-B34C-A4A9FBB79BD8"
+    },
+    {
+      "class": "text",
+      "id": "72D58011-77DC-4CED-AA76-F7464BF66AC9"
+    },
+    {
+      "class": "group",
+      "id": "24BFD27C-5381-4E8E-8406-1FC47DDBBEAA"
+    }
+  ],
+  "name": "Person 1",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.sketchapp.slinky-plugin": {
+      "hrefURL": ""
+    }
+  }
+}

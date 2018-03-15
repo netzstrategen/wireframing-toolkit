@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "do_objectID": "E5BD1F06-7C81-4439-AE6B-4171A7537F2A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 700,
+    "width": 1440,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "2E0842D4-BB1D-4531-919D-DF1818644132"
+    },
+    {
+      "class": "group",
+      "id": "C3EA2CF1-BE31-468D-B605-40EB9A3E4CAC"
+    },
+    {
+      "class": "group",
+      "id": "6522F7C4-9265-4BAB-B9AB-F53564506909"
+    },
+    {
+      "class": "group",
+      "id": "A9C1CBF5-A3C2-4C09-AF9D-CEA00DF58287"
+    },
+    {
+      "class": "text",
+      "id": "651E43DC-B26F-4F86-8272-652ADCC54B82"
+    },
+    {
+      "class": "text",
+      "id": "00FA3501-2AD1-4C3C-8F38-2D63B1ABE209"
+    }
+  ],
+  "name": "Testimonials - 05",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

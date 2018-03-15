@@ -1,0 +1,140 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "63AFE9F4-64FA-4B42-B0C1-5744F238E668",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 103,
+    "width": 222,
+    "x": 254,
+    "y": 317
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Form / Input / Basic + Label + Caption",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "808B6849-3803-4D24-A27A-EA6942657FDE/8BB46224-9D08-479E-92BD-59E30234C8C2/69290FED-5EE4-4522-916A-AE9DF1D6C841_stringValue",
+      "value": "•••••••••"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "88B05703-7EFE-4286-8441-B0381A8F3CD3/C75B4C12-7F3B-4AC6-BF5E-475449783E53_stringValue",
+      "value": "Password"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "88B05703-7EFE-4286-8441-B0381A8F3CD3/C5988472-6EF7-4933-95F3-ACD295B2ECD6_stringValue",
+      "value": "Password"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "D9B4732A-7FE9-4B7D-9DB0-F6B1C5D57B7C/C75B4C12-7F3B-4AC6-BF5E-475449783E53_stringValue",
+      "value": "Hover"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "D9B4732A-7FE9-4B7D-9DB0-F6B1C5D57B7C/C5988472-6EF7-4933-95F3-ACD295B2ECD6_stringValue",
+      "value": "Hover"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7C703096-D690-484F-9B84-0CE82ECBB746",
+      "overrideName": "808B6849-3803-4D24-A27A-EA6942657FDE_symbolID",
+      "value": "007D15C6-CA80-49F7-B2C9-9DB37FF92B24"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D8BFD4EA-8CD9-40C8-B140-7A544254EE5D",
+      "overrideName": "808B6849-3803-4D24-A27A-EA6942657FDE/BFC30615-CCC8-462E-8F3F-F55BAA78F4B1/10603354-7B99-4DD6-A66B-BA256A507BC9_symbolID",
+      "value": "B0C77062-B2A7-49FE-BBF3-80B775914D34"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D25963DB-11E1-4425-AD06-5225F5D9C8CF",
+      "overrideName": "808B6849-3803-4D24-A27A-EA6942657FDE/FFF83095-B292-4368-8FCE-B849F7D19E7B_symbolID",
+      "value": "7F44D013-829D-4C0A-87BD-12C5A7A78F41"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4007EAF0-F12D-4FEE-A1F5-3D06DF98BEC4",
+      "overrideName": "808B6849-3803-4D24-A27A-EA6942657FDE/BFC30615-CCC8-462E-8F3F-F55BAA78F4B1_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D52BBD10-0178-43A1-84A3-8795DB74C274",
+      "overrideName": "808B6849-3803-4D24-A27A-EA6942657FDE/DDC9BB41-4AAC-4C7C-AC41-5994B61CF32B_symbolID",
+      "value": "6EB587E9-9061-4265-A1C3-DDF2C9298EF6"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1E01EC22-DC2A-4723-A158-5A879BA38858",
+      "overrideName": "808B6849-3803-4D24-A27A-EA6942657FDE/FFF83095-B292-4368-8FCE-B849F7D19E7B/2535BBC7-CBA5-455E-BEAA-312586B49E53_stringValue",
+      "value": "Hover"
+    }
+  ],
+  "overrides": {
+    "808B6849-3803-4D24-A27A-EA6942657FDE": {
+      "8BB46224-9D08-479E-92BD-59E30234C8C2": {
+        "69290FED-5EE4-4522-916A-AE9DF1D6C841": "•••••••••"
+      },
+      "BFC30615-CCC8-462E-8F3F-F55BAA78F4B1": {
+        "10603354-7B99-4DD6-A66B-BA256A507BC9": {
+          "symbolID": "B0C77062-B2A7-49FE-BBF3-80B775914D34"
+        },
+        "symbolID": ""
+      },
+      "DDC9BB41-4AAC-4C7C-AC41-5994B61CF32B": {
+        "symbolID": "6EB587E9-9061-4265-A1C3-DDF2C9298EF6"
+      },
+      "FFF83095-B292-4368-8FCE-B849F7D19E7B": {
+        "2535BBC7-CBA5-455E-BEAA-312586B49E53": "Hover",
+        "symbolID": "7F44D013-829D-4C0A-87BD-12C5A7A78F41"
+      },
+      "symbolID": "007D15C6-CA80-49F7-B2C9-9DB37FF92B24"
+    },
+    "88B05703-7EFE-4286-8441-B0381A8F3CD3": {
+      "C5988472-6EF7-4933-95F3-ACD295B2ECD6": "Password",
+      "C75B4C12-7F3B-4AC6-BF5E-475449783E53": "Password"
+    },
+    "D9B4732A-7FE9-4B7D-9DB0-F6B1C5D57B7C": {
+      "C5988472-6EF7-4933-95F3-ACD295B2ECD6": "Hover",
+      "C75B4C12-7F3B-4AC6-BF5E-475449783E53": "Hover"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "53028F3D-BFDE-4C54-8466-0061E899E122",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}
