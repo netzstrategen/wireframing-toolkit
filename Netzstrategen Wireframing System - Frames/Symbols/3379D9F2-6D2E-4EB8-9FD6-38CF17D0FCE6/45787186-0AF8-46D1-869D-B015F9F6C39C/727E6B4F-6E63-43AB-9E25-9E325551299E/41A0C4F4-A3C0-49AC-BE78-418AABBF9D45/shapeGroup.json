@@ -1,8 +1,10 @@
 {
-  "_class": "group",
-  "do_objectID": "43E0CCD2-43C5-4956-BFC3-8875AFC45BAA",
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "41A0C4F4-A3C0-49AC-BE78-418AABBF9D45",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "CFC487F7-35CB-407E-9C41-CC3950E3092E",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -13,32 +15,26 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 149,
-    "width": 650,
-    "x": 70,
-    "y": 80
+    "do_objectID": "3F7D3A37-E531-4DA3-A0FD-D2A3D7CB8A4D",
+    "height": 49.68516949152539,
+    "width": 106.5936547619047,
+    "x": 0.02547619047619043,
+    "y": 0.07330508474576349
   },
   "hasClickThrough": false,
+  "hasClippingMask": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "shapeGroup",
-      "id": "E36A855C-F8BD-425F-8296-8AFD1E235415"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "8A5D02EC-5EE7-4A9F-A0F2-1A5722A0028E"
-    },
-    {
-      "class": "group",
-      "id": "11AECDE5-D172-48AF-B213-898219C4DF6E"
+      "class": "shapePath",
+      "id": "86F130A3-A2EE-4BD0-AAEF-D1F4AD2B337D"
     }
   ],
-  "name": "Logo_schwarz",
+  "name": "Clip 4",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -46,14 +42,10 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "6338F761-6659-4792-B4B0-F6FAB359EFC0",
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
   },
-  "userInfo": {
-    "com.animaapp.stc-sketch-plugin": {
-      "kModelPropertiesKey": {
-      }
-    }
-  }
+  "windingRule": 1
 }
