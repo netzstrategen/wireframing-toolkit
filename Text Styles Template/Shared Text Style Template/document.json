@@ -1,0 +1,159 @@
+{
+  "_class": "document",
+  "assets": {
+    "_class": "assetCollection",
+    "colors": [
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 1,
+        "green": 0.5573423343282008,
+        "red": 0.1776949179292929
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 1,
+        "green": 0.9332374254049446,
+        "red": 0.8627450980392157
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.2549019607843137,
+        "green": 0.2549019607843137,
+        "red": 1
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.4,
+        "green": 0.807843137254902,
+        "red": 0.0745098039215686
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.2392156862745098,
+        "green": 0.8,
+        "red": 1
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.2532946654040404,
+        "green": 0.6149800618489584,
+        "red": 1
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.07058823529,
+        "green": 0.03921568627,
+        "red": 0
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.2392156862745098,
+        "green": 0.1764705882352941,
+        "red": 0.1215686274509804
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.384313725490196,
+        "green": 0.3215686274509804,
+        "red": 0.2745098039215687
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.6078431372549019,
+        "green": 0.5607843137254902,
+        "red": 0.4666666666666667
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.796078431372549,
+        "green": 0.7568627450980392,
+        "red": 0.7215686274509804
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 1,
+        "green": 1,
+        "red": 1
+      }
+    ],
+    "gradients": [
+      {
+        "_class": "gradient",
+        "elipseLength": 1,
+        "from": "{0.5, 0}",
+        "gradientType": 0,
+        "stops": [
+          {
+            "_class": "gradientStop",
+            "color": {
+              "_class": "color",
+              "alpha": 1,
+              "blue": 0.3813633322715759,
+              "green": 0.8522508144378662,
+              "red": 0.981171190738678
+            },
+            "position": 0
+          },
+          {
+            "_class": "gradientStop",
+            "color": {
+              "_class": "color",
+              "alpha": 1,
+              "blue": 0.8410718806836971,
+              "green": 0.897006431983326,
+              "red": 0.9958014455782312
+            },
+            "position": 1
+          }
+        ],
+        "to": "{0.5, 1}"
+      }
+    ],
+    "imageCollection": {
+      "_class": "imageCollection",
+      "images": {
+      }
+    },
+    "images": [
+    ]
+  },
+  "colorSpace": 0,
+  "do_objectID": "AD5824DF-55F0-4381-8CB0-6DF8C4EA6155",
+  "foreignSymbols": [
+  ],
+  "layerSymbols": {
+    "_class": "symbolContainer",
+    "objects": [
+    ]
+  },
+  "meta": {
+    "appVersion": "49.1",
+    "build": 51147,
+    "version": 101
+  },
+  "pages": [
+    "Text Styles"
+  ],
+  "userInfo": {
+    "com.invisionlabs.sync": {
+      "metadata": "{\"hasSynced\":0,\"hasProjectIdChanged\":0,\"projectId\":0,\"publicLink\":\"\",\"resolution\":2,\"syncAll\":1}"
+    },
+    "com.lingoapp.lingo": {
+      "first_version": 89,
+      "min_version": 84,
+      "version": 89
+    }
+  }
+}

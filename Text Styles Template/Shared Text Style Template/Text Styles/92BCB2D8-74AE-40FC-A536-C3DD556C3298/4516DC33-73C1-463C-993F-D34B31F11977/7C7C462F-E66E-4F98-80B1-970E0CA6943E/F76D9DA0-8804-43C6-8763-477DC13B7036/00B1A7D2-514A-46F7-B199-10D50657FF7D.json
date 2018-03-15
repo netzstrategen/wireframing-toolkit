@@ -1,0 +1,46 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGZWZYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QHwcIDxAgISIjJCUmKjIzNDU2PUFHS1dYWVpbXF1eX2FVJG51bGzTCQoLDA0OWE5TU3RyaW5nViRjbGFzc1xOU0F0dHJpYnV0ZXOAAoAegANSSDLTERIKExkfV05TLmtleXNaTlMub2JqZWN0c6UUFRYXGIAEgAWABoAHgAilGhocHR6ACYAJgAqAEoAUgB1WTlNLZXJuXxAoTVNBdHRyaWJ1dGVkU3RyaW5nVGV4dFRyYW5zZm9ybUF0dHJpYnV0ZV8QH01TQXR0cmlidXRlZFN0cmluZ0ZvbnRBdHRyaWJ1dGVfEBBOU1BhcmFncmFwaFN0eWxlXxAqTVNBdHRyaWJ1dGVkU3RyaW5nQ29sb3JEaWN0aW9uYXJ5QXR0cmlidXRlEADSCicoKV8QGk5TRm9udERlc2NyaXB0b3JBdHRyaWJ1dGVzgBGAC9MREgorLjGiLC2ADIANoi8wgA6AD4AQXxATTlNGb250U2l6ZUF0dHJpYnV0ZV8QE05TRm9udE5hbWVBdHRyaWJ1dGUjQEAAAAAAAABWVGFob21h0jc4OTpaJGNsYXNzbmFtZVgkY2xhc3Nlc18QE05TTXV0YWJsZURpY3Rpb25hcnmjOTs8XE5TRGljdGlvbmFyeVhOU09iamVjdNI3OD4/XxAQTlNGb250RGVzY3JpcHRvcqJAPF8QEE5TRm9udERlc2NyaXB0b3LTQgpDREVGXxAfTlNBbGxvd3NUaWdodGVuaW5nRm9yVHJ1bmNhdGlvblpOU1RhYlN0b3BzEAGAE4AA0jc4SElfEBdOU011dGFibGVQYXJhZ3JhcGhTdHlsZaNISjxfEBBOU1BhcmFncmFwaFN0eWxl0xESCkxRH6RNTk9QgBWAFoAXgBikUlNUVYAZgBqAG4AcgB1TcmVkVWFscGhhVGJsdWVVZ3JlZW4jAAAAAAAAAAAjP/AAAAAAAAAjP7ISEhINiw4jP6QUFBQKKUnSNzg7YKI7PNI3OGJjXxASTlNBdHRyaWJ1dGVkU3RyaW5nomQ8XxASTlNBdHRyaWJ1dGVkU3RyaW5nXxAPTlNLZXllZEFyY2hpdmVy0WdoVHJvb3SAAQAIABEAGgAjAC0AMgA3AFkAXwBmAG8AdgCDAIUAhwCJAIwAkwCbAKYArACuALAAsgC0ALYAvAC+AMAAwgDEAMYAyADPAPoBHAEvAVwBXgFjAYABggGEAYsBjgGQAZIBlQGXAZkBmwGxAccB0AHXAdwB5wHwAgYCCgIXAiACJQI4AjsCTgJVAncCggKEAoYCiAKNAqcCqwK+AsUCygLMAs4C0ALSAtcC2QLbAt0C3wLhAuUC6wLwAvYC/wMIAxEDGgMfAyIDJwM8Az8DVANmA2kDbgAAAAAAAAIBAAAAAAAAAGkAAAAAAAAAAAAAAAAAAANw"
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "00B1A7D2-514A-46F7-B199-10D50657FF7D",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 39,
+    "width": 40,
+    "x": 0,
+    "y": 221
+  },
+  "glyphBounds": "{{2, 8}, {36, 24}}",
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "H2/Tahoma/Left/Black",
+  "nameIsFixed": false,
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "63F72887-6C2B-4D78-BAA8-CA109C8B9F54"
+  },
+  "textBehaviour": 0
+}
