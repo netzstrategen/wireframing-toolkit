@@ -1,0 +1,62 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "E2A54240-66D1-43F6-96BD-9A7328328A62",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "31051A61-8CF9-4A3A-B20E-9303F27D2138",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "83A3F323-0D8E-40F3-8CF3-A3F312C62569",
+    "height": 45,
+    "width": 172,
+    "x": 67,
+    "y": 145
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Button / Small - secondary Copy 2",
+  "nameIsFixed": false,
+  "originalObjectID": "E3466598-020B-4556-940F-423A711F8DC8",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "BD881313-ED4A-42B0-A095-AB15A29F6480_stringValue",
+      "value": "Jetzt Registrieren"
+    }
+  ],
+  "overrides": {
+    "BD881313-ED4A-42B0-A095-AB15A29F6480": "Jetzt Registrieren"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "24988F72-F911-466D-A673-11D73DE4E740",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "0101D389-B63D-4977-9F5F-A5105C818A9D",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}
