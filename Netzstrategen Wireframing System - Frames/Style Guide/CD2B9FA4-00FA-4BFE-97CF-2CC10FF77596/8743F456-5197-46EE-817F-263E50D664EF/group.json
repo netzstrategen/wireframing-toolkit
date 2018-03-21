@@ -1,0 +1,58 @@
+{
+  "_class": "group",
+  "do_objectID": "8743F456-5197-46EE-817F-263E50D664EF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D75E8CB5-EFE4-4EB2-BBDD-3C90F8238907",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "282FE411-EBF3-470D-8C1F-B2CBB4E27249",
+    "height": 268,
+    "width": 650,
+    "x": 70,
+    "y": 533
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "8C32E6D0-13DA-4B15-88CD-439478E156F8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "43381253-55B5-4456-8426-522ABCD125A2"
+    }
+  ],
+  "name": "Logos Copy",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3BF58A22-9E4F-4EA5-9322-532F2384E213",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}
